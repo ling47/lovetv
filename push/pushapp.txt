@@ -1,5 +1,5 @@
-com.cibn.tv,http://lqcdn.dangbei.net/wb/yk4-5.14.1.1-yunbo.apk,12345678,2,1012111
-com.moretv.android,http://lqcdn.dangbei.net/dsm/dsm15-3.2.1-azb.apk,456,1,1012111
+com.cibn.tv,http://lqcdn.dangbei.net/wb/yk4-5.14.1.1-yunbo.apk,123456789,2,1012111
+com.tv.kuaisou,http://lqcdn.dangbei.net/zhu/kuaisou_yunbo_.apk,123456789,0,1012111
+com.moretv.android,http://lqcdn.dangbei.net/dsm/dsm15-3.2.5.1-azb.apk,123456789,0,1012111
 com.dangbeimarket,https://raw.githubusercontent.com/ling47/lovetv/master/push/db.apk,0,0,1012111
-com.tv.kuaisou,http://lqcdn.dangbei.net/zhu/kuaisou_v2.2.4_release_bn342_xiaobai.apk,0,0,1012111
 com.dailyyoga.tv,http://lqcdn.dangbei.net/069/OnLineDangBeiExtra_release_5.0.0_20180725.apk,0,0,1012111
