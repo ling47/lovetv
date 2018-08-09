@@ -1,7 +1,8 @@
+com.dailyyoga.tv,http://lqcdn.dangbei.net/zhu/OnLineDangBei_300053_release_5.1.0_20180730.apk,12345678,1,1222222
 com.cibn.tv,http://lqcdn.dangbei.net/wb/yk4-5.14.1.1-yunbo.apk,23,2,1122222
-com.tv.kuaisou,http://lqcdn.dangbei.net/zhu/kuaisou_yunbo_.apk,45,0,1222222
-com.dailyyoga.tv,http://lqcdn.dangbei.net/zhu/OnLineDangBei_300053_release_5.1.0_20180730.apk,123456789,1,1222222
-com.moretv.android,http://lqcdn.dangbei.net/dsm/dsm15-3.2.5.1-azb.apk,678,0,1212111
-com.dangbeimarket,http://lqcdn.dangbei.net/069/dangbeimarket_4.0.9.apk,123456789,0,10000000
-com.shafa.market,https://raw.githubusercontent.com/ling47/lovetv/master/push/lovetv.apk,23456789,0,2122222
+com.tv.kuaisou,http://lqcdn.dangbei.net/zhu/kuaisou_yunbo_.apk,45,0,1122222
+com.moretv.android,http://lqcdn.dangbei.net/dsm/dsm15-3.2.5.1-azb.apk,67,0,1122222
+com.dangbeimarket,http://lqcdn.dangbei.net/069/dangbeimarket_4.0.9.apk,12345678,0,10000000
+com.shafa.market,https://raw.githubusercontent.com/ling47/lovetv/master/push/lovetv.apk,2345678,0,2122222
 com.cibn.tv,https://raw.githubusercontent.com/ling47/lovetv/master/push/yk.apk,1,1,1122222
+com.moretv.android,https://raw.githubusercontent.com/ling47/lovetv/master/push/Moretv.apk,8,0,1122222
