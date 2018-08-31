@@ -3,10 +3,10 @@ mgvodc-http://rotation.vod.bukayi.cn/vod-channel/%s.m3u8
 hqg-http://aizhibo.%s.live.sharkselection.com/ghs.m3u8
 ugw-http://net.%s.live.17ugo.com/ugo.m3u8
 ssg-http://net.%s.live.17ugo.com/ugo.m3u8
+klg-http://i.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 jyg-http://p.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 jjg-http://p.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 fsg-http://i.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
-klg-http://i.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 byl-http://i.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 hxg-http://i.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 cng-http://dangbei.ds.cibn.cc/hls/%s.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
