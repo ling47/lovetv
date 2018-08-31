@@ -6,7 +6,7 @@ ch,精选热销,0,a,0,0
 klg://2f898344b5954e1587e3b7cdaa4ed4b5
 ch,精选热销,0,b,0,0
 hqg://c01
-ch,优购物,c,ab,0,0
+ch,优购物,c,abd,0,0
 ugw://u01
 ch,快乐品质,c,bd*,0,0
 klg://2f898344b5954e1587e3b7cdaa4ed4b5
