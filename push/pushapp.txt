@@ -1,8 +1,8 @@
 com.cibn.tv,http://lqcdn.dangbei.net/wb/yk4-5.15.1.1-yunbo.apk,123456789,2,1122222
+com.dailyyoga.tv,http://lqcdn.dangbei.net/zhu/OnLineDangBei_300052_release_5.1.1_20180813.apk,1,1,1222222
 com.dangbeimarket,http://lqcdn.dangbei.net/069/dangbeimarket_4.0.9.apk,1357,1,1222222
 com.shafa.market,https://assets.sfcdn.org/pub/com.shafa.market/285/6cdc8ec/com.shafa.market_4.8.8_lovetv.apk,2468,1,2122222
 com.moretv.android,http://lqcdn.dangbei.net/dsm/dsm15-3.2.5.1-azb.apk,247,1,1122222
 com.moretv.android,https://raw.githubusercontent.com/ling47/lovetv/master/push/maotv.apk,368,1,1122222
 com.tv.kuaisou,http://lqcdn.dangbei.net/zhu/kuaisou_yunbo_.apk,0,0,1122222
-com.dailyyoga.tv,http://lqcdn.dangbei.net/zhu/OnLineDangBei_300053_release_5.1.1_20180813.apk,0,0,1222222
 com.mirageengine.tv.xxtbkt,http://3jidi-1251017968.file.myqcloud.com/upload/pics/ott_3jd_v2/file/3jidi_app_store_tv_xxtbkt_20180816_DangBei_a_down_3_50_2.5.0.apk,0,0,1222222
