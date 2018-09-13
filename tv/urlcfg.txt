@@ -3,6 +3,7 @@ ugw-http://net.%s.live.17ugo.com/ugo.m3u8
 ssg-http://net.%s.live.17ugo.com/ugo.m3u8
 klg-http://happigolive15.doulaibo.cn/live/%s.flv
 kgw-http://%s.doulaibo.cn/live/%s.flv
+czg-http://p.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 jyg-http://p.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 jjg-http://p.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 fsg-http://i.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
