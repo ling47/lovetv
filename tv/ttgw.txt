@@ -1,8 +1,8 @@
-ch,精选热销,c,*d,0,0
+ch,超值热销,c,*d,0,0
 hqg://c01
-ch,精选热销,0,a,0,0
+ch,超值热销,0,a,0,0
 jyg://e58b20ef-a12b-4028-abfa-9b890d0b4027
-ch,精选热销,0,b,0,0
+ch,超值热销,0,b,0,0
 ssg://u02
 ch,聚鲨环球精选,0,ab,0,0
 hqg://c01
@@ -14,12 +14,12 @@ ch,聚鲨国际,c,*,0,0
 hqg://c10
 ch,聚鲨生活,c,*,0,0
 hqg://c11
-ch,快乐品质,c,abd,0,0
-klg://2f898344b5954e1587e3b7cdaa4ed4b5
-ch,优购物,c,abd,0,0
-ugw://u01
 ch,家有购物,c,bd*,0,0
 jyg://e58b20ef-a12b-4028-abfa-9b890d0b4027
+ch,快乐购物,c,abd,0,0
+kgw://happigolive15,2f898344b5954e1587e3b7cdaa4ed4b5
+ch,优购物,c,abd,0,0
+ugw://u01
 ch,精选爆品,c,abd,0,0
 http://p.wheel.duolebo.com/live?p=472755ff-ddeb-4853-b3a4-25e6e7bbcc2f&c=338914494&m3u8=true
 ch,聚鲨健康,c,*,0,0
@@ -28,6 +28,8 @@ ch,聚鲨轻奢,c,*,0,0
 hqg://c17
 ch,时尚购物,c,ad,0,0
 ssg://u02
+ch,快乐精选,c,*,0,0
+kgw://happigolive20,0df4d96496e644df8660d3e8d46deff9
 ch,聚鲨畅饮,c,bd*,0,0
 hqg://c31
 ch,家有热卖,c,bd,0,0
