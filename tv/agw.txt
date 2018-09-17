@@ -17,7 +17,7 @@ hqg://c11
 ch,好享购物,c,abd,0,0
 hhg://21874_f2354771cf
 ch,快乐购物,c,abd,0,0
-kgw://happigolive15,2f898344b5954e1587e3b7cdaa4ed4b5
+klg://443ed815-8a02-437e-b620-e556386a32b1
 ch,优购物,c,ad,0,0
 ugw://u01
 ch,精选爆品,c,abd,0,0
