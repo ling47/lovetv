@@ -1,5 +1,6 @@
 hqg-http://aizhibo.%s.live.sharkselection.com/ghs.m3u8
 ugw-http://net.%s.live.17ugo.com/ugo.m3u8
+msg-http://net.%s.live.17ugo.com/ugo.m3u8
 ssg-http://net.%s.live.17ugo.com/ugo.m3u8
 klg-http://i.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 kgw-http://%s.doulaibo.cn/live/%s.flv
