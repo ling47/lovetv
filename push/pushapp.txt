@@ -1,3 +1,5 @@
+cn.cibntv.ott,http://lqcdn.dangbei.net/wb/gqys-5.3.2.2-dszb.apk,12345679,1,1122222
+cn.cibntv.ott,http://lqcdn.dangbei.net/wb/gqys-5.3.2.2-dszb.apk,8,1,0122222
 com.douyu.xl.douyutv,http://lqcdn.dangbei.net/wb/dy4-2.1.1-zb.apk,12345679,1,1122222
 com.douyu.xl.douyutv,http://lqcdn.dangbei.net/wb/dy4-2.1.1-zb.apk,8,1,0122222
 com.cibn.tv,http://lqcdn.dangbei.net/wb/yk4-6.0.2.1-yunbo.apk,12345679,2,1122222
