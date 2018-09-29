@@ -17,7 +17,7 @@ hqg://c01
 ch,优购物,c,bd,0,0
 ugw://u01
 ch,快乐购物,c,abd*,0,0
-kgw://happigolive15,2f898344b5954e1587e3b7cdaa4ed4b5
+klg://happigo34
 ch,好享购物,c,abd,0,0
 hhg://21874_f2354771cf
 ch,时尚购物,c,abd,0,0
@@ -32,7 +32,7 @@ ch,快乐精选,c,*,0,0
 kgw://happigolive20,0df4d96496e644df8660d3e8d46deff9
 ch,快乐厨房,c,d,0,0
 kgw://happigolive30,0d8f92049858452389dd7e8e4e00339b
-ch,快乐生活,c,b,0,0
+ch,快乐折么多,c,b,0,0
 kgw://happigolive25,5c0bacf761a24e35a33786d58c0463b0
 ch,好享畅销,c,*,0,0
 hxg://24cbbc53-4a31-430d-a621-ffd5f4497e66
