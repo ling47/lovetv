@@ -8,8 +8,6 @@ ch,超值热销,0,d,0,0
 jyg://e58b20ef-a12b-4028-abfa-9b890d0b4027
 ch,超值特卖,c,abd*,0,0
 czg://2ab78a1b-9f88-4505-92f8-2943c0e846bf
-ch,优购福利社,c,abd*,0,0
-ugw://u20
 ch,家有购物,c,ab,0,0
 jyg://e58b20ef-a12b-4028-abfa-9b890d0b4027
 ch,聚鲨环球精选,c,ad,0,0
@@ -28,6 +26,8 @@ ch,家家品质,c,abd,0,0
 jjg://d6a0efdb-f5ca-47f1-8ba0-d53db113b4e0
 ch,风尚品质,c,abd,0,0
 fsg://5b0f4a33-78b8-4c47-8a1a-1d107e8bb8c0
+ch,优购福利社,c,abd*,0,0
+ugw://u20
 ch,快乐精选,c,*,0,0
 kgw://happigolive20,0df4d96496e644df8660d3e8d46deff9
 ch,快乐厨房,c,d,0,0
