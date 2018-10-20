@@ -1,5 +1,5 @@
 ch,快乐购物,c,abd*,0,0
-klg://happigo34
+klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 ch,超值特卖,c,abd*,0,0
 czg://2ab78a1b-9f88-4505-92f8-2943c0e846bf
 ch,聚鲨环球精选,c,abd,0,0
@@ -14,6 +14,12 @@ ch,时尚购物,c,abd,0,0
 ssg://u02
 ch,精选爆品,c,abd*,0,0
 http://p.wheel.duolebo.com/live?p=472755ff-ddeb-4853-b3a4-25e6e7bbcc2f&c=338914494&m3u8=true
+ch,聚好货,c,*,0,0
+byl://71c6b09f-a086-4dbc-ad2b-09c4f2f267a4
+ch,购好东西,c,*,0,0
+byl://f18b4116-252a-495c-9be8-6bcab2de74f6
+ch,新品好物,c,*,0,0
+byl://2cd90d9d-1888-48ca-b12f-b555f1108219
 ch,家家品质,c,abd,0,0
 jjg://d6a0efdb-f5ca-47f1-8ba0-d53db113b4e0
 ch,风尚品质,c,abd,0,0
@@ -42,12 +48,6 @@ ch,风尚畅销,c,1,0,0
 fsg://27550a32-fd5b-495d-9272-e1863079dd3b
 ch,风尚新品,c,*,0,0
 fsg://2550941b-099d-4fa2-a8e8-a5ef9a4fc472
-ch,播亦乐优选,c,1,0,0
-byl://71c6b09f-a086-4dbc-ad2b-09c4f2f267a4
-ch,播亦乐新品,c,*,0,0
-byl://2cd90d9d-1888-48ca-b12f-b555f1108219
-ch,播亦乐精选,c,1,0,0
-byl://f18b4116-252a-495c-9be8-6bcab2de74f6
 ch,优购生活馆,0,bd*,0,0
 ugw://u13
 ch,聚鲨生活,0,*,bd,0

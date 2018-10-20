@@ -1,13 +1,14 @@
 hqg-http://aizhibo.%s.live.sharkselection.com/ghs.m3u8
 ugw-http://net.%s.live.17ugo.com/ugo.m3u8
 ssg-http://net.%s.live.17ugo.com/ugo.m3u8
-klg-http://live-hdl.duolaibo.com/dorecast1/%s.flv 
+klg-http://%s.doulaibo.cn/live/%s_trans/playlist.m3u8
 kgw-http://%s.doulaibo.cn/live/%s.flv
-czg-http://p.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
+dkl-http://i.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
+czg-http://p.wheel.duolebo.com/live?p=%s&c=421139725&m3u8=true
+byl-http://i.wheel.duolebo.com/live?p=%s&c=421139725&m3u8=true
 jyg-http://p.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 jjg-http://p.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 fsg-http://i.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
-byl-http://i.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 hxg-http://i.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 hhg-http://t03.cdn-live.duolebo.com/live/%s.m3u8
 ivi-http://ivi.bupt.edu.cn/hls/%s.m3u8
