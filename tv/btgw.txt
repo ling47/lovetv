@@ -22,6 +22,7 @@ ch,好享购物,c,abd,0,0
 hhg://21874_f2354771cf
 ch,快乐购物,c,abd,0,0
 klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
+kgw://happigolive9,8753401641f447939d371f2f8589612a
 ch,时尚名品汇,c,*,0,0
 ssg://u16
 ch,聚好货,c,*,0,0
@@ -46,14 +47,11 @@ ch,优购福利社,c,abd,0,0
 ugw://u20
 ch,快乐折么多,c,*,0,0
 kgw://happigolive25,5c0bacf761a24e35a33786d58c0463b0
+kgw://happigolive11,8e768346411648deb8825acb0fc40c55
 ch,快乐精选,c,*,0,0
 kgw://happigolive10,38363afa5ab947a2a30713b77fd6b70e
 ch,快乐厨房,c,*,0,0
 kgw://happigolive12,941dcd9266a24a99b95a3ca7063b450b
-ch,快乐折么多,c,*,0,0
-kgw://happigolive11,8e768346411648deb8825acb0fc40c55
-ch,快乐购物,c,*,0,0
-kgw://happigolive9,8753401641f447939d371f2f8589612a
 ch,快乐畅销,c,*,0,0
 dkl://acf4dbb7-66d4-4eef-91dd-555f3cc8c391
 ch,快乐上新,c,*,0,0

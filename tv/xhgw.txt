@@ -14,10 +14,12 @@ ch,优购大牌榜,c,abd*,0,0
 ugw://u17
 ch,时尚精品汇,c,*,0,0
 ssg://u16
+ch,服饰精品馆,c,abd*,0,0
+http://p.wheel.duolebo.com/live?p=8169b744-aa7f-4981-8df1-3141d32edb23&c=338914494&m3u8=true
 ch,优购福利社,c,*,0,0
 ugw://u20
 ch,快乐购物,c,abd,0,0
-klg://happigo34
+klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 ch,优购厨具街,c,abd,0,0
 ugw://u12
 ch,精选爆品,c,abd*,0,0
