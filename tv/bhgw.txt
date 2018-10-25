@@ -8,6 +8,8 @@ ch,优购物,c,abd,0,0
 ugw://u01
 ch,精选爆品,c,abd*,0,0
 http://p.wheel.duolebo.com/live?p=472755ff-ddeb-4853-b3a4-25e6e7bbcc2f&c=338914494&m3u8=true
+ch,聚好货,c,abd,0,0
+byl://71c6b09f-a086-4dbc-ad2b-09c4f2f267a4
 ch,服饰精品馆,c,abd*,0,0
 http://p.wheel.duolebo.com/live?p=8169b744-aa7f-4981-8df1-3141d32edb23&c=338914494&m3u8=true
 ch,家居精品馆,c,abd*,0,0
@@ -25,8 +27,6 @@ klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 kgw://happigolive9,8753401641f447939d371f2f8589612a
 ch,时尚名品汇,c,*,0,0
 ssg://u16
-ch,聚好货,c,*,0,0
-byl://71c6b09f-a086-4dbc-ad2b-09c4f2f267a4
 ch,购好东西,c,*,0,0
 byl://f18b4116-252a-495c-9be8-6bcab2de74f6
 ch,新品好物,c,*,0,0
