@@ -10,8 +10,6 @@ ch,优购物,c,abd,0,0
 ugw://u01
 ch,聚好货,c,abd,0,0
 byl://71c6b09f-a086-4dbc-ad2b-09c4f2f267a4
-ch,快乐购物,c,abd,0,0
-klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 ch,时尚购物,c,abd,0,0
 ssg://u02
 ch,精选爆品,c,abd*,0,0
@@ -24,6 +22,8 @@ ch,家家品质,c,abd,0,0
 jjg://d6a0efdb-f5ca-47f1-8ba0-d53db113b4e0
 ch,风尚品质,c,abd,0,0
 fsg://5b0f4a33-78b8-4c47-8a1a-1d107e8bb8c0
+ch,快乐购物,c,abd,0,0
+klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 ch,优购大牌榜,c,abd*,0,0
 ugw://u17
 ch,家居精品馆,c,abd*,0,0
