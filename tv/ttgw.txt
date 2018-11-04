@@ -30,8 +30,10 @@ ch,聚鲨轻奢,c,*,0,0
 hqg://c17
 ch,优购大牌榜,c,abd*,0,0
 ugw://u17
-ch,快乐精选,c,*,0,0
-kgw://happigolive20,0df4d96496e644df8660d3e8d46deff9
+ch,快乐淘好货,c,d,0,0
+klg://happigolive35,4d46a3751fcc48718ba29c2905a7ffba
+ch,快乐折么多,c,b,0,0
+klg://happigolive34,f783894c860b43f798b14513f47c8784
 ch,聚鲨畅饮,c,bd*,0,0
 hqg://c31
 ch,家有热卖,c,bd,0,0

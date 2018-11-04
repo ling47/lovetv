@@ -30,8 +30,10 @@ ch,时尚购物,c,abd,0,0
 ssg://u02
 ch,优购大牌榜,c,abd*,0,0
 ugw://u17
-ch,快乐厨房,c,*,0,0
-kgw://happigolive30,0d8f92049858452389dd7e8e4e00339b
+ch,快乐淘好货,c,d,0,0
+klg://happigolive35,4d46a3751fcc48718ba29c2905a7ffba
+ch,快乐折么多,c,b,0,0
+klg://happigolive34,f783894c860b43f798b14513f47c8784
 ch,聚鲨畅饮,c,*,0,0
 hqg://c31
 ch,家有热卖,c,abd,0,0

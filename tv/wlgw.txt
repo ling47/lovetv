@@ -28,12 +28,10 @@ ch,家家品质,c,abd,0,0
 jjg://d6a0efdb-f5ca-47f1-8ba0-d53db113b4e0
 ch,风尚品质,c,abd,0,0
 fsg://5b0f4a33-78b8-4c47-8a1a-1d107e8bb8c0
-ch,快乐精选,c,*,0,0
-kgw://happigolive10,38363afa5ab947a2a30713b77fd6b70e
-ch,快乐厨房,c,d,0,0
-kgw://happigolive30,0d8f92049858452389dd7e8e4e00339b
+ch,快乐淘好货,c,d,0,0
+klg://happigolive35,4d46a3751fcc48718ba29c2905a7ffba
 ch,快乐折么多,c,b,0,0
-kgw://happigolive25,5c0bacf761a24e35a33786d58c0463b0
+klg://happigolive34,f783894c860b43f798b14513f47c8784
 ch,好享畅销,c,*,0,0
 hxg://24cbbc53-4a31-430d-a621-ffd5f4497e66
 ch,好享新品,c,1,0,0
