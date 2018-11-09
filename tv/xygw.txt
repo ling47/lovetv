@@ -1,5 +1,7 @@
 ch,双十一购物,c,abd*,0,0
 ssg://u02
+ch,家家购物,c,abd*,0,0	
+jgw://b727ebe2-cca6-4e30-81f0-336c6ad80ae0
 ch,快乐购物,c,bd*,0,0
 klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 ch,环球购物,c,abd*,0,0
@@ -30,8 +32,6 @@ ch,优购厨具街,c,ab*,0,0
 ugw://u12
 ch,优购生活馆,c,ad,0,0
 ugw://u13
-ch,家家购物,c,ab*,0,0	
-jjg://b727ebe2-cca6-4e30-81f0-336c6ad80ae0
 ch,优购精品汇,c,bd,0,0
 ugw://u11
 ch,优购美食榜,c,ab,0,0
