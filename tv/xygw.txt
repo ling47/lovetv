@@ -1,4 +1,4 @@
-ch,时尚购物,c,abd*,0,0
+ch,双十一购物,c,abd*,0,0
 ssg://u02
 ch,快乐购物,c,bd*,0,0
 klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
