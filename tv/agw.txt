@@ -13,7 +13,7 @@ klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 ch,聚鲨生活,c,bd*,0,0
 hqg://c14
 ch,优购物,c,abd,0,0
-ugw://u01
+ygw://u01
 ch,家家购物,c,ab*,0,0	
 jjg://b727ebe2-cca6-4e30-81f0-336c6ad80ae0
 ch,聚鲨健康,c,ab*,0,0

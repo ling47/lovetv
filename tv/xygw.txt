@@ -7,7 +7,7 @@ hqg://c11
 ch,超值购物,c,bd*,0,0
 byl://919e4b5a-e1d4-45b1-8f94-3d2558886c1f
 ch,优购物,c,abd*,0,0
-ugw://u01
+ygw://u01
 ch,家有购物,c,abd,0,0	
 jyg://0d0501e9-5bd8-4989-9cce-af1e887b193e
 ch,聚鲨环球精选,c,abd*,0,0

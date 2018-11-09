@@ -7,7 +7,7 @@ hqg://c01
 ch,风尚购物,c,abd*,0,0
 fsg://95b100c7-1a6b-4daa-ba4c-279d79faf589
 ch,优购物,c,abd*,0,0
-ugw://u01
+ygw://u01
 ch,家有购物,c,abd*,0,0	
 jyg://0d0501e9-5bd8-4989-9cce-af1e887b193e
 ch,时尚购物,c,abd,0,0
