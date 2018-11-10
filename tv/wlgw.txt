@@ -1,6 +1,6 @@
-ch,双十一购物,c,abd,0,0
+ch,双十一购物,c,abd*,0,0
 ygw://u01
-ch,优购物,0,b*,0,0
+ch,优购物,0,b,0,0
 ugw://u17
 ch,超值购物,c,abd*,0,0
 byl://919e4b5a-e1d4-45b1-8f94-3d2558886c1f
@@ -26,8 +26,8 @@ ch,精选爆品,c,abd*,0,0
 http://ha.wheel.duolebo.com/live.m3u8?p=12d1e502-80da-46a5-ad9a-3b690d72d7ba&c=338914494&m3u8=true
 ch,风尚品质,c,abd,0,0
 fsg://95b100c7-1a6b-4daa-ba4c-279d79faf589
-ch,优购大牌榜,c,abd*,0,0
-ugw://u11
+ch,优购福利社,c,abd*,0,0
+ugw://u20
 ch,快乐折么多,c,ad*,0,0
 klg://happigolive34,f783894c860b43f798b14513f47c8784
 ch,优购生活馆,c,ab*,0,0
