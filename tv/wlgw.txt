@@ -6,7 +6,7 @@ ch,时尚购物,c,abd,0,0
 ssg://u02
 ch,购好东西,c,abd,0,0
 byl://1bb1145a-207d-4dcb-a8cc-933d7cfccb22
-ch,优购大牌榜,0,abd*,0,0
+ch,优购大牌榜,c,abd*,0,0
 ugw://u01
 ch,聚好货,c,abd,0,0
 byl://c999334f-c96f-43f5-953a-6f49f9dae570
