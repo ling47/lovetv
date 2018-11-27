@@ -12,6 +12,7 @@ ch,购好东西,c,ad,0,0
 byl://1bb1145a-207d-4dcb-a8cc-933d7cfccb22
 ch,精选爆品,c,abd*,0,0
 http://ha.wheel.duolebo.com/live.m3u8?p=12d1e502-80da-46a5-ad9a-3b690d72d7ba&c=338914494&m3u8=true
+http://p.wheel.duolebo.com/live?p=472755ff-ddeb-4853-b3a4-25e6e7bbcc2f&c=338914494&m3u8=true
 ch,聚好货,c,bd,0,0
 byl://c999334f-c96f-43f5-953a-6f49f9dae570
 ch,快乐折么多,c,ad*,0,0
