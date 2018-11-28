@@ -1,7 +1,7 @@
 ch,优购物,c,abd*,0,0
 ugw://u01
 ch,超值购物,c,abd*,0,0
-byl://919e4b5a-e1d4-45b1-8f94-3d2558886c1f
+czg://72fc3869-ad34-4841-ad01-1301c5d5e103
 ch,购好东西,0,a,0,0
 byl://1bb1145a-207d-4dcb-a8cc-933d7cfccb22
 ch,聚好货,0,b,0,0
@@ -12,6 +12,8 @@ ch,聚鲨环球精选,c,abd,0,0
 hqg://c01
 ch,快乐购物,c,bd*,0,0
 klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
+ch,家有购物,c,abd*,0,0	
+jyg://0d0501e9-5bd8-4989-9cce-af1e887b193e
 ch,优购大牌榜,c,abd*,0,0
 ugw://u17
 ch,好享购物,c,abd*,0,0	
@@ -27,8 +29,6 @@ ch,快乐品质,c,ab*,0,0
 kgw://aa5c7c86-7aca-4c62-be2d-dd4207eb39b4
 ch,优购福利社,c,abd*,0,0
 ugw://u20
-ch,家有购物,c,abd*,0,0	
-jyg://0d0501e9-5bd8-4989-9cce-af1e887b193e
 ch,优购生活馆,c,abd*,0,0
 ugw://u13
 ch,风尚品质,c,abd,0,0
