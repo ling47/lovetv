@@ -39,6 +39,8 @@ ch,优购生活馆,c,ad,0,0
 ugw://u13
 ch,优购精品汇,c,bd,0,0
 ugw://u11
+ch,快乐厨房,c,abd*,0,0
+klg://happigolive26,d97489837d5f4a4faabd18ac498ced51
 ch,优购必买好货,c,bd*,0,0
 ugw://u15
 ch,聚鲨畅饮,c,bd*,0,0

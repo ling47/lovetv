@@ -25,6 +25,8 @@ http://ha.wheel.duolebo.com/live.m3u8?p=12d1e502-80da-46a5-ad9a-3b690d72d7ba&c=3
 http://p.wheel.duolebo.com/live?p=472755ff-ddeb-4853-b3a4-25e6e7bbcc2f&c=338914494&m3u8=true
 ch,时尚名品汇,c,abd*,0,0
 ssg://u16
+ch,快乐厨房,c,abd*,0,0
+klg://happigolive26,d97489837d5f4a4faabd18ac498ced51
 ch,优购排行榜,c,abd*,0,0
 ugw://u03
 ch,快乐品质,c,ab*,0,0	

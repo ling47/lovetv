@@ -2,6 +2,7 @@ ch,超值购物,c,bd*,0,0
 czg://72fc3869-ad34-4841-ad01-1301c5d5e103
 ch,快乐购物,c,ad*,0,0
 klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
+klg://happigolive11,8e768346411648deb8825acb0fc40c55
 ch,好享购物,c,ad*,0,0	
 hxg://98c6e655-b404-49a9-b8ac-a1dea2d3de6a
 ch,快乐品质,c,ab*,0,0	
@@ -19,14 +20,13 @@ http://ha.wheel.duolebo.com/live.m3u8?p=12d1e502-80da-46a5-ad9a-3b690d72d7ba&c=3
 http://ha.wheel.duolebo.com/live.m3u8?p=12d1e502-80da-46a5-ad9a-3b690d72d7ba&c=338914494&m3u8=true
 ch,好享新品,c,bd*,0,0	
 hxg://1714f958-3c85-4f20-a4af-5d2a2212e42d
-ch,快乐畅销,c,ab*,0,0	
-kgw://95d70199-bb5e-4919-85d3-631a0790a4c1
+ch,快乐厨房,c,abd*,0,0
+klg://happigolive26,d97489837d5f4a4faabd18ac498ced51
 ch,好享畅销,c,bd,0,0	
 hxg://afe0426a-6fda-4bae-821b-79356c18a6ec
 ch,快乐淘好货,c,ab*,0,0
 klg://happigolive35,4d46a3751fcc48718ba29c2905a7ffba
-ch,快乐新品,c,ad*,0,0	
-kgw://3f6e16de-63be-48fe-894a-e5327e94c5a3
+klg://happigolive16,370065f6b4484f179d95504bb847e9bc
 ch,风尚品质,c,abd,0,0
 fsg://95b100c7-1a6b-4daa-ba4c-279d79faf589
 ch,家家购物,c,abd,0,0	

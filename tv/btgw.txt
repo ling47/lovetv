@@ -37,6 +37,8 @@ ch,风尚品质,c,abd,0,0
 fsg://95b100c7-1a6b-4daa-ba4c-279d79faf589
 ch,优购美食榜,c,ad,0,0
 ugw://u14
+ch,快乐厨房,c,abd*,0,0
+klg://happigolive26,d97489837d5f4a4faabd18ac498ced51
 ch,优购必买好货,c,ab,0,0
 ugw://u15
 ch,家家购物,c,ad*,0,0	

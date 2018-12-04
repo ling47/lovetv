@@ -33,6 +33,8 @@ hxg://98c6e655-b404-49a9-b8ac-a1dea2d3de6a
 ch,精选爆品,c,abd*,0,0
 http://ha.wheel.duolebo.com/live.m3u8?p=12d1e502-80da-46a5-ad9a-3b690d72d7ba&c=338914494&m3u8=true
 http://p.wheel.duolebo.com/live?p=472755ff-ddeb-4853-b3a4-25e6e7bbcc2f&c=338914494&m3u8=true
+ch,快乐厨房,c,abd*,0,0
+klg://happigolive26,d97489837d5f4a4faabd18ac498ced51
 ch,家居精品馆,c,abd*,0,0
 http://p.wheel.duolebo.com/live?p=85ed8dba-d578-419c-8dca-71feba63b44c&c=338914494&m3u8=true
 ch,家家购物,c,abd*,0,0	
