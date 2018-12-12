@@ -10,6 +10,8 @@ jjg-http://ha.wheel.duolebo.com/live.m3u8?p=%s&c=338914494&m3u8=true
 fsg-http://ha.wheel.duolebo.com/live.m3u8?p=%s&c=338914494&m3u8=true
 hxg-http://ha.wheel.duolebo.com/live.m3u8?p=%s&c=338914494&m3u8=true
 zsg-http://ha.wheel.duolebo.com/live.m3u8?p=%s&c=338914494&m3u8=true
+igw-http://i.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
+pgw-http://p.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 ivi-http://ivi.bupt.edu.cn/hls/%s.m3u8
 fj-http://livechina.cntv.wscdns.com:8000/live/flv/%s
 ybs-http://223.82.250.72/ysten-bussiness/live/%s/1.m3u8

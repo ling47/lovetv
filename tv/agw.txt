@@ -15,9 +15,14 @@ ch,优购大牌榜,c,abd*,0,0
 ugw://u17
 ch,家有购物,c,abd*,0,0	
 jyg://0d0501e9-5bd8-4989-9cce-af1e887b193e
+igw://e267abf3-f68e-4036-99c6-55388c92473c#jyg
+jyg://b727ebe2-cca6-4e30-81f0-336c6ad80ae0
+pgw://c17a57c4-7149-4dac-9afb-9332311421b3#jyg
+http://t.cdn-wheel01.duolebo.com/hls/d21b53be-8164-4890-984c-d7a83d5ecf00_1300.m3u8#jyg
 ch,快乐厨房,c,abd*,0,0
 klg://happigolive26,d97489837d5f4a4faabd18ac498ced51
 ch,家家购物,c,abd*,0,0	
+jjg://e15b0008-f6b9-4e44-92c8-83d3dacb3d48
 http://t06.cdn-live.duolebo.com/live/21874_0d5354db50.m3u8#jjg
 jjg://b727ebe2-cca6-4e30-81f0-336c6ad80ae0
 ch,优购福利社,c,abd*,0,0
@@ -36,7 +41,10 @@ klg://happigolive16,370065f6b4484f179d95504bb847e9bc
 ch,优购生活馆,c,abd*,0,0
 ugw://u13
 ch,好享购物,c,abd*,0,0	
+http://ott1810160101.hxgwott.com/hxg/bzw1.m3u8#hxg
 hxg://98c6e655-b404-49a9-b8ac-a1dea2d3de6a
+http://t03.cdn-live.duolebo.com/live/21874_f2354771cf.m3u8#hxg
+http://ottdjkzd.hxgwott.com/hxg/djk.m3u8#hxg
 ch,优购必买好货,c,abd*,0,0
 ugw://u15
 ch,优购厨具街,c,abd*,0,0
