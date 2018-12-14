@@ -8,13 +8,12 @@ ugw://u01
 ch,家有购物,c,abd*,0,0	
 jyg://0d0501e9-5bd8-4989-9cce-af1e887b193e
 igw://e267abf3-f68e-4036-99c6-55388c92473c#jyg
-jyg://b727ebe2-cca6-4e30-81f0-336c6ad80ae0
 pgw://c17a57c4-7149-4dac-9afb-9332311421b3#jyg
 http://t.cdn-wheel01.duolebo.com/hls/d21b53be-8164-4890-984c-d7a83d5ecf00_1300.m3u8#jyg
 ch,时尚购物,c,abd*,0,0
 ssg://u02
 ch,家家购物,c,abd*,0,0	
-jjg://b727ebe2-cca6-4e30-81f0-336c6ad80ae0
+igw://db8c8fac-a319-4286-b55e-9b6b4b59d195#jjg
 ch,聚鲨环球精选,c,abd*,0,0
 hqg://c01
 ch,优购大牌榜,c,abd*,0,0
