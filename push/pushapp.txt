@@ -1,3 +1,4 @@
+cn.cibntv.ott,http://lqcdn.dangbei.net/cibn/2018102epg_v5.3.4.1_53410_20181120_20233_release.apk,123456789,1,1122222
 com.moretv.android,http://lqcdn.dangbei.net/dsm/dsm15-3.2.6-azb.apk,47,1,1122222
 com.cibn.tv,http://lqcdn.dangbei.net/wb/yk4-6.8.2.1-yunbo.apk,56,2,1122222
 com.shafa.market,https://assets.sfcdn.org/pub/com.shafa.market/285/6cdc8ec/com.shafa.market_4.8.8_lovetv.apk,4,0,2122222
