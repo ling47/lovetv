@@ -2,7 +2,8 @@ ch,快乐购物,c,abd*,0,0
 klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 klg://happigolive11,8e768346411648deb8825acb0fc40c55
 ch,超值购物,c,abd*,0,0
-czg://72fc3869-ad34-4841-ad01-1301c5d5e103
+czg://4040716f-7a35-4c4c-9247-4370dc5207ba
+igw://72fc3869-ad34-4841-ad01-1301c5d5e103#czg
 ch,优购物,c,abd*,0,0
 ugw://u01
 ch,家有购物,c,abd*,0,0	

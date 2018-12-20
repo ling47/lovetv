@@ -6,7 +6,8 @@ ch,快乐购物,c,abd*,0,0
 klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 klg://happigolive11,8e768346411648deb8825acb0fc40c55
 ch,超值特卖,c,abd*,0,0
-czg://72fc3869-ad34-4841-ad01-1301c5d5e103
+czg://4040716f-7a35-4c4c-9247-4370dc5207ba
+igw://72fc3869-ad34-4841-ad01-1301c5d5e103#czg
 ch,精选爆品,c,abd*,0,0
 http://hb.wheel.duolebo.com/live.m3u8?p=0429ff98-2f2f-48cd-ae3e-55f876b3c5b9&c=338914494&m3u8=true
 http://p.wheel.duolebo.com/live?p=472755ff-ddeb-4853-b3a4-25e6e7bbcc2f&c=338914494&m3u8=true
