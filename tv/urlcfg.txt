@@ -15,6 +15,10 @@ pgw-http://p.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 ivi-http://ivi.bupt.edu.cn/hls/%s.m3u8
 fj-http://livechina.cntv.wscdns.com:8000/live/flv/%s
 ybs-http://223.82.250.72/ysten-bussiness/live/%s/1.m3u8
+lvgitv-http://223.110.242.130:6610/gitv/live1/%s/1.m3u8
+yqdtv-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=%s&playtoken=ABCDEFGH&auth=no
+lvitv-http://gslbserv.itv.cmvideo.cn:80/000000001000/%s/1.m3u8?channel-id=ystenlive&Contentid=%s&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=%s&owchid=ystenlive&owsid=%s
+lvlive-http://59.46.18.134:8114/Fsv_otype=1?FvSeid=5bf181c25f226bb2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=%s&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 lvzb-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=%s
 lvtv-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_cid=&Fsv_chan_hls_se_idx=%s&Fsv_ctype=LIVES&version=&Fsv_rate_id=&Fsv_otype=&FvSeid=&Pcontent_id=&Provider_id=&Fsv_filetype=&Fsv_ShiftEnable=&Fsv_SV_PARAM1=&Fsv_ShiftTsp=&Fsv_CMSID=&AuthInfo
 qqtv-http://info.zb.qq.com/?cnlid=%s&host=qq.com&cmd=2&qq=0&guid=63929914d4368f22d74e018d9243241d&txvjsv=2.0&stream=2&debug=&ip=&system=2&sdtfrom=313
