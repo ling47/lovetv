@@ -42,6 +42,10 @@ http://p.wheel.duolebo.com/live?p=85ed8dba-d578-419c-8dca-71feba63b44c&c=3389144
 ch,家有新品,c,*,0,0
 jyg://0b351f29-7e3d-487f-bdaa-c7e0292c24bd
 pgw://dc7a5f41-14e2-4ca5-8cea-4fd6a44892e5#jyg
+ch,好享优选,c,*,0,0	
+http://ott1810160101.hxgwott.com/hxg/bzw1.m3u8#hyx
+http://t03.cdn-live.duolebo.com/live/21874_f2354771cf.m3u8#hyx
+http://ottdjkzd.hxgwott.com/hxg/djk.m3u8#hyx
 ch,家家购物,c,abd,0,0
 jjg://7eecbb1b-f933-4ba3-bf40-6b351d0c0d42
 igw://db8c8fac-a319-4286-b55e-9b6b4b59d195#jjg
@@ -63,10 +67,6 @@ http://p.wheel.duolebo.com/live?p=bb6b12d8-0887-421f-843c-6b429639525b&c=3389144
 ch,家家畅销,c,*,0,0
 jjg://e130778d-bfb9-4386-a622-fd77e98b9346
 igw://48842603-fff6-4ab0-9cef-7150a399cb7b#jjg
-ch,好享优选,c,*,0,0	
-http://ott1810160101.hxgwott.com/hxg/bzw1.m3u8#hxg
-http://t03.cdn-live.duolebo.com/live/21874_f2354771cf.m3u8#hxg
-http://ottdjkzd.hxgwott.com/hxg/djk.m3u8#hxg
 ch,家家新品,c,*,0,0
 jjg://14e9e386-6c5e-4de0-b288-6b453c75c68c
 igw://dd267eee-7659-4ce6-bbb0-a75e3ad72e33#jjg
