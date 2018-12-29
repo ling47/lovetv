@@ -1,3 +1,6 @@
+ch,家家购物,c,abd*,0,0	
+jjg://7eecbb1b-f933-4ba3-bf40-6b351d0c0d42
+igw://db8c8fac-a319-4286-b55e-9b6b4b59d195#jjg
 ch,优购物,c,abd*,0,0
 ugw://u01
 ch,超值购物,c,abd*,0,0
@@ -54,9 +57,6 @@ ch,聚鲨生活,c,ab*,0,0
 hqg://c11
 ch,优购厨具街,c,abd*,0,0
 ugw://u12
-ch,家家购物,c,abd*,0,0	
-jjg://7eecbb1b-f933-4ba3-bf40-6b351d0c0d42
-igw://db8c8fac-a319-4286-b55e-9b6b4b59d195#jjg
 ch,优购精品汇,c,abd*,0,0
 ugw://u11
 ch,风尚购物,c,abd,0,0

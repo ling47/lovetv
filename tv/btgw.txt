@@ -1,3 +1,6 @@
+ch,家家购物,c,abd*,0,0	
+jjg://7eecbb1b-f933-4ba3-bf40-6b351d0c0d42
+igw://db8c8fac-a319-4286-b55e-9b6b4b59d195#jjg
 ch,快乐购物,c,abd*,0,0
 klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 klg://happigolive11,8e768346411648deb8825acb0fc40c55
@@ -43,9 +46,6 @@ ch,快乐厨房,c,abd*,0,0
 klg://happigolive26,d97489837d5f4a4faabd18ac498ced51
 ch,优购必买好货,c,ab,0,0
 ugw://u15
-ch,家家购物,c,abd*,0,0	
-jjg://7eecbb1b-f933-4ba3-bf40-6b351d0c0d42
-igw://db8c8fac-a319-4286-b55e-9b6b4b59d195#jjg
 ch,优购福利社,c,abd,0,0
 ugw://u20
 ch,家居精品馆,c,abd*,0,0
