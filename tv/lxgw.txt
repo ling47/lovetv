@@ -40,7 +40,7 @@ ch,聚鲨轻奢,c,*,0,0
 hqg://c17
 ch,好享优选,c,*,0,0	
 http://ott1810160101.hxgwott.com/hxg/bzw1.m3u8#hyx
-http://t03.cdn-live.duolebo.com/live/21874_f2354771cf.m3u8#hyx
 http://ottdjkzd.hxgwott.com/hxg/djk.m3u8#hyx
+http://t03.cdn-live.duolebo.com/live/21874_f2354771cf.m3u8#hyx
 ch,聚鲨畅饮,c,ab*,0,0
 hqg://c31
