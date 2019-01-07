@@ -13,6 +13,7 @@ ch,优购大牌榜,c,abd*,0,0
 ugw://u17
 ch,好享购物,c,abd,0,0
 hxg://e2af9518-e9e3-4d6e-8bc3-7f180f7551bd
+http://t03.cdn-live.duolebo.com/live/21874_f2354771cf.m3u8#hxg
 ch,优购福利社,c,abd*,0,0
 ugw://u20
 ch,精选爆品,c,abd*,0,0
@@ -24,9 +25,8 @@ ssg://u16
 ch,聚鲨环球精选,c,abd,0,0
 hqg://c01
 ch,好享优选,c,*,0,0	
-http://ott1810160101.hxgwott.com/hxg/bzw1.m3u8#hyx
-http://ottdjkzd.hxgwott.com/hxg/djk.m3u8#hyx
-http://t03.cdn-live.duolebo.com/live/21874_f2354771cf.m3u8#hyx
+http://ottdjkzd.hxgwott.com/hxg/djk.m3u8#hxg
+http://ott1810160101.hxgwott.com/hxg/bzw1.m3u8#hxg
 ch,优购排行榜,c,*,0,0
 ugw://u03
 ch,优购生活馆,c,*,0,0
