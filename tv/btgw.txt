@@ -27,7 +27,7 @@ ugw://u03
 ch,优购生活馆,c,*,0,0
 ugw://u13
 ch,聚鲨时尚,c,*,0,0
-hqg://c13
+http://hometv.c13.live.ottshopping.net/ghs.m3u8#hqg
 ch,优购必买好货,c,*,0,0
 ugw://u15
 ch,优购厨具街,c,*,0,0

@@ -45,7 +45,7 @@ hqg://c14
 ch,优购精品汇,c,*,0,0
 ugw://u11
 ch,聚鲨时尚,c,*,0,0
-hqg://c13
+http://hometv.c13.live.ottshopping.net/ghs.m3u8#hqg
 ch,优购美食榜,c,*,0,0
 ugw://u14
 ch,聚鲨排行榜,c,*,0,0
