@@ -1,3 +1,5 @@
+ch,聚鲨环球购物,c,abd*,0,0
+hqg://c01
 ch,快乐购物,c,abd*,0,0
 klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 klg://happigolive11,8e768346411648deb8825acb0fc40c55
@@ -21,8 +23,6 @@ igw://db8c8fac-a319-4286-b55e-9b6b4b59d195#jjg
 ch,好享购物,c,abd,0,0
 hxg://e2af9518-e9e3-4d6e-8bc3-7f180f7551bd
 http://t03.cdn-live.duolebo.com/live/21874_f2354771cf.m3u8#hxg
-ch,聚鲨环球精选,c,abd,0,0
-hqg://c01
 ch,精选爆品,c,*,0,0
 http://hb.wheel.duolebo.com/live.m3u8?p=0429ff98-2f2f-48cd-ae3e-55f876b3c5b9&c=338914494&m3u8=true
 http://p.wheel.duolebo.com/live?p=472755ff-ddeb-4853-b3a4-25e6e7bbcc2f&c=338914494&m3u8=true
