@@ -5,6 +5,8 @@ klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 klg://happigolive11,8e768346411648deb8825acb0fc40c55
 ch,优购物,c,abd*,0,0
 ugw://u01
+ch,聚鲨环球精选,c,abd,0,0
+hqg://c01
 ch,家有购物,c,abd,0,0	
 jyg://8fd21520-591e-4c1c-9aa2-df53a0075a3d
 igw://e267abf3-f68e-4036-99c6-55388c92473c#jyg
@@ -15,8 +17,6 @@ http://t03.cdn-live.duolebo.com/live/21874_f2354771cf.m3u8#hxg
 ch,家家购物,c,abd,0,0	
 jjg://7eecbb1b-f933-4ba3-bf40-6b351d0c0d42
 igw://db8c8fac-a319-4286-b55e-9b6b4b59d195#jjg
-ch,聚鲨环球精选,c,abd,0,0
-hqg://c01
 ch,时尚名品汇,c,*,0,0
 ssg://u16
 ch,聚鲨热销,c,*,0,0
