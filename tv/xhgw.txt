@@ -1,4 +1,4 @@
-ch,聚鲨环球精选,c,abd*,0,0
+ch,聚鲨购物,c,abd*,0,0
 hqg://c01
 ch,快乐购物,c,abd,0,0
 klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
