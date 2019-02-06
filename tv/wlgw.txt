@@ -1,5 +1,7 @@
 ch,优购物,c,abd*,0,0
 ugw://u01
+ch,聚鲨环球精选,c,abd*,0,0
+hqg://c01
 ch,快乐购物,c,abd*,0,0
 klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 klg://happigolive11,8e768346411648deb8825acb0fc40c55
@@ -15,8 +17,6 @@ byl://66c7441e-dc8b-496a-916c-adaa6bd42b5d
 ch,聚好货,0,b,0,0
 czg://2ea5c855-ce1f-4806-9245-d154f05921d6#byl
 byl://740dee40-9d00-4749-af5a-7d53ad55baea
-ch,聚鲨环球精选,c,abd*,0,0
-hqg://c01
 ch,家有购物,c,abd,0,0	
 jyg://8fd21520-591e-4c1c-9aa2-df53a0075a3d
 igw://e267abf3-f68e-4036-99c6-55388c92473c#jyg
