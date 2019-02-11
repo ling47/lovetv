@@ -44,6 +44,8 @@ igw://443ed815-8a02-437e-b620-e556386a32b1#klg
 ch,家有精选,c,*,0,0	
 http://t.cdn-wheel01.duolebo.com/hls/d21b53be-8164-4890-984c-d7a83d5ecf00_1300.m3u8#jyg
 http://t.cdn-live.duolebo.com/JYGW1/live02/index.m3u8#jyg
+ch,聚鲨热销,c,*,0,0
+hqg://c14
 ch,家家畅销,c,*,0,0
 jjg://e130778d-bfb9-4386-a622-fd77e98b9346
 igw://48842603-fff6-4ab0-9cef-7150a399cb7b#jjg
