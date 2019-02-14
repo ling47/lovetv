@@ -20,9 +20,10 @@ klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 klg://happigolive11,8e768346411648deb8825acb0fc40c55
 ch,优购物,c,abd*,0,0
 ugw://u01
-ch,聚鲨环球精选,c,abd*,0,0
+ch,聚鲨环球,c,abd*,0,0
 hqg://c01
-ch,好享购物,c,abd*,0,0
+ch,好享购物,c,abd,0,0
+http://t03.cdn-live.duolebo.com/live/21874_9dcc466641.m3u8#hxg
 hxg://e2af9518-e9e3-4d6e-8bc3-7f180f7551bd
 http://t03.cdn-live.duolebo.com/live/21874_f2354771cf.m3u8#hxg
 ch,精选爆品,c,*,0,0

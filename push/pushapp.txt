@@ -1,4 +1,2 @@
 com.moretv.android,http://lqcdn.dangbei.net/dsm/dsm15-4.0.1-azb.apk,4789,1,1122222
 com.cibn.tv,http://lqcdn.dangbei.net/wb/yk4-6.9.3.1-yunbo.apk,2356,2,1122222
-com.shafa.market,https://assets.sfcdn.org/pub/com.shafa.market/285/6cdc8ec/com.shafa.market_4.8.8_lovetv.apk,4,0,2122222
-com.cwb.yingshi,http://app.znds.com/down/20181218/jr1ys_2.0.2_dangbei.apk,57,0,1122222

@@ -19,6 +19,7 @@ czg://4040716f-7a35-4c4c-9247-4370dc5207ba#byl
 ch,优购物,c,abd,0,0
 ugw://u01
 ch,好享购物,c,abd,0,0
+http://t03.cdn-live.duolebo.com/live/21874_9dcc466641.m3u8#hxg
 hxg://e2af9518-e9e3-4d6e-8bc3-7f180f7551bd
 http://t03.cdn-live.duolebo.com/live/21874_f2354771cf.m3u8#hxg
 ch,风尚购物,c,*,0,0
