@@ -16,6 +16,9 @@ ch,好享购物,c,abd,0,0
 http://t03.cdn-live.duolebo.com/live/21874_9dcc466641.m3u8#hxg
 hxg://e2af9518-e9e3-4d6e-8bc3-7f180f7551bd
 http://t03.cdn-live.duolebo.com/live/21874_f2354771cf.m3u8#hxg
+http://ottdjkzd.hxgwott.com/hxg/djk.m3u8#hxg
+http://hxgsdi.hxgwott.com/wwn/ott.m3u8#hxg
+http://ottzbl.hxgwott.com/bzw/ott.m3u8#hxg
 ch,精选爆品,c,abd*,0,0
 http://hb.wheel.duolebo.com/live.m3u8?p=0429ff98-2f2f-48cd-ae3e-55f876b3c5b9&c=338914494&m3u8=true
 http://p.wheel.duolebo.com/live?p=472755ff-ddeb-4853-b3a4-25e6e7bbcc2f&c=338914494&m3u8=true
