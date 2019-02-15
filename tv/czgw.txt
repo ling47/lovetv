@@ -11,13 +11,13 @@ byl://740dee40-9d00-4749-af5a-7d53ad55baea
 ch,快乐购物,c,abd*,0,0
 klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 klg://happigolive11,8e768346411648deb8825acb0fc40c55
-ch,家家购物,c,abd,0,0	
-jjg://7eecbb1b-f933-4ba3-bf40-6b351d0c0d42
-igw://db8c8fac-a319-4286-b55e-9b6b4b59d195#jjg
 ch,优购物,c,abd,0,0
 ugw://u01
 ch,聚鲨环球,c,abd,0,0
 hqg://c01
+ch,家家购物,c,abd,0,0	
+jjg://7eecbb1b-f933-4ba3-bf40-6b351d0c0d42
+igw://db8c8fac-a319-4286-b55e-9b6b4b59d195#jjg
 ch,好享购物,c,abd,0,0
 http://t03.cdn-live.duolebo.com/live/21874_9dcc466641.m3u8#hxg
 hxg://e2af9518-e9e3-4d6e-8bc3-7f180f7551bd

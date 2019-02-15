@@ -1,5 +1,5 @@
 ch,优购物,c,abd*,0,0
-ugw://u01
+ugw://u15
 ch,聚鲨环球,c,abd,0,0
 hqg://c01
 ch,快乐购物,c,abd,0,0
