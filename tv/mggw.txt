@@ -1,4 +1,7 @@
-ch,聚好购物,c,a*,0,0
+ch,快乐购物,c,abd*,0,0
+klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
+klg://happigolive11,8e768346411648deb8825acb0fc40c55
+ch,聚好购物,c,a,0,0
 czg://2ea5c855-ce1f-4806-9245-d154f05921d6#byl
 byl://740dee40-9d00-4749-af5a-7d53ad55baea
 ch,购好东西,0,d,0,0
@@ -19,9 +22,6 @@ jjg://7eecbb1b-f933-4ba3-bf40-6b351d0c0d42
 igw://db8c8fac-a319-4286-b55e-9b6b4b59d195#jjg
 ch,聚鲨环球,c,ab,0,0
 hqg://c01
-ch,快乐购物,c,bd*,0,0
-klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
-klg://happigolive11,8e768346411648deb8825acb0fc40c55
 ch,好享购物,c,bd,0,0
 http://t03.cdn-live.duolebo.com/live/21874_9dcc466641.m3u8#hxg
 hxg://e2af9518-e9e3-4d6e-8bc3-7f180f7551bd
