@@ -5,6 +5,8 @@ pgw://c17a57c4-7149-4dac-9afb-9332311421b3#jyg
 ch,家家购物,c,ad,0,0	
 jjg://7eecbb1b-f933-4ba3-bf40-6b351d0c0d42
 igw://db8c8fac-a319-4286-b55e-9b6b4b59d195#jjg
+ch,优选购物,c,abd*,0,0
+http://gw.aixuekku.com/db/gw.m3u8
 ch,时尚购物,c,ab,0,0
 ssg://u02
 ch,聚好购物,c,a*,0,0
