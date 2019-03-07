@@ -16,8 +16,11 @@ ivi-http://ivi.bupt.edu.cn/hls/%s.m3u8
 fj-http://livechina.cntv.wscdns.com:8000/live/flv/%s
 ybs-http://223.82.250.72/ysten-bussiness/live/%s/1.m3u8
 lvgitv-http://223.110.242.130:6610/gitv/live1/%s/1.m3u8
-yqdtv-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=%s&playtoken=ABCDEFGH&auth=no
 lvbst-http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/%s/d1.m3u8
 lvitv-http://gslbserv.itv.cmvideo.cn/000000001000/%s/1.m3u8?channel-id=ystenlive&Contentid=%s&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=%s&owchid=ystenlive&owsid=%s
-lvlive-http://59.46.18.134:8114/Fsv_otype=1?FvSeid=5bf181c25f226bb2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=%s&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+lvsca-http://118.123.60.7:8114/syhjcms_hls/?FvSeid=&Fsv_filetype=0&Fsv_ctype=LIVES&Fsv_cid=6649&Fsv_TBt=614400&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=syhjcms_hls&Pcontent_id=&Fsv_CMSID=syhjcms&Fsv_chan_hls_se_idx=%s
+lvscb-http://118.123.60.12:8114/syhjcms_hls/?FvSeid=&Fsv_filetype=0&Fsv_ctype=LIVES&Fsv_cid=6449&Fsv_TBt=3072000&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=syhjcms_hls&Pcontent_id=&Fsv_CMSID=syhjcms&Fsv_chan_hls_se_idx=%s
+lvscc-http://118.123.60.10:8114/syhjcms_hls/10000100201705020000001000000008?FvSeid=5bf2539394e75947&Fsv_filetype=0&Fsv_ctype=LIVES&Fsv_cid=6641&Fsv_TBt=614400&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=syhjcms_hls&Pcontent_id=10000100201705020000001000000008&Fsv_CMSID=syhjcms&Fsv_chan_hls_se_idx=%s
+lvscd-http://118.123.60.6:8114/syhjcms_hls/?FvSeid=&Fsv_filetype=0&Fsv_ctype=LIVES&Fsv_cid=6625&Fsv_TBt=3072000&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=syhjcms_hls&Pcontent_id=&Fsv_CMSID=syhjcms&Fsv_chan_hls_se_idx=%s
+lvsce-http://118.123.60.8:8114/syhjcms_hls/?FvSeid=&Fsv_filetype=0&Fsv_ctype=LIVES&Fsv_TBt=614400&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=syhjcms_hls&Pcontent_id=&Fsv_CMSID=syhjcms&Fsv_cid=6653&Fsv_chan_hls_se_idx=%s
 qqtv-http://info.zb.qq.com/?cnlid=%s&host=qq.com&cmd=2&qq=0&guid=63929914d4368f22d74e018d9243241d&txvjsv=2.0&stream=2&debug=&ip=&system=2&sdtfrom=313
