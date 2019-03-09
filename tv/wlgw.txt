@@ -9,9 +9,9 @@ ch,快乐购物,c,ad,0,0
 klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 klg://happigolive11,8e768346411648deb8825acb0fc40c55
 ch,家有购物,c,ab,0,0	
+pgw://c17a57c4-7149-4dac-9afb-9332311421b3#jyg
 jyg://8fd21520-591e-4c1c-9aa2-df53a0075a3d
 igw://e267abf3-f68e-4036-99c6-55388c92473c#jyg
-pgw://c17a57c4-7149-4dac-9afb-9332311421b3#jyg
 ch,时尚购物,c,bd,0,0
 ssg://u02
 ch,聚好购物,c,a*,0,0

@@ -6,8 +6,8 @@ klg://happigolive11,8e768346411648deb8825acb0fc40c55
 ch,时尚购物,c,bd,0,0
 ssg://u02
 ch,家有购物,c,ab,0,0	
-jyg://8fd21520-591e-4c1c-9aa2-df53a0075a3d
 igw://e267abf3-f68e-4036-99c6-55388c92473c#jyg
+jyg://8fd21520-591e-4c1c-9aa2-df53a0075a3d
 pgw://c17a57c4-7149-4dac-9afb-9332311421b3#jyg
 ch,家家购物,c,ad,0,0	
 jjg://7eecbb1b-f933-4ba3-bf40-6b351d0c0d42
@@ -41,8 +41,8 @@ ch,快乐折么多,c,*,0,0
 klg://happigolive34,f783894c860b43f798b14513f47c8784
 ch,优购美食榜,c,*,0,0
 ugw://u14
+ch,聚鲨畅饮,c,*,0,0
+hqg://c31
 ch,好享新品,c,*,0,0
 hxg://3c461ad9-3f85-4b52-90d2-3d190e894c80
 igw://d2ad5c42-e103-4576-9c9e-2f8d5caea583#hxg
-ch,聚鲨畅饮,c,*,0,0
-hqg://c31
