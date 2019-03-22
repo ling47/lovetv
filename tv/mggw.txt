@@ -1,5 +1,5 @@
 ch,优购物,c,ad*,0,0
-ugw://u01
+ugw://u15
 ch,聚好购物,c,a,0,0
 czg://2ea5c855-ce1f-4806-9245-d154f05921d6#byl
 byl://740dee40-9d00-4749-af5a-7d53ad55baea
@@ -16,7 +16,7 @@ jyg://8fd21520-591e-4c1c-9aa2-df53a0075a3d
 igw://e267abf3-f68e-4036-99c6-55388c92473c#jyg
 ch,时尚购物,c,bd,0,0
 ssg://u02
-ch,快乐购物,c,abd,0,0
+ch,快乐购物,c,ad,0,0
 klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 klg://happigolive11,8e768346411648deb8825acb0fc40c55
 ch,家家购物,c,bd,0,0	
