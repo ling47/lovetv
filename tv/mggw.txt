@@ -1,5 +1,5 @@
 ch,优购物,c,ad*,0,0
-ugw://u15
+ugw://u01
 ch,聚好购物,c,a,0,0
 czg://2ea5c855-ce1f-4806-9245-d154f05921d6#byl
 byl://740dee40-9d00-4749-af5a-7d53ad55baea
