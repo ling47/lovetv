@@ -1,3 +1,1 @@
-tv.fun.orange,http://lqcdn.dangbei.net/zhu/orange_dangbei2_orange-3055-v1.3.0.10-2019-03-05-release-signed.apk,12379,1,1222222
-com.moretv.android,http://lqcdn.dangbei.net/dsm/dsm15-4.0.2-azb.apk,48,1,1222222
-com.cibn.tv,http://lqcdn.dangbei.net/wb/yk4-6.9.3.1-yunbo.apk,56,2,1222222
+com.xiaodianshi.tv.yst,http://lqcdn.dangbei.net/zhu/ystxds-Y-release-1.1.6.2-b0312.1147_dangbei05.apk,123456789,2,1111111111
