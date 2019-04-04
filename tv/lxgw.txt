@@ -15,6 +15,8 @@ ch,家有购物,c,bd,0,0
 pgw://c17a57c4-7149-4dac-9afb-9332311421b3#jyg
 jyg://8fd21520-591e-4c1c-9aa2-df53a0075a3d
 igw://e267abf3-f68e-4036-99c6-55388c92473c#jyg
+ch,优选购物,c,ab,0,0
+http://gw.aixuekku.com/db/gw.m3u8
 ch,家家购物,c,ab,0,0	
 jjg://7eecbb1b-f933-4ba3-bf40-6b351d0c0d42
 igw://db8c8fac-a319-4286-b55e-9b6b4b59d195#jjg
