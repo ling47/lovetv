@@ -4,7 +4,7 @@ ch,快乐购物,c,abd,0,0
 klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 klg://happigolive11,8e768346411648deb8825acb0fc40c55
 ch,优购物,c,abd,0,0
-ugw://u01
+ugw://u15
 ch,时尚名品汇,c,abd,0,0
 ssg://u16
 ch,优购排行榜,c,a,0,0
