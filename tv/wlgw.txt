@@ -1,6 +1,6 @@
 ch,优购物,c,abd*,0,0
 ugw://u01
-ch,超值购物,c,a*,0,0
+ch,超值购物,c,a,0,0
 byl://4f751483-44fe-43b4-a903-21c06e4076e7
 czg://5a8c21cb-5a58-4963-8dab-9f494e80f5e7#byl
 igw://72fc3869-ad34-4841-ad01-1301c5d5e103#byl

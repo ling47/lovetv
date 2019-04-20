@@ -29,7 +29,5 @@ ch,优购排行榜,c,*,0,0
 ugw://u03
 ch,快乐厨房,c,*,0,0
 klg://happigolive26,d97489837d5f4a4faabd18ac498ced51
-ch,家居精品馆,c,*,0,0	
-http://p.wheel.duolebo.com/live?p=85ed8dba-d578-419c-8dca-71feba63b44c&c=338914494&m3u8=true
 ch,每周爆款,c,*,0,0
 byl://22d48250-5c4d-4447-8d1e-97cf204dd278
