@@ -9,7 +9,7 @@ klg://happigolive11,8e768346411648deb8825acb0fc40c55
 ch,购好东西,c,b,0,0
 byl://c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a
 czg://abeda8da-b3cc-4e0d-bc12-c3408e74191b#byl
-ch,家有购物,c,b,0,0
+ch,家有购物,c,ab,0,0
 igw://e267abf3-f68e-4036-99c6-55388c92473c#jyg
 jyg://8fd21520-591e-4c1c-9aa2-df53a0075a3d
 pgw://c17a57c4-7149-4dac-9afb-9332311421b3#jyg

@@ -21,6 +21,10 @@ czg://2ea5c855-ce1f-4806-9245-d154f05921d6#byl
 byl://740dee40-9d00-4749-af5a-7d53ad55baea
 ch,优购物,c,ab,0,0
 ugw://u01
+ch,家有购物,c,abd,0,0
+jyg://8fd21520-591e-4c1c-9aa2-df53a0075a3d
+igw://e267abf3-f68e-4036-99c6-55388c92473c#jyg
+pgw://c17a57c4-7149-4dac-9afb-9332311421b3#jyg
 ch,聚实惠,c,*,0,0
 byl://3e3b2091-0fe9-4570-8022-712023777b09
 ch,风尚购物,c,*,0,0
