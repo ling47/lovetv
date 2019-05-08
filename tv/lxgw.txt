@@ -30,5 +30,8 @@ http://p.wheel.duolebo.com/live?p=472755ff-ddeb-4853-b3a4-25e6e7bbcc2f&c=3389144
 http://ha.wheel.duolebo.com/live.m3u8?p=12d1e502-80da-46a5-ad9a-3b690d72d7ba&c=338914494&m3u8=true
 ch,聚好货,c,d*,0,0
 byl://bf78cc61-10d5-4d65-a78c-71c5d9d39b19
+ch,风尚购物,c,*,0,0
+fsg://ec4d2af5-1903-499d-9350-bb21b9e208ee
+igw://5b0f4a33-78b8-4c47-8a1a-1d107e8bb8c0#fsg
 ch,聚实惠,c,d*,0,0
 byl://3e3b2091-0fe9-4570-8022-712023777b09
