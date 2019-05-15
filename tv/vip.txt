@@ -321,6 +321,7 @@ webvod_https://www.iqiyi.com/v_19rsh1u7y4.html
 webvod_https://www.iqiyi.com/v_19rsgwd6oc.html
 webvod_https://www.iqiyi.com/v_19rsfzv55g.html
 ch,忘不了餐厅,s,1,0,0
+webvod_https://v.qq.com/x/cover/ovqitg44wez7lfs.html
 webvod_https://v.qq.com/x/cover/ogru5o5zbl7kgxv.html
 webvod_https://v.qq.com/x/cover/hq1jiupfo8vrlqr.html
 ch,喜欢你我也是,s,1,0,0
@@ -366,6 +367,7 @@ webvod_https://v.youku.com/v_show/id_XNDEzNDgzMTAzNg==.html
 webvod_https://v.youku.com/v_show/id_XNDEzNDgyOTY1Mg==.html
 webvod_https://v.youku.com/v_show/id_XNDEzNDgyMTg4OA==.html
 ch,创造营2019,s,1,0,0
+webvod_https://v.qq.com/x/cover/l2qhhw99hp0ymsj.html
 webvod_https://v.qq.com/x/cover/mtpdqlxb3s2ed0k.html
 webvod_https://v.qq.com/x/cover/k2n7kglm3b05417.html
 webvod_https://v.qq.com/x/cover/w04xdini2pn7ewr.html
@@ -382,6 +384,7 @@ webvod_https://v.qq.com/x/cover/gqwfjileh717opn.html
 webvod_https://v.qq.com/x/cover/w620jl47fohgn6h.html
 webvod_https://v.qq.com/x/cover/7s7ne3kj4u9wxhu.html
 ch,我和我的经纪人,s,1,0,0
+webvod_https://v.qq.com/x/cover/rkg0rzdm0go66z1.html
 webvod_https://v.qq.com/x/cover/elgn8pxkwti1rw9.html
 webvod_https://v.qq.com/x/cover/y1a9i0z3vrayt88.html
 webvod_https://v.qq.com/x/cover/fqla81sga4fxml1.html
