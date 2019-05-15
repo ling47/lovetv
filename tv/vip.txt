@@ -325,6 +325,7 @@ webvod_https://v.qq.com/x/cover/ovqitg44wez7lfs.html
 webvod_https://v.qq.com/x/cover/ogru5o5zbl7kgxv.html
 webvod_https://v.qq.com/x/cover/hq1jiupfo8vrlqr.html
 ch,喜欢你我也是,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rsma4120.html
 webvod_https://www.iqiyi.com/v_19rshdqv5s.html
 webvod_https://www.iqiyi.com/v_19rsgyl58o.html
 webvod_https://www.iqiyi.com/v_19rsgfd5po.html
@@ -342,6 +343,8 @@ webvod_https://v.qq.com/x/cover/bxca95rvca1b0zm.html
 webvod_https://v.qq.com/x/cover/gjjd7z5aszthfv7.html
 webvod_https://v.qq.com/x/cover/cwvl71dtfx9eh2y.html
 ch,拜托了冰箱,s,1,0,0
+webvod_https://v.qq.com/x/cover/8itdhv5u17971ve.html
+webvod_https://v.qq.com/x/cover/7f3jgogj39czqe1.html
 webvod_https://v.qq.com/x/cover/ogr9tee0hp2w23g.html
 webvod_https://v.qq.com/x/cover/nah180lt65t1qef.html
 webvod_https://v.qq.com/x/cover/pmwga0rgqg6e6wq.html
@@ -357,9 +360,10 @@ webvod_https://v.youku.com/v_show/id_XNDA4MTM0NTkyNA==.html
 webvod_https://v.youku.com/v_show/id_XNDA4MTM0MjI5Ng==.html
 webvod_https://v.youku.com/v_show/id_XMzk5MzQ1NzYxNg==.html
 ch,青春环游记,s,1,0,0
-webvod_https://v.youku.com/v_show/id_XNDEzNDY5NzY4OA==.html
-webvod_https://v.youku.com/v_show/id_XNDEzNDY1NDcxNg==.html
+webvod_https://www.iqiyi.com/v_19rsh7zwcg.html
+webvod_https://www.iqiyi.com/v_19rsggn6os.html
 ch,中歌会,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rsh8abjk.html
 webvod_https://www.iqiyi.com/v_19rsgfshg8.html
 webvod_https://www.iqiyi.com/v_19rsg1psw8.html
 ch,百变达人,s,1,0,0
