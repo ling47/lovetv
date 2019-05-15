@@ -304,6 +304,8 @@ ch,电锯惊魂8,r,1,0,0
 webvod_https://www.iqiyi.com/v_19rr8cyldo.html
 ch,哥斯拉,r,1,0,0
 webvod_https://www.iqiyi.com/v_19rra2t08c.html
+ch,极限挑战5,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rsh5ekmg.html
 ch,我是唱作人,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rsh3hwuo.html
 webvod_https://www.iqiyi.com/v_19rsgiyum4.html
