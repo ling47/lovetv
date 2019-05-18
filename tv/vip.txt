@@ -329,7 +329,7 @@ webvod_https://www.iqiyi.com/v_19rra2t08c.html
 ch,极限挑战5,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rsh5ekmg.html
 ch,我是唱作人,s,1,0,0
-webvod_https://www.iqiyi.com/v_19rsh3hwuo.html
+webvod_https://www.iqiyi.com/v_19rsm64a0o.html
 webvod_https://www.iqiyi.com/v_19rsh3hwuo.html
 webvod_https://www.iqiyi.com/v_19rsgiyum4.html
 webvod_https://www.iqiyi.com/a_19rrhuo9bd.html
