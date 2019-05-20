@@ -329,6 +329,7 @@ webvod_https://www.iqiyi.com/v_19rra2t08c.html
 ch,这就是街舞,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDEyNDExMDIyNA==.html
 ch,极限挑战5,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rsmknhao.html
 webvod_https://www.iqiyi.com/v_19rsh5ekmg.html
 ch,我是唱作人,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rsm64a0o.html
@@ -434,6 +435,7 @@ webvod_https://www.iqiyi.com/v_19rshfg1rk.html
 webvod_https://www.iqiyi.com/v_19rsguud3k.html
 webvod_https://www.iqiyi.com/v_19rsfy78wc.html
 ch,我和我的经纪人,s,1,0,0
+webvod_https://v.qq.com/x/cover/pn1wjgqsmisidr9.html
 webvod_https://v.qq.com/x/cover/rkg0rzdm0go66z1.html
 webvod_https://v.qq.com/x/cover/elgn8pxkwti1rw9.html
 webvod_https://v.qq.com/x/cover/y1a9i0z3vrayt88.html
