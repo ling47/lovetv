@@ -43,6 +43,9 @@ ch,夏洛特烦恼,q,1,0,0
 webvod_https://www.iqiyi.com/v_19rrkbqj9o.html
 webvod_https://v.youku.com/v_show/id_XMTM5OTY1NTI4MA==.html
 webvod_https://v.qq.com/x/cover/ge1vg9evjfeb6l0/u0019esirxq.html
+ch,巴霍巴利王,q,1,0,0
+webvod_https://v.qq.com/x/cover/wtr1lrmk9w72j6x.html
+webvod_https://v.qq.com/x/cover/6gdjrhmwin7k9kd.html
 ch,新乌龙院之笑闹江湖,q,1,0,0
 webvod_https://www.iqiyi.com/v_19rrbrdcz0.html
 ch,唐人街探案2,q,1,0,0
@@ -217,9 +220,6 @@ ch,巨齿鲨,r,1,0,0
 webvod_https://v.qq.com/x/cover/6kq9o0hr79kamlt/d0027cyc14j.html
 ch,巨蟒大战恐鳄,r,1,0,0
 webvod_https://v.youku.com/v_show/id_XMTc4MzEwNzgwNA==.html
-ch,巴霍巴利王,r,1,0,0
-webvod_https://v.qq.com/x/cover/6gdjrhmwin7k9kd.html
-webvod_https://v.qq.com/x/cover/wtr1lrmk9w72j6x.html
 ch,英雄无侠,r,1,0,0
 webvod_https://v.qq.com/x/cover/zo37s3q7fy9kmx0.html
 ch,极速营救,r,1,0,0
