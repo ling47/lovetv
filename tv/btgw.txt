@@ -12,6 +12,10 @@ ch,购好东西,0,b,0,0
 dlb://c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a#byl
 ch,每日优品,0,d,0,0
 dlb://61c4e404-81c0-4776-b922-87e71dcf6145#byl
+ch,精选爆品,c,*,0,0
+http://ha.wheel.duolebo.com/live.m3u8?p=12d1e502-80da-46a5-ad9a-3b690d72d7ba&c=338914494&m3u8=true
+http://hb.wheel.duolebo.com/live.m3u8?p=0429ff98-2f2f-48cd-ae3e-55f876b3c5b9&c=338914494&m3u8=true
+http://p.wheel.duolebo.com/live?p=472755ff-ddeb-4853-b3a4-25e6e7bbcc2f&c=338914494&m3u8=true
 ch,每周爆款,c,*,0,0
 dlb://22d48250-5c4d-4447-8d1e-97cf204dd278#byl
 ch,快乐淘好货,c,*,0,0
@@ -21,10 +25,6 @@ ch,聚大牌,c,*,0,0
 dlb://65b76399-37f6-4c43-9acc-c15d9f9962b2#byl
 ch,风尚购物,c,*,0,0
 dlb://1d945ebb-4f98-4da7-8582-05ff284533fb#fsg
-ch,精选爆品,c,*,0,0
-http://ha.wheel.duolebo.com/live.m3u8?p=12d1e502-80da-46a5-ad9a-3b690d72d7ba&c=338914494&m3u8=true
-http://hb.wheel.duolebo.com/live.m3u8?p=0429ff98-2f2f-48cd-ae3e-55f876b3c5b9&c=338914494&m3u8=true
-http://p.wheel.duolebo.com/live?p=472755ff-ddeb-4853-b3a4-25e6e7bbcc2f&c=338914494&m3u8=true
 ch,聚好货,c,*,0,0
 dlb://bf78cc61-10d5-4d65-a78c-71c5d9d39b19#byl
 ch,快乐品质,c,*,0,0
