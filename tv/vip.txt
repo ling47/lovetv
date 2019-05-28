@@ -393,6 +393,12 @@ wbvd_https://jx.wslmf.com/?url=https://www.iqiyi.com/v_19rsgi84vw.html
 wbvd_https://jx.wslmf.com/?url=https://www.iqiyi.com/v_19rsg3xsug.html
 wbvd_https://jx.wslmf.com/?url=https://www.iqiyi.com/v_19rsfhzb0s.html
 wbvd_https://jx.wslmf.com/?url=https://www.iqiyi.com/v_19rsjde00k.html
+ch,中歌会,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rsk1qpmk.html
+webvod_https://www.iqiyi.com/v_19rsmo5zu4.html
+webvod_https://www.iqiyi.com/v_19rsh8abjk.html
+webvod_https://www.iqiyi.com/v_19rsgfshg8.html
+webvod_https://www.iqiyi.com/v_19rsg1psw8.html
 ch,乐队的夏天,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rsnqdmyc.html
 ch,这就是街舞,s,1,0,0
@@ -459,11 +465,6 @@ webvod_https://v.youku.com/v_show/id_XNDA4MTM1MDU4NA==.html
 webvod_https://v.youku.com/v_show/id_XNDA4MTM0NTkyNA==.html
 webvod_https://v.youku.com/v_show/id_XNDA4MTM0MjI5Ng==.html
 webvod_https://v.youku.com/v_show/id_XMzk5MzQ1NzYxNg==.html
-ch,中歌会,s,1,0,0
-webvod_https://www.iqiyi.com/v_19rsmo5zu4.html
-webvod_https://www.iqiyi.com/v_19rsh8abjk.html
-webvod_https://www.iqiyi.com/v_19rsgfshg8.html
-webvod_https://www.iqiyi.com/v_19rsg1psw8.html
 ch,百变达人,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDEzNDgzNDA4MA==.html
 webvod_https://v.youku.com/v_show/id_XNDEzNDgzMjgyNA==.html
