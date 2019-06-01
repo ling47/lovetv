@@ -373,12 +373,14 @@ webvod_https://www.iqiyi.com/v_19rr8cyldo.html
 ch,哥斯拉,r,1,0,0
 webvod_https://www.iqiyi.com/v_19rra2t08c.html
 ch,奔跑吧3,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rsl6bwj0.html
 webvod_https://www.iqiyi.com/v_19rso5ihks.html
 webvod_https://www.iqiyi.com/v_19rsm4x5f4.html
 webvod_https://www.iqiyi.com/v_19rsh3xbc4.html
 webvod_https://www.iqiyi.com/v_19rsgixd24.html
 webvod_https://www.iqiyi.com/v_19rsg4hwoc.html
 ch,向往的生活3,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rskj4rtg.html
 webvod_https://www.iqiyi.com/v_19rso7d5ig.html
 webvod_https://www.iqiyi.com/v_19rsmxt478.html
 webvod_https://www.iqiyi.com/v_19rsh1u7y4.html
@@ -395,6 +397,7 @@ webvod_https://www.iqiyi.com/v_19rsk217qw.html
 webvod_https://www.iqiyi.com/v_19rsmknhao.html
 webvod_https://www.iqiyi.com/v_19rsh5ekmg.html
 ch,我是唱作人,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rsl98j8k.html
 webvod_https://www.iqiyi.com/v_19rso57jzg.html
 webvod_https://www.iqiyi.com/v_19rsm64a0o.html
 webvod_https://www.iqiyi.com/v_19rsh3hwuo.html
@@ -412,6 +415,7 @@ webvod_https://www.iqiyi.com/v_19rsgfd5po.html
 webvod_https://www.iqiyi.com/v_19rsfdwrk4.html
 webvod_https://www.iqiyi.com/v_19rsjqlf8k.html
 ch,开饭啦唱作人,s,1,0,0
+wbvd_https://jx.wslmf.com/?url=https://www.iqiyi.com/v_19rslcw900.html
 wbvd_https://jx.wslmf.com/?url=https://www.iqiyi.com/v_19rso6xf7g.html
 wbvd_https://jx.wslmf.com/?url=https://www.iqiyi.com/v_19rsmuxdao.html
 wbvd_https://jx.wslmf.com/?url=https://www.iqiyi.com/v_19rsh3i604.html
@@ -441,6 +445,7 @@ webvod_https://www.iqiyi.com/v_19rsn1ya94.html
 webvod_https://www.iqiyi.com/v_19rsh7zwcg.html
 webvod_https://www.iqiyi.com/v_19rsggn6os.html
 ch,我最爱的女人们,s,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDEzNDg5OTY0OA==.html
 webvod_https://v.youku.com/v_show/id_XNDE2OTg5NzM2MA==.html
 webvod_https://v.youku.com/v_show/id_XNDEzNDg4NjQ5Mg==.html
 webvod_https://v.youku.com/v_show/id_XNDEzNDg2MjEyMA==.html
@@ -455,6 +460,7 @@ webvod_https://v.qq.com/x/cover/qbqpblglhrxrnk4.html
 ch,意想不到的假期,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rsjwbbk8.html
 ch,青春的花路,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rsl0aoig.html
 webvod_https://www.iqiyi.com/v_19rsnql3vg.html
 webvod_https://www.iqiyi.com/v_19rsmuik7s.html
 webvod_https://www.iqiyi.com/v_19rsh000xg.html
