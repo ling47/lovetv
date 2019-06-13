@@ -428,6 +428,7 @@ webvod_https://www.iqiyi.com/v_19rsh1u7y4.html
 webvod_https://www.iqiyi.com/v_19rsgwd6oc.html
 webvod_https://www.iqiyi.com/v_19rsfzv55g.html
 ch,忘不了餐厅,s,1,0,0
+webvod_https://v.qq.com/x/cover/ebgd8z77g1wqkkv.html
 webvod_https://v.qq.com/x/cover/jsgyt3dt7p5vzyt.html
 webvod_https://v.qq.com/x/cover/qo373qeoo9ijl4o.html
 webvod_https://v.qq.com/x/cover/2v33ds77uf28xxg.html
@@ -451,6 +452,7 @@ webvod_https://www.iqiyi.com/a_19rrhuo9bd.html
 webvod_https://www.iqiyi.com/v_19rsfj9bok.html
 webvod_https://www.iqiyi.com/v_19rsjghl78.html
 ch,喜欢你我也是,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rs9wy970.html
 webvod_https://www.iqiyi.com/v_19rslydu58.html
 webvod_https://www.iqiyi.com/v_19rsntzl7w.html
 webvod_https://www.iqiyi.com/v_19rsnhf398.html
@@ -471,6 +473,7 @@ wbvd_https://jx.wslmf.com/?url=https://www.iqiyi.com/v_19rsg3xsug.html
 wbvd_https://jx.wslmf.com/?url=https://www.iqiyi.com/v_19rsfhzb0s.html
 wbvd_https://jx.wslmf.com/?url=https://www.iqiyi.com/v_19rsjde00k.html
 ch,青春环游记,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rs9cwaso.html
 webvod_https://www.iqiyi.com/v_19rsl37oc0.html
 webvod_https://www.iqiyi.com/v_19rsnuzykk.html
 webvod_https://www.iqiyi.com/v_19rsn1ya94.html
