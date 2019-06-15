@@ -15,6 +15,8 @@ ch,每日优品,0,d,0,0
 dlb://61c4e404-81c0-4776-b922-87e71dcf6145#byl
 ch,聚鲨购物,c,abd,0,0
 hqg://c01
+ch,优购物,c,*,0,0
+ugw://u17#ugw17
 ch,精选购物,c,*,0,0
 http://ha.wheel.duolebo.com/live.m3u8?p=12d1e502-80da-46a5-ad9a-3b690d72d7ba&c=338914494&m3u8=true
 http://hb.wheel.duolebo.com/live.m3u8?p=0429ff98-2f2f-48cd-ae3e-55f876b3c5b9&c=338914494&m3u8=true
@@ -35,7 +37,5 @@ ch,优购生活馆,c,*,0,0
 ugw://u13#ugw13
 ch,优购美食榜,c,*,0,0
 ugw://u14#ugw14
-ch,优购大牌榜,c,*,0,0
-ugw://u17#ugw17
 ch,风尚购物,c,*,0,0
 dlb://1d945ebb-4f98-4da7-8582-05ff284533fb#fsg
