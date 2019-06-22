@@ -533,9 +533,9 @@ webvod_https://v.youku.com/v_show/id_XNDEyNDExMDIyNA==.html
 ch,中国新说唱2019,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rs8ndt5c.html
 webvod_https://www.iqiyi.com/v_19rs6u87kg.html
-我们的演唱会,s,1,0,0
+ch,我们的演唱会,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rs75mnmk.html
-新说唱官方bot,s,1,0,0
+ch,新说唱官方bot,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rs8d057s.html
 webvod_https://www.iqiyi.com/v_19rs6wm5b4.html
 ch,新说唱宝藏bot,s,1,0,0
