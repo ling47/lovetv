@@ -1,12 +1,12 @@
 ch,家家购物,c,abd#,0,0
 dlb://a1f48b35-150d-4360-95a3-7b513c04b486#jjg
-ch,超值购物,c,a#,0,0
+ch,超值购物,c,b#,0,0
 dlb://4f751483-44fe-43b4-a903-21c06e4076e7#byl
 ch,快乐购物,c,ab#,0,0
 http://happigolive11.doulaibo.cn/live/8e768346411648deb8825acb0fc40c55.flv#klg
 ch,家有购物,c,ab#,0,0
 dlb://0d0501e9-5bd8-4989-9cce-af1e887b193e#jyg
-ch,购好东西,c,b,0,0
+ch,购好东西,c,a,0,0
 dlb://c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a#byl
 ch,好享购物,c,bd#,0,0
 dlb://98c6e655-b404-49a9-b8ac-a1dea2d3de6a#hxg

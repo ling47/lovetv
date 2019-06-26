@@ -1,7 +1,7 @@
 ch,家有购物,c,abd#,0,0	
 dlb://0d0501e9-5bd8-4989-9cce-af1e887b193e#jyg
 ch,优购物,c,ab#,0,0
-ugw://u01
+ugw://u01#ugw01
 ch,超值购物,c,a#,0,0
 dlb://4f751483-44fe-43b4-a903-21c06e4076e7#byl
 ch,时尚购物,c,abd#,0,0

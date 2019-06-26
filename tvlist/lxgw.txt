@@ -1,7 +1,7 @@
 ch,优购物,0,abd#,0,0
 ugw://u17#ugw17
 ch,优购物,c#,1,0,0
-ugw://u01
+ugw://u01#ugw17
 ch,家有购物,c,abd#,0,0	
 dlb://0d0501e9-5bd8-4989-9cce-af1e887b193e#jyg
 ch,时尚购物,c,abd#,0,0
