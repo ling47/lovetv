@@ -3,7 +3,7 @@ dlb://0d0501e9-5bd8-4989-9cce-af1e887b193e#jyg
 ch,快乐购物,c,ab#,0,0
 klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 klg://happigolive11,8e768346411648deb8825acb0fc40c55
-ch,超值特卖,c,a#,0,0
+ch,超值购物,c,a#,0,0
 dlb://4f751483-44fe-43b4-a903-21c06e4076e7#byl
 ch,家家购物,c,bd#,0,0	
 dlb://a1f48b35-150d-4360-95a3-7b513c04b486#jjg
@@ -11,6 +11,8 @@ ch,购好东西,c,b,0,0
 dlb://c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a#byl
 ch,好享购物,c,bd#,0,0
 dlb://98c6e655-b404-49a9-b8ac-a1dea2d3de6a#hxg
+ch,风尚购物,c,d#,0,0
+dlb://1d945ebb-4f98-4da7-8582-05ff284533fb#fsg
 ch,每日优品,c,d,0,0
 dlb://61c4e404-81c0-4776-b922-87e71dcf6145#byl
 ch,精选购物,c,*,0,0
@@ -19,16 +21,10 @@ http://hb.wheel.duolebo.com/live.m3u8?p=0429ff98-2f2f-48cd-ae3e-55f876b3c5b9&c=3
 http://p.wheel.duolebo.com/live?p=472755ff-ddeb-4853-b3a4-25e6e7bbcc2f&c=338914494&m3u8=true
 ch,每周爆款,c,*,0,0
 dlb://22d48250-5c4d-4447-8d1e-97cf204dd278#byl
-ch,家家购物,0,*#,0,0	
-dlb://a1f48b35-150d-4360-95a3-7b513c04b486#jjg
 ch,快乐淘好货,c,*,0,0
 klg://happigolive35,4d46a3751fcc48718ba29c2905a7ffba
 klg://happigolive16,370065f6b4484f179d95504bb847e9bc
-ch,好享购物,0,*,0,0
-dlb://98c6e655-b404-49a9-b8ac-a1dea2d3de6a#hxg
 ch,聚好货,c,*,0,0
 dlb://bf78cc61-10d5-4d65-a78c-71c5d9d39b19#byl
-ch,风尚购物,c,*,0,0
-dlb://1d945ebb-4f98-4da7-8582-05ff284533fb#fsg
 ch,聚实惠,c,*,0,0
 dlb://3e3b2091-0fe9-4570-8022-712023777b09#byl
