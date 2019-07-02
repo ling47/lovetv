@@ -1,7 +1,7 @@
 ch,家有购物,c,abd*,0,0	
 dlb://0d0501e9-5bd8-4989-9cce-af1e887b193e#jyg
 ch,优购物,c,b,0,0
-ugw://u01#ugw01
+ugw://u01
 ch,超值购物,c,d,0,0
 dlb://4f751483-44fe-43b4-a903-21c06e4076e7#byl
 ch,时尚购物,c,a,0,0
@@ -20,7 +20,7 @@ http://p.wheel.duolebo.com/live?p=472755ff-ddeb-4853-b3a4-25e6e7bbcc2f&c=3389144
 ch,家家购物,c,*,0,0	
 dlb://a1f48b35-150d-4360-95a3-7b513c04b486#jjg
 ch,优购大牌榜,c,*,0,0
-ugw://u17#ugw17
+ugw://u17
 ch,好享购物,c,*,0,0
 dlb://98c6e655-b404-49a9-b8ac-a1dea2d3de6a#hxg
 ch,时尚名品汇,c,*,0,0

@@ -45,11 +45,11 @@ ssg://u16
 ch,聚鲨热销,c,*,0,0
 hqg://c14
 ch,优购生活馆,c,*,0,0
-ugw://u13#ugw13
+ugw://u13
 ch,聚好货,c,*,0,0
 dlb://bf78cc61-10d5-4d65-a78c-71c5d9d39b19#byl
 ch,快乐淘好货,c,*,0,0
 klg://happigolive35,4d46a3751fcc48718ba29c2905a7ffba
 klg://happigolive16,370065f6b4484f179d95504bb847e9bc
 ch,优购福利社,c,*,0,0
-ugw://u20#ugw20
+ugw://u20
