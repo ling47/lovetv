@@ -1,4 +1,4 @@
-ch,家家购物,c,ab##,0,0	
+ch,家家购物,c,abd#,0,0	
 dlb://a1f48b35-150d-4360-95a3-7b513c04b486#jjg
 ch,家有购物,c,abd#,0,0	
 dlb://0d0501e9-5bd8-4989-9cce-af1e887b193e#jyg
@@ -26,5 +26,9 @@ klg://happigolive35,4d46a3751fcc48718ba29c2905a7ffba
 klg://happigolive16,370065f6b4484f179d95504bb847e9bc
 ch,聚好货,c,*,0,0
 dlb://bf78cc61-10d5-4d65-a78c-71c5d9d39b19#byl
+ch,家家新品,c,*,0,0
+dlb://e15b0008-f6b9-4e44-92c8-83d3dacb3d48#jjg
+ch,家有新品,c,*,0,0
+dlb://7cf40d15-7e27-411b-af65-c9012799457c#jyg
 ch,聚实惠,c,*,0,0
 dlb://3e3b2091-0fe9-4570-8022-712023777b09#byl
