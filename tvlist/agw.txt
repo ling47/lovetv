@@ -9,7 +9,9 @@ dlb://1d945ebb-4f98-4da7-8582-05ff284533fb#fsg
 ch,购好东西,c,b,0,0
 dlb://c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a#byl
 ch,快乐购物,c,d#,0,0
+klg://happigolive11,8e768346411648deb8825acb0fc40c55
 http://happigolive11.doulaibo.cn/live/8e768346411648deb8825acb0fc40c55.flv#klg
+klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 ch,超值特卖,0,ad,0,0
 dlb://4f751483-44fe-43b4-a903-21c06e4076e7#byl
 ch,好享购物,c,d#,0,0

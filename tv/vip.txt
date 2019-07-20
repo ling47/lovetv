@@ -219,6 +219,14 @@ webvod_https://v.qq.com/x/cover/lvjgpbrmo0dpz14/b0031fb0g6t.html
 ch,头号玩家,r,1,0,0
 webvod_https://www.iqiyi.com/v_19rr1i9r6s.html
 webvod_https://www.iqiyi.com/v_19rreck3v4.html
+ch,水怪,r,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDI1MjQwNzk0MA==.html
+ch,小飞象,r,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDI3MDUxODcyOA==.html
+ch,超级整蛊霸王,r,1,0,0
+webvod_https://v.qq.com/x/cover/o3l4t2nttlyshx8.html
+ch,绝色营救,r,1,0,0
+webvod_https://v.qq.com/x/cover/vde7lmqvoepqc57.html
 ch,登月第一人,r,1,0,0
 webvod_https://v.qq.com/x/cover/ljrxs7xe42uy4ub.html
 ch,四目先生,r,1,0,0
@@ -507,6 +515,8 @@ ch,电锯惊魂8,r,1,0,0
 webvod_https://www.iqiyi.com/v_19rr8cyldo.html
 ch,哥斯拉,r,1,0,0
 webvod_https://www.iqiyi.com/v_19rra2t08c.html
+ch,中国好声音2019,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rrzk4410.html
 ch,奔跑吧3,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rs1ughgk.html
 webvod_https://www.iqiyi.com/v_19rscidf1c.html
@@ -521,6 +531,7 @@ webvod_https://www.iqiyi.com/v_19rsh3xbc4.html
 webvod_https://www.iqiyi.com/v_19rsgixd24.html
 webvod_https://www.iqiyi.com/v_19rsg4hwoc.html
 ch,向往的生活3,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rs4icosk.html
 webvod_https://www.iqiyi.com/v_19rs1t6ues.html
 webvod_https://www.iqiyi.com/v_19rs1sep3w.html
 webvod_https://www.iqiyi.com/v_19rscg7dwk.html
@@ -556,6 +567,9 @@ webvod_https://www.iqiyi.com/v_19rslq5c84.html
 webvod_https://www.iqiyi.com/v_19rsk217qw.html
 webvod_https://www.iqiyi.com/v_19rsmknhao.html
 webvod_https://www.iqiyi.com/v_19rsh5ekmg.html
+ch,好房帮帮忙,s,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDI3Nzk4MDAwNA==.html
+webvod_https://v.youku.com/v_show/id_XNDI2OTY0Mjc4OA==.html
 ch,2019年中音乐盛典,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rrzw59t0.html
 ch,中国好声音2019,s,1,0,0
@@ -587,6 +601,7 @@ webvod_https://www.iqiyi.com/v_19rs9wy970.html
 webvod_https://www.iqiyi.com/v_19rs7cm778.html
 webvod_https://www.iqiyi.com/v_19rsd5jm78.html
 ch,乐队的夏天,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rs57srd0.html
 webvod_https://www.iqiyi.com/v_19rs1xbftk.html
 webvod_https://www.iqiyi.com/v_19rs1xcr70.html
 webvod_https://www.iqiyi.com/v_19rsc5yicw.html
@@ -635,12 +650,14 @@ webvod_https://v.youku.com/v_show/id_XNDIzMTEwNzIzNg==.html
 webvod_https://v.youku.com/v_show/id_XNDIzNTcyNjQzNg==.html
 webvod_https://v.youku.com/v_show/id_XNDI1MDQyMjQxMg==.html
 ch,中国新说唱2019,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rs4iszyc.html
 webvod_https://www.iqiyi.com/v_19rrzsrlt8.html
 webvod_https://www.iqiyi.com/v_19rscgulqs.html
 webvod_https://www.iqiyi.com/v_19rsefklys.html
 webvod_https://www.iqiyi.com/v_19rs8ndt5c.html
 webvod_https://www.iqiyi.com/v_19rs6u87kg.html
 ch,这就是街舞,s,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDEyNDIwOTk2MA==.html
 webvod_https://v.youku.com/v_show/id_XNDEyNDIwNjQ1Ng==.html
 webvod_https://v.youku.com/v_show/id_XNDEyNDIwMTEzMg==.html
 webvod_https://v.youku.com/v_show/id_XNDEyNDE5NzQ1Mg==.html
@@ -691,7 +708,7 @@ webvod_https://www.iqiyi.com/v_19rsjwaz28.html
 webvod_https://www.iqiyi.com/v_19rsjwbbk8.html
 ch,我们的演唱会,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rryn1f10.html
-https://www.iqiyi.com/v_19rs0tv1s4.html
+webvod_https://www.iqiyi.com/v_19rs0tv1s4.html
 webvod_https://www.iqiyi.com/v_19rsb2u3po.html
 webvod_https://www.iqiyi.com/v_19rse6y828.html
 webvod_https://www.iqiyi.com/v_19rs75mnmk.html
@@ -712,6 +729,7 @@ webvod_https://v.qq.com/x/cover/4pcyt1b30cn080k.html
 webvod_https://v.qq.com/x/cover/75w5g78u2edeaxb.html
 webvod_https://v.qq.com/x/cover/1zjpmspi7gpqgy3.html
 ch,我最爱的女人们,s,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDEzNDkxNzgwMA==.html
 webvod_https://v.youku.com/v_show/id_XNDEzNDkxNTk0OA==.html
 webvod_https://v.youku.com/v_show/id_XNDEzNDkxNDM5Mg==.html
 webvod_https://v.youku.com/v_show/id_XNDEzNDkxMjg3Mg==.html
@@ -724,6 +742,7 @@ webvod_https://v.youku.com/v_show/id_XNDEzNDg4NjQ5Mg==.html
 webvod_https://v.youku.com/v_show/id_XNDEzNDg2MjEyMA==.html
 webvod_https://v.youku.com/v_show/id_XNDEzNDg2MDA1Ng==.html
 ch,我们是真正的朋友,s,1,0,0
+webvod_https://v.qq.com/x/cover/c0slx3xktnzqigk.html
 webvod_https://v.qq.com/x/cover/a1ew57u6ig0y233.html
 webvod_https://v.qq.com/x/cover/qqkilp4zjhj28e9.html
 webvod_https://v.qq.com/x/cover/mlsxihggiqfg02r.html
@@ -749,6 +768,7 @@ webvod_https://v.qq.com/x/cover/cpeojy57e55kp4f.html
 webvod_https://v.qq.com/x/cover/wuyi5os59mc2l7r.html
 webvod_https://v.qq.com/x/cover/x57v3m0woc77x0r.html
 ch,起舞吧！齐舞第一季,s,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDI3ODk4OTg5Ng==.html
 webvod_https://v.youku.com/v_show/id_XNDI3MDU4Mjc5Ng==.html
 webvod_https://v.youku.com/v_show/id_XNDI1OTgwOTgzNg==.html
 webvod_https://v.youku.com/v_show/id_XNDI0NzIxOTg4MA==.html
@@ -762,16 +782,19 @@ webvod_https://v.qq.com/x/cover/0qgh4oha7gk60d0.html
 webvod_https://v.qq.com/x/cover/yfyevfao9ghsc22.html
 webvod_https://v.qq.com/x/cover/ay1kw1foszmqdzn.html
 ch,心动的信号第2季,s,1,0,0
+webvod_https://v.qq.com/x/cover/w8w4x7xwbl2ei6x.html
 webvod_https://v.qq.com/x/cover/wd6m3vf8pjmnw30.html
 webvod_https://v.qq.com/x/cover/rrl24se4xh7z7ts.html
 webvod_https://v.qq.com/x/cover/y5h8yf9ga09zwly.html
 webvod_https://v.qq.com/x/cover/r52dpxap5g829r8.html
 ch,极限青春,s,1,0,0
+webvod_https://v.qq.com/x/cover/50kxtjtfutj16b8.html
 webvod_https://v.qq.com/x/cover/g8gva2lrb0h840s.html
 webvod_https://v.qq.com/x/cover/6sq65nhatplh5s0.html
 webvod_https://v.qq.com/x/cover/0myhkhcv96oka8q.html
 webvod_https://v.qq.com/x/cover/fk1fu6wsbsp832p.html
 ch,明日之子第3季,s,1,0,0
+webvod_https://v.qq.com/x/cover/lzdue45et7854db.html
 webvod_https://v.qq.com/x/cover/io0tn7t2ipc8b8u.html
 webvod_https://v.qq.com/x/cover/cbpoh2qx8zb24q5.html
 webvod_https://v.qq.com/x/cover/sp7t6lg6rfddu29.html

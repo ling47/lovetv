@@ -3,8 +3,9 @@ dlb://0d0501e9-5bd8-4989-9cce-af1e887b193e#jyg
 ch,优购物,c,b#,0,0
 ugw://u01
 ch,快乐购物,c,d#,0,0
-klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 klg://happigolive11,8e768346411648deb8825acb0fc40c55
+http://happigolive11.doulaibo.cn/live/8e768346411648deb8825acb0fc40c55.flv#klg
+klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
 ch,时尚购物,c,a#,0,0
 ssg://u02
 ch,家家购物,c,ab#,0,0	
