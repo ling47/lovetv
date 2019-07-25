@@ -1,6 +1,5 @@
 ch,快乐购物,c,abd*,0,0
-klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
-klg://happigolive11,8e768346411648deb8825acb0fc40c55
+dlb://aa5c7c86-7aca-4c62-be2d-dd4207eb39b4#klg
 ch,家有购物,c,abd*,0,0
 dlb://0d0501e9-5bd8-4989-9cce-af1e887b193e#jyg
 ch,精选爆品,c,abd*,0,0
@@ -17,13 +16,6 @@ ch,家家购物,c,abd*,0,0
 dlb://a1f48b35-150d-4360-95a3-7b513c04b486#jjg
 ch,好享购物,c,abd,0,0
 dlb://98c6e655-b404-49a9-b8ac-a1dea2d3de6a#hxg
-ch,快乐淘好货,c,abd,0,0
-klg://happigolive35,4d46a3751fcc48718ba29c2905a7ffba
-klg://happigolive16,370065f6b4484f179d95504bb847e9bc
-ch,快乐折么多,c,abd,0,0
-klg://happigolive34,f783894c860b43f798b14513f47c8784
-ch,快乐厨房,c,abd,0,0
-klg://happigolive26,d97489837d5f4a4faabd18ac498ced51
 ch,聚大牌,c,*,0,0
 dlb://65b76399-37f6-4c43-9acc-c15d9f9962b2#byl
 ch,快乐品质,c,abd,0,0

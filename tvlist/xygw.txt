@@ -8,10 +8,6 @@ ch,家有购物,c,#,0,0
 dlb://0d0501e9-5bd8-4989-9cce-af1e887b193e#jyg
 ch,快乐购物,c,abd,0,0
 dlb://aa5c7c86-7aca-4c62-be2d-dd4207eb39b4#klg
-klg://happigolive11,8e768346411648deb8825acb0fc40c55
-http://happigolive11.doulaibo.cn/live/8e768346411648deb8825acb0fc40c55.flv#klg
-klg://happigolive33,d07d84aa0a7a45b59a70a57622e1ec95
-http://happigolive15.doulaibo.cn/live/2f898344b5954e1587e3b7cdaa4ed4b5.flv#klg
 ch,时尚购物,c,abd,0,0
 ssg://u02
 ch,超值购物,c,abd,0,0
