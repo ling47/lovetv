@@ -285,6 +285,10 @@ webvod_https://www.iqiyi.com/v_19rr8ya20o.html
 ch,无所不能,r,1,0,0
 webvod_https://www.iqiyi.com/v_19rrynfmno.html
 webvod_https://v.qq.com/x/cover/b3amf8bfpd3v882.html
+ch,最好的我们,r,1,0,0
+webvod_https://www.iqiyi.com/v_19rqunrp4k.html
+webvod_https://v.youku.com/v_show/id_XNDI4MDk3NDkwMA==.html
+webvod_https://v.qq.com/x/cover/ieyvl3rylsykpcq.html
 ch,至尊先生,r,1,0,0
 webvod_https://www.iqiyi.com/v_19rsdogxs0.html
 ch,新龙门客栈番外篇金镶玉,r,1,0,0
@@ -544,9 +548,11 @@ webvod_https://www.iqiyi.com/v_19rr8cyldo.html
 ch,哥斯拉,r,1,0,0
 webvod_https://www.iqiyi.com/v_19rra2t08c.html
 ch,中国好声音2019,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rrr1mz88.html
 webvod_https://www.iqiyi.com/v_19rrzk4410.html
 webvod_https://www.iqiyi.com/v_19rsesw430.html
 ch,中餐厅3,s,1,0,0
+webvod_https://v.qq.com/x/cover/bzxswjekabx7vp4.html
 webvod_https://v.qq.com/x/cover/mv0fo574ewzwosj.html
 ch,脱口秀大会2,s,1,0,0
 webvod_https://v.qq.com/x/cover/cp1qbee79qtg0w3.html
@@ -602,6 +608,7 @@ webvod_https://www.iqiyi.com/v_19rscr6rbs.html
 webvod_https://www.iqiyi.com/v_19rry3du8g.html
 webvod_https://www.iqiyi.com/v_19rs66bv3c.html
 ch,好房帮帮忙,s,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDI4NjMwMTc1Ng==.html
 webvod_https://v.youku.com/v_show/id_XNDI3Nzk4MDAwNA==.html
 webvod_https://v.youku.com/v_show/id_XNDI2OTY0Mjc4OA==.html
 ch,2019年中音乐盛典,s,1,0,0
@@ -646,6 +653,8 @@ webvod_https://www.iqiyi.com/v_19rs9nhnjk.html
 webvod_https://www.iqiyi.com/v_19rskzk33w.html
 webvod_https://www.iqiyi.com/v_19rsnqdmyc.html
 ch,中国新说唱2019,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rrrf6rmg.html
+webvod_https://www.iqiyi.com/v_19rrrecuwk.html
 webvod_https://www.iqiyi.com/v_19rs4iszyc.html
 webvod_https://www.iqiyi.com/v_19rrzsrlt8.html
 webvod_https://www.iqiyi.com/v_19rscgulqs.html
@@ -653,6 +662,7 @@ webvod_https://www.iqiyi.com/v_19rsefklys.html
 webvod_https://www.iqiyi.com/v_19rs8ndt5c.html
 webvod_https://www.iqiyi.com/v_19rs6u87kg.html
 ch,这就是街舞,s,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDI4ODgzNzU0OA==.html
 webvod_https://v.youku.com/v_show/id_XNDEyNDIwOTk2MA==.html
 webvod_https://v.youku.com/v_show/id_XNDEyNDIwNjQ1Ng==.html
 webvod_https://v.youku.com/v_show/id_XNDEyNDIwMTEzMg==.html
@@ -683,6 +693,13 @@ webvod_https://v.youku.com/v_show/id_XNDIwNDQxMzgwNA==.html
 webvod_https://v.youku.com/v_show/id_XNDE5NTMxNjk1Ng==.html
 webvod_https://v.youku.com/v_show/id_XNDE4NjM3MjYxMg==.html
 webvod_https://v.youku.com/v_show/id_XNDE3Nzg1NTA4OA==.html
+ch,声入人心2,s,1,0,0
+webvod_https://v.qq.com/x/cover/zvuhvaxwoyt131c.html
+webvod_https://v.qq.com/x/cover/6i2h6aqpfxbmmnz.html
+ch,篮板青春,s,1,0,0
+webvod_https://v.qq.com/x/cover/4chw9sseulfian4.html
+webvod_https://v.qq.com/x/cover/a0jnak6qbtngh8z.html
+webvod_https://v.qq.com/x/cover/z4ehnkyvo9rwgbg.html
 ch,青春环游记,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rs4f56cc.html
 webvod_https://www.iqiyi.com/v_19rseupn40.html
