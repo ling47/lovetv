@@ -1,13 +1,13 @@
-ch,环球购物,c,#,0,0
-hqg://c01
 ch,南方购物,c,#,0,0
 dlb://4653bc08-3eac-4638-813d-bf513db68210#nfg
 ch,优购物,c,#,0,0
 ugw://u01
 ch,家有购物,c,#,0,0	
 dlb://0d0501e9-5bd8-4989-9cce-af1e887b193e#jyg
-ch,家家购物,c,abd,0,0	
+ch,家家购物,c,#,0,0	
 dlb://a1f48b35-150d-4360-95a3-7b513c04b486#jjg
+ch,环球购物,c,abd,0,0
+hqg://c01
 ch,时尚购物,c,abd,0,0
 ssg://u02
 ch,好享购物,c,abd,0,0
