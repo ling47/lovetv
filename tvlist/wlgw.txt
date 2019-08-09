@@ -1,11 +1,11 @@
-ch,优购物,c,#,0,0
+ch,优购物,c,a#,0,0
 ugw://u01
-ch,家有购物,c,a,0,0	
+ch,家有购物,c,b#,0,0	
 dlb://0d0501e9-5bd8-4989-9cce-af1e887b193e#jyg
-ch,快乐购物,c,b,0,0
-dlb://aa5c7c86-7aca-4c62-be2d-dd4207eb39b4#klg
-ch,时尚购物,c,a,0,0
+ch,时尚购物,c,d#,0,0
 ssg://u02
+ch,快乐购物,c,a,0,0
+dlb://aa5c7c86-7aca-4c62-be2d-dd4207eb39b4#klg
 ch,环球购物,c,b,0,0
 hqg://c01
 ch,南方购物,c,d,0,0
