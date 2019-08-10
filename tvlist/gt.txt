@@ -55,10 +55,6 @@ http://stream.mastvnet.com/MASTV/sd/live.m3u8
 http://live.mastvnet.com/n1rtlHG/500/live.m3u8
 ch,澳门莲花,y,1,0,0
 http://www.chengbo.org/a2/amlh.m3u8?id=mtv
-ch,开电视,y,1,0,0
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-ch,寰宇新闻2,y,1,0,0
-http://www.chengbo.org/a2/twhappy.m3u8?id=hyxw2
 ch,民视高清,y,1,0,0
 lvvjms://23.237.32.182:8500:3502/live/cid=450
 http://60.251.37.44:8080/live/yyv7659.m3u8
