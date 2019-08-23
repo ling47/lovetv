@@ -1,1 +1,2 @@
-com.xiaodianshi.tv.yst,http://lqcdn.dangbei.net/zhu/ystxds-Y-release-1.1.6.2-b0312.1147_dangbei05.apk,456789,1,1111111111
+com.cibn.tv,http://lqcdn.dangbei.net/zhu/yk4_7.3.1.1_.apk,0,1,122222222
+com.m1905.tv,http://app.znds.com/down/20190813/1905_2.9.0_dangbei.apk,5678,1,122222222
