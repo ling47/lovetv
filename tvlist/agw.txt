@@ -1,6 +1,6 @@
 ch,优购物,c,a#,0,0
-ugw://u17
 ugw://u01
+ugw://u17
 ch,快乐购物,c,b#,0,0
 dlb://aa5c7c86-7aca-4c62-be2d-dd4207eb39b4#klg
 ch,环球购物,c,d*#,0,0
