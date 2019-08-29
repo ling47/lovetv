@@ -9,10 +9,14 @@ ch,精选购物,c,*#,0,0
 http://ha.wheel.duolebo.com/live.m3u8?p=12d1e502-80da-46a5-ad9a-3b690d72d7ba&c=338914494&m3u8=true
 http://hb.wheel.duolebo.com/live.m3u8?p=0429ff98-2f2f-48cd-ae3e-55f876b3c5b9&c=338914494&m3u8=true
 http://p.wheel.duolebo.com/live?p=472755ff-ddeb-4853-b3a4-25e6e7bbcc2f&c=338914494&m3u8=true
-ch,家有购物,c,a*,0,0	
+ch,家有购物,c,abd*,0,0	
 dlb://0d0501e9-5bd8-4989-9cce-af1e887b193e#jyg
-ch,超值购物,c,d*,0,0
+ch,超值购物,c,abd*,0,0
 dlb://4f751483-44fe-43b4-a903-21c06e4076e7#byl
+ch,快乐购物,c,abd*,0,0
+dlb://aa5c7c86-7aca-4c62-be2d-dd4207eb39b4#klg
+ch,家家购物,c,abd*,0,0	
+dlb://a1f48b35-150d-4360-95a3-7b513c04b486#jjg
 ch,南方购物,c,abd*,0,0
 dlb://4653bc08-3eac-4638-813d-bf513db68210#nfg
 ch,好享购物,c,abd*,0,0
