@@ -668,6 +668,7 @@ webvod_https://v.qq.com/x/cover/j77clxzmipfv8x3.html
 webvod_https://v.qq.com/x/cover/bzxswjekabx7vp4.html
 webvod_https://v.qq.com/x/cover/mv0fo574ewzwosj.html
 ch,我家小两口,s,1,0,0
+webvod_https://v.qq.com/x/cover/mzc00200m6my6qi.html
 webvod_https://v.qq.com/x/cover/mzc00200g5qnwft.html
 webvod_https://v.qq.com/x/cover/mzc002009n15z13.html
 webvod_https://v.qq.com/x/cover/mzc002001a3avm2.html
@@ -677,12 +678,14 @@ webvod_https://v.qq.com/x/cover/533uqt39ll0okir.html
 webvod_https://v.qq.com/x/cover/c7sb1hyaxb89rli.html
 webvod_https://v.qq.com/x/cover/tt588x6k8x5s8lr.html
 ch,中国达人秀6,s,1,0,0
+webvod_https://v.qq.com/x/cover/mzc00200eiw0u1y.html
 webvod_https://v.qq.com/x/cover/mzc00200kgso4u0.html
 webvod_https://v.qq.com/x/cover/mzc00200mqqi2uu.html
 webvod_https://v.qq.com/x/cover/mzc002004vudgpz.html
 ch,2019湖南卫视全球汽车夜,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rrqdn7qc.html
 ch,一起乐队吧,s,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDI1ODU2MTUyNA==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODU2MDI4MA==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODU1ODkyOA==.html
 ch,声入人心2,s,1,0,0
@@ -707,6 +710,7 @@ webvod_https://www.iqiyi.com/v_19rt9oyor4.html
 webvod_https://www.iqiyi.com/v_19rtj25fm8.html
 webvod_https://www.iqiyi.com/v_19rrqn12c4.html
 ch,这就是灌篮第二季,s,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDI2OTM5Nzc5Mg==.html
 webvod_https://v.youku.com/v_show/id_XNDI2OTM5NjIyOA==.html
 ch,篮板青春,s,1,0,0
 webvod_https://v.qq.com/x/cover/mzc00200yk86exc.html
@@ -748,6 +752,7 @@ ch,我要打篮球,s,1,0,0
 webvod_https://v.qq.com/x/cover/mzc0020064qcywk.html
 webvod_https://v.qq.com/x/cover/zi42o595ov41aku.html
 ch,各位游客请注意,s,1,0,0
+webvod_https://www.iqiyi.com/v_19rsp0szv4.html
 webvod_https://www.iqiyi.com/v_19rsy9r4pw.html
 webvod_https://www.iqiyi.com/v_19rt7rd3ak.html
 webvod_https://www.iqiyi.com/v_19rrwm2adk.html

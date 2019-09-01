@@ -35,6 +35,7 @@ http://220.158.149.14:9999/live/TV00000000000000000036@HHZT;LIVE
 ch,翡翠台,y,1,0,0
 http://www.chengbo.org/a2/hklive2.m3u8?id=jade
 http://www.chengbo.org/a2/dl.m3u8?id=jade
+http://219.232.160.161:5080/hls/bycgekwh.m3u8
 lvvjms://183.56.174.14:8500:3502/live/cid=362
 http://www.chengbo.org/a2/smart.m3u8?playurl=http://185.180.221.193:8278/Jade/playlist.m3u8
 lvvjms://125.88.149.195:8500:3507/live/cid=362
@@ -43,6 +44,7 @@ lvvjms://58.215.133.185:8500/live/cid=362
 ch,明珠台,y,1,0,0
 http://www.chengbo.org/a2/hklive2.m3u8?id=mzt
 http://www.chengbo.org/a2/dl.m3u8?id=mzt
+http://219.232.160.161:5080/hls/b2xajcu7.m3u8
 lvvjms://23.237.32.182:8500:3502/live/cid=367
 lvvjms://58.215.133.185:8500:3502/live/cid=367
 lvvjms://125.88.149.195:8500:3507/live/cid=367
@@ -66,9 +68,9 @@ ch,无线财经,y,1,0,0
 http://www.chengbo.org/a2/hklive2.m3u8?id=wxcj
 http://www.chengbo.org/a2/dl.m3u8?id=wxcj
 lvvjms://23.237.32.182:8500:3502/live/cid=363
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 lvvjms://125.88.149.195:8500:3507/live/cid=363
 lvvjms://58.215.133.185:8500:3502/live/cid=363&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=O2OQLG1dyT5m29AZBrXQe
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 ch,星河,y,1,0,0
 http://www.chengbo.org/a2/hklive2.m3u8?id=xh
 http://www.chengbo.org/a2/dl.m3u8?id=xh
@@ -115,6 +117,9 @@ http://www.chengbo.org/a2/hklive2.m3u8?id=tydy
 http://www.chengbo.org/a2/dl.m3u8?id=tydy
 http://www.chengbo.org/a2/smart.m3u8?playurl=http://50.7.161.82:8278/Celestial/playlist.m3u8
 http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
+ch,寰宇新闻2,y,1,0,0
+http://www.chengbo.org/a2/twhappy.m3u8?id=hyxw2
+http://www.chengbo.org/a2/dl.m3u8?id=hyxw2
 ch,梅迪奇艺术,y,1,0,0
 http://www.chengbo.org/a2/twhappy.m3u8?id=mdy
 ch,人间卫视,y,1,0,0
@@ -125,6 +130,8 @@ ch,﻿博斯魅力台,y,1,0,0
 http://www.chengbo.org/a2/twhappy.m3u8?id=bsml
 ch,博斯高球台,y,1,0,0
 http://www.chengbo.org/a2/twhappy.m3u8?id=bsgq
+lvvjms://125.88.149.195:8500:3507/live/cid=265
+lvvjms://23.237.32.182:8500:3502/live/cid=265
 ch,博斯高球二台,y,1,0,0
 http://www.chengbo.org/a2/twhappy.m3u8?id=bsgq2
 ch,博斯運動網,y,1,0,0
@@ -149,12 +156,6 @@ ch,BabyFirst,y,1,0,0
 http://www.chengbo.org/a2/twhappy.m3u8?id=bb
 ch,VTV1,y,1,0,0
 http://www.chengbo.org/a2/twhappy.m3u8?id=yn
-ch,寰宇新闻2,y,1,0,0
-http://www.chengbo.org/a2/twhappy.m3u8?id=hyxw2
-http://www.chengbo.org/a2/dl.m3u8?id=hyxw2
-ch,开电视,y,1,0,0
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-http://111.13.111.197/media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 ch,美亚电影,y,1,0,0
 http://www.chengbo.org/a2/dl.m3u8?id=mydy
 http://www.chengbo.org/a2/smart.m3u8?playurl=http://185.180.221.193:8278/meiyamovie_twn/playlist.m3u8
@@ -293,9 +294,6 @@ lvvjms://125.88.149.195:8500:3507/live/cid=202
 lvvjms://23.237.32.182:8500:3502/live/cid=202
 lvvjms://58.215.133.185:8500:3502/live/cid=202
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
-ch,博斯高球,y,1,0,0
-lvvjms://125.88.149.195:8500:3507/live/cid=265
-lvvjms://23.237.32.182:8500:3502/live/cid=265
 ch,大爱,y,1,0,0
 lvvjms://125.88.149.195:8500:3507/live/cid=442
 lvvjms://23.237.32.182:8500:3502/live/cid=442
@@ -563,6 +561,7 @@ http://202.39.28.229:8101/0.ts
 lvvjms://58.215.133.185:8500:3502/live/cid=418&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
 http://220.158.149.14:9999/live/TV00000000000000000109@HHZT;LIVE
 http://ott-cdn.ucom.am/s24/index.m3u8
+http://www.chengbo.org/a2/dl.m3u8?id=bbc
 ch,CNN英文,y,1,0,0
 lvvjms://58.215.133.184:8500:3502/live/cid=428
 lvvjms://58.215.133.185:8500/live/cid=428
@@ -625,16 +624,6 @@ lvvjms://58.215.133.184:8500:3502/live/cid=318
 lvvjms://58.215.133.185:8500/live/cid=318
 lvvjms://58.215.133.184:8500:3502/live/cid=318&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=BxHygp3dh6COzXsikrxD
 lvvjms://58.215.133.185:8500:3502/live/cid=318&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
-lvvjms://58.215.133.184:8500:3502/live/cid=310
-lvvjms://58.215.133.185:8500/live/cid=310
-lvvjms://58.215.133.184:8500:3502/live/cid=310&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=BxHygp3dh6COzXsikrxD
-lvvjms://58.215.133.185:8500:3502/live/cid=310&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
-ch,NHK综合,y,1,0,0
-lvvjms://58.215.133.184:8500:3502/live/cid=309
-lvvjms://58.215.133.185:8500/live/cid=309
-lvvjms://58.215.133.184:8500:3502/live/cid=309&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=BxHygp3dh6COzXsikrxD
-lvvjms://58.215.133.185:8500:3502/live/cid=309&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
-ch,NHK教育,y,1,0,0
 lvvjms://58.215.133.184:8500:3502/live/cid=310
 lvvjms://58.215.133.185:8500/live/cid=310
 lvvjms://58.215.133.184:8500:3502/live/cid=310&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=BxHygp3dh6COzXsikrxD
@@ -924,8 +913,6 @@ lvvjms://58.215.133.185:8500:3502/live/cid=302&delay=200&httpbuf=200&memory=50|h
 ch,QVC,y,1,0,0
 lvvjms://58.215.133.184:8500:3502/live/cid=302&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=BxHygp3dh6COzXsikrxD
 lvvjms://58.215.133.185:8500:3502/live/cid=302&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
-ch,RHK31,y,1,0,0
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 ch,SAN,y,1,0,0
 lvvjms://58.215.133.184:8500:3502/live/cid=320
 lvvjms://58.215.133.185:8500/live/cid=320
