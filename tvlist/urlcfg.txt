@@ -10,6 +10,4 @@ lvwbd-https://660e.com/?url=%s
 lvgitv-http://223.110.242.130:6610/gitv/live1/%s/1.m3u8
 lvaia-http://1.180.237.9/live.aishang.ctlcdn.com/%s/encoder/0/playlist.m3u8
 lvxhtv-http://www.chengbo.org/a2/%s
-lvzjtv-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=%s&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-lvgztv-http://zb.lxb666.xyz/gzzb.php?id=%s
 lvjscnwx-http://slave.jscnwx.com:13164/playurl?protocol=hls&playtype=live&auth=no&accesstoken=R5AFFA7BBU308EE0ABK7735A70CI146FE473PBM3143450WDE2A287F8B2&&playtoken=ABCDEFGH&programid=%s
