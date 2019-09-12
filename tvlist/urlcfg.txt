@@ -1,6 +1,6 @@
 hqg-http://aizhibo.%s.live.sharkselection.com/ghs.m3u8
 ugw-http://net.%s.live.siqiangame.com/ugo.m3u8
-ssg-http://net.%s.live.17ugo.com/ugo.m3u8
+ssg-http://net.%s.live.siqiangame.com/ugo.m3u8
 klg-http://%s.doulaibo.cn/live/%s_trans/playlist.m3u8
 dlb-http://ha.wheel.duolebo.com/live.m3u8?p=%s&c=338914494&m3u8=true
 ivi-http://ivi.bupt.edu.cn/hls/%s.m3u8
@@ -10,4 +10,3 @@ lvwbd-https://660e.com/?url=%s
 lvxhtv-http://www.chengbo.org/b1/%s
 lvgitv-http://223.110.242.130:6610/gitv/live1/%s/1.m3u8
 lvaia-http://1.180.237.9/live.aishang.ctlcdn.com/%s/encoder/0/playlist.m3u8
-lvjscnwx-http://slave.jscnwx.com:13164/playurl?protocol=hls&playtype=live&auth=no&accesstoken=R5AFFA7BBU308EE0ABK7735A70CI146FE473PBM3143450WDE2A287F8B2&&playtoken=ABCDEFGH&programid=%s
