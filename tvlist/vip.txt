@@ -296,7 +296,7 @@ webvod_https://v.youku.com/v_show/id_XMzk1MjA4NzgxMg==.html
 ch,胖子行动队,q,1,0,0
 webvod_https://www.mgtv.com/b/324942/4784890.html
 webvod_https://v.youku.com/v_show/id_XMzk1MDMyNjY1Mg==.html
-ch,蜘蛛侠:英雄远征
+ch,蜘蛛侠:英雄远征,r,1,0,0
 webvod_https://v.qq.com/x/cover/96sxjj429lictza/v0032ebahef.html
 webvod_https://www.mgtv.com/b/331445/6282691.html
 webvod_https://v.youku.com/v_show/id_XNDM1Nzg4MzQ4MA==.html
@@ -855,6 +855,7 @@ webvod_https://v.qq.com/x/cover/zi42o595ov41aku.html
 webvod_https://v.qq.com/x/cover/mzc0020064qcywk.html
 webvod_https://v.qq.com/x/cover/mzc00200h47gvo4.html
 webvod_https://v.qq.com/x/cover/mzc0020041od4at.html
+webvod_https://v.qq.com/x/cover/mzc00200c8aqkv0.html
 ch,这就是灌篮第二季,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDI2OTM5NjIyOA==.html
 webvod_https://v.youku.com/v_show/id_XNDI2OTM5Nzc5Mg==.html

@@ -10,6 +10,8 @@ hqg://c01
 ch,精选购物,c,ab*,0,0
 http://ha.wheel.duolebo.com/live.m3u8?p=12d1e502-80da-46a5-ad9a-3b690d72d7ba&c=338914494&m3u8=true
 http://hb.wheel.duolebo.com/live.m3u8?p=0429ff98-2f2f-48cd-ae3e-55f876b3c5b9&c=338914494&m3u8=true
+ch,南方购物,c,ab*,0,0
+dlb://4653bc08-3eac-4638-813d-bf513db68210#nfg
 ch,超值特卖,c,a*,0,0
 dlb://4f751483-44fe-43b4-a903-21c06e4076e7#byl
 ch,家家购物,c,ab*,0,0
@@ -18,12 +20,14 @@ ch,购好东西,c,b*,0,0
 dlb://c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a#byl
 ch,好享购物,c,ab*,0,0
 dlb://98c6e655-b404-49a9-b8ac-a1dea2d3de6a#hxg
-ch,南方购物,c,ab*,0,0
-dlb://4653bc08-3eac-4638-813d-bf513db68210#nfg
 ch,风尚购物,c,ab*,0,0
 dlb://1d945ebb-4f98-4da7-8582-05ff284533fb#fsg
 ch,家有畅销,c,*,0,0
 dlb://a70cfc61-f961-4c54-9e61-8f5af0d6f386#jyg
+ch,快乐新品,c,*,0,0
+dlb://3f6e16de-63be-48fe-894a-e5327e94c5a3#klg
+ch,南方畅销,c,*,0,0
+dlb://8e394596-990a-4042-b188-f1febd693272#nfg
 ch,家家新品,c,*,0,0
 dlb://e15b0008-f6b9-4e44-92c8-83d3dacb3d48#jjg
 ch,好享畅销,c,*,0,0
