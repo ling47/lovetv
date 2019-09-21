@@ -784,6 +784,7 @@ webvod_https://www.iqiyi.com/v_19rsy9r4pw.html
 webvod_https://www.iqiyi.com/v_19rsp0szv4.html
 webvod_https://www.iqiyi.com/v_19rufwl300.html
 webvod_https://www.iqiyi.com/v_19ru9af5m4.html
+webvod_https://www.iqiyi.com/v_19ru0ibzik.html
 ch,恋梦空间第二季,s,1,0,0
 webvod_https://www.mgtv.com/b/330154/6081605.html
 webvod_https://www.mgtv.com/b/330154/6122273.html
@@ -836,6 +837,7 @@ webvod_https://v.youku.com/v_show/id_XNDI1ODU2MDI4MA==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODU2MTUyNA==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODU2MzA3Ng==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODU2NDI5Mg==.html
+webvod_https://v.youku.com/v_show/id_XNDI1ODU2NjM2NA==.html
 ch,声入人心2,s,1,0,0
 webvod_https://v.qq.com/x/cover/6i2h6aqpfxbmmnz.html
 webvod_https://v.qq.com/x/cover/zvuhvaxwoyt131c.html
