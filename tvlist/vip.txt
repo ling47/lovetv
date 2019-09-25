@@ -753,6 +753,7 @@ ch,一路成年,s,1,0,0
 webvod_https://www.mgtv.com/b/331001/6309464.html
 webvod_https://www.mgtv.com/b/331001/6351023.html
 webvod_https://www.mgtv.com/b/331001/6393729.html
+webvod_https://www.mgtv.com/b/331001/6442394.html
 ch,中国好声音2019,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rsesw430.html
 webvod_https://www.iqiyi.com/v_19rrzk4410.html
@@ -820,10 +821,12 @@ webvod_https://v.qq.com/x/cover/mzc00200g5qnwft.html
 webvod_https://v.qq.com/x/cover/mzc00200m6my6qi.html
 webvod_https://v.qq.com/x/cover/mzc00200dvxlvjj.html
 webvod_https://v.qq.com/x/cover/mzc002004p6n41l.html
+webvod_https://v.qq.com/x/cover/mzc00200wzutwhv.html
 ch,我们恋爱吧,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDM0MjA3OTY4OA==.html
 webvod_https://v.youku.com/v_show/id_XNDM0MjA4MDkxMg==.html
 webvod_https://v.youku.com/v_show/id_XNDM0MjA4OTY0NA==.html
+webvod_https://v.youku.com/v_show/id_XNDM2OTM5MDE3Mg==.html
 ch,中国达人秀6,s,1,0,0
 webvod_https://v.qq.com/x/cover/mzc002004vudgpz.html
 webvod_https://v.qq.com/x/cover/mzc00200mqqi2uu.html
@@ -831,6 +834,7 @@ webvod_https://v.qq.com/x/cover/mzc00200kgso4u0.html
 webvod_https://v.qq.com/x/cover/mzc00200eiw0u1y.html
 webvod_https://v.qq.com/x/cover/mzc002004v6l41j.html
 webvod_https://v.qq.com/x/cover/mzc00200l15v7zx.html
+webvod_https://v.qq.com/x/cover/mzc00200e0qwimo.html
 ch,一起乐队吧,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDI1ODU1ODkyOA==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODU2MDI4MA==.html
@@ -859,6 +863,7 @@ webvod_https://v.qq.com/x/cover/mzc00200kwuqkng.html
 webvod_https://v.qq.com/x/cover/mzc00200mn8d237.html
 webvod_https://v.qq.com/x/cover/mzc002000ru5olz.html
 webvod_https://v.qq.com/x/cover/mzc0020022u62ee.html
+webvod_https://v.qq.com/x/cover/mzc00200zlzzlpl.html
 ch,做家务的男人,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rrqn12c4.html
 webvod_https://www.iqiyi.com/v_19rtj25fm8.html
@@ -907,6 +912,7 @@ webvod_https://www.mgtv.com/b/329704/6276278.html
 webvod_https://www.mgtv.com/b/329704/6309229.html
 webvod_https://www.mgtv.com/b/329704/6351236.html
 webvod_https://www.mgtv.com/b/329704/6393888.html
+webvod_https://www.mgtv.com/b/329704/6438564.html
 ch,哎呀好身材,s,1,0,0
 webvod_https://www.mgtv.com/b/330996/6293408.html
 webvod_https://www.mgtv.com/b/330996/6340819.html
@@ -925,6 +931,7 @@ webvod_https://v.youku.com/v_show/id_XNDI1ODY3NDc1Ng==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODY3NjYwMA==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODY4MzkxNg==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODY4NTUxNg==.html
+webvod_https://v.youku.com/v_show/id_XNDI1ODY4NzA5Mg==.html
 ch,中国新说唱2019,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rss26ubs.html
 webvod_https://www.iqiyi.com/v_19rss25z6g.html
