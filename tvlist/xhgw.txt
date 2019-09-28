@@ -1,4 +1,4 @@
-ch,家有购物,c,#,0,0	
+ch,家有购物,c,ab*,0,0	
 dlb://0d0501e9-5bd8-4989-9cce-af1e887b193e#jyg
 ch,超值购物,c,a*,0,0
 dlb://4f751483-44fe-43b4-a903-21c06e4076e7#byl
@@ -8,14 +8,14 @@ ch,购好东西,c,b*,0,0
 dlb://c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a#byl
 ch,快乐购物,c,ab*,0,0
 dlb://aa5c7c86-7aca-4c62-be2d-dd4207eb39b4#klg
+ch,精选购物,c,ab#*,0,0
+http://ha.wheel.duolebo.com/live.m3u8?p=12d1e502-80da-46a5-ad9a-3b690d72d7ba&c=338914494&m3u8=true
+http://hb.wheel.duolebo.com/live.m3u8?p=0429ff98-2f2f-48cd-ae3e-55f876b3c5b9&c=338914494&m3u8=true
 ch,优购物,c,ab#*,0,0
 ugw://u01
 ugw://u17
 ch,环球购物,c,ab#*,0,0
 hqg://c01
-ch,精选购物,c,ab*,0,0
-http://ha.wheel.duolebo.com/live.m3u8?p=12d1e502-80da-46a5-ad9a-3b690d72d7ba&c=338914494&m3u8=true
-http://hb.wheel.duolebo.com/live.m3u8?p=0429ff98-2f2f-48cd-ae3e-55f876b3c5b9&c=338914494&m3u8=true
 ch,南方购物,c,ab*,0,0
 dlb://4653bc08-3eac-4638-813d-bf513db68210#nfg
 ch,好享购物,c,ab*,0,0
