@@ -306,6 +306,26 @@ webvod_https://v.youku.com/v_show/id_XMzk1MjA4NzgxMg==.html
 ch,胖子行动队,q,1,0,0
 webvod_https://www.mgtv.com/b/324942/4784890.html
 webvod_https://v.youku.com/v_show/id_XMzk1MDMyNjY1Mg==.html
+ch,龙牌之谜,r,1,0,0
+webvod_https://www.mgtv.com/b/330821/6450278.html
+webvod_https://www.iqiyi.com/v_19rr7pmunk.html
+webvod_https://v.qq.com/x/cover/og9hipn5klcre2v.html
+webvod_https://v.youku.com/v_show/id_XNDM2ODczNzEwMA==.html
+ch,大侦探皮卡丘,r,1,0,0
+webvod_https://www.mgtv.com/b/327120/6479134.html
+webvod_https://www.iqiyi.com/v_19rrcugkf8.html
+webvod_https://v.qq.com/x/cover/2acva9s87eg7m8g.html
+webvod_https://v.youku.com/v_show/id_XNDM3NzMxODQ1Mg==.html
+ch,S4侠降魔记,r,1,0,0
+webvod_https://v.youku.com/v_show/id_XMzMyMjg0NjY0MA==.html
+ch,猎袭,r,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDM2Mzk1MDE1Ng==.html
+ch,偷龙换凤,r,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDM3MTg5OTE2OA==.html
+ch,陌路徒者,r,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDM3MjE0MzUyOA==.html
+ch,缉毒风暴,r,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDM1NjE0MzMzMg==.html
 ch,保持沉默,r,1,0,0
 webvod_https://www.mgtv.com/b/293929/6428464.html
 webvod_https://www.iqiyi.com/v_19rr7p4q9k.html
@@ -317,6 +337,10 @@ ch,金蝉脱壳3:恶魔车站,r,1,0,0
 webvod_https://www.iqiyi.com/v_19rt3q8008.html
 ch,赤焰战场2,r,1,0,0
 webvod_https://www.iqiyi.com/v_19rrg2hwqg.html
+ch,毒液:致命守护者,r,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDAwNDUxMzUyOA==.html
+ch,精英部队2,r,1,0,0
+webvod_https://v.youku.com/v_show/id_XMzYzMTMwOTEy.html
 ch,一条狗的使命2,r,1,0,0
 webvod_https://www.iqiyi.com/v_19rt9mj9dc.html
 webvod_https://v.qq.com/x/cover/n760yxvaxaaosdq/z00316rzxra.html
@@ -372,6 +396,9 @@ webvod_https://www.iqiyi.com/v_19rrfzbn2c.html
 ch,追龙,r,1,0,0
 webvod_https://www.iqiyi.com/v_19rr8ya20o.html
 ch,使徒行者,r,1,0,0
+webvod_https://www.mgtv.com/b/293756/3590047.html
+webvod_https://v.youku.com/v_show/id_XMTcxNTA2OTEwNA==.html
+webvod_https://v.qq.com/x/cover/d29dakv9k1xy9p9/s00218fstio.html
 webvod_https://www.iqiyi.com/v_19rrm2pgd4.html
 ch,巨鳄,r,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDI4MjY0MTk2OA==.html
@@ -547,8 +574,6 @@ ch,阳台上,r,1,0,0
 webvod_https://www.iqiyi.com/v_19rrcch4jk.html
 webvod_https://v.youku.com/v_show/id_XNDEzNDU4MjAzMg==.html
 webvod_https://v.qq.com/x/cover/ku64t09tvkkzuky.html
-ch,精英部队2,r,1,0,0
-webvod_https://v.youku.com/v_show/id_XMzYzMTMwOTEy.html
 ch,大黄蜂,r,1,0,0
 webvod_https://v.qq.com/x/cover/i43tfclvbhiy0kn.html
 ch,鲨鱼帝国,r,1,0,0
@@ -629,8 +654,6 @@ ch,智深传2,r,1,0,0
 webvod_https://www.iqiyi.com/v_19rs8nsvlk.html
 ch,花与将,r,1,0,0
 webvod_https://www.iqiyi.com/v_19rslbmpu8.html
-ch,毒液:致命守护者,r,1,0,0
-webvod_https://v.youku.com/v_show/id_XNDAwNDUxMzUyOA==.html
 ch,真爱百分百,r,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDI0MzM2OTUyMA==.html
 ch,嫁我吧,哥们,r,1,0,0
@@ -774,6 +797,7 @@ webvod_https://www.iqiyi.com/v_19ruevy69k.html
 webvod_https://www.iqiyi.com/v_19ru7sf4x4.html
 webvod_https://www.iqiyi.com/v_19ru8wmwac.html
 webvod_https://www.iqiyi.com/v_19rtzl0v9g.html
+webvod_https://www.iqiyi.com/v_19ru5ggcco.html
 ch,中餐厅3,s,1,0,0
 webvod_https://v.qq.com/x/cover/mv0fo574ewzwosj.html
 webvod_https://v.qq.com/x/cover/bzxswjekabx7vp4.html
@@ -785,6 +809,7 @@ webvod_https://v.qq.com/x/cover/mzc00200s5ejkxp.html
 webvod_https://v.qq.com/x/cover/mzc00200q26aewi.html
 webvod_https://v.qq.com/x/cover/mzc002007znthln.html
 webvod_https://v.qq.com/x/cover/mzc002008ni5kh7.html
+webvod_https://v.qq.com/x/cover/mzc00200mjuzyg3.html
 ch,各位游客请注意,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rrwm2adk.html
 webvod_https://www.iqiyi.com/v_19rt7rd3ak.html
@@ -802,6 +827,7 @@ webvod_https://www.mgtv.com/b/330154/6247269.html
 webvod_https://www.mgtv.com/b/330154/6290805.html
 webvod_https://www.mgtv.com/b/330154/6326248.html
 webvod_https://www.mgtv.com/b/330154/6412818.html
+webvod_https://www.mgtv.com/b/330154/6468718.html
 ch,恋梦空间第一季,s,1,0,0
 webvod_https://www.mgtv.com/b/327509/4971458.html
 webvod_https://www.mgtv.com/b/327509/5009034.html
@@ -829,6 +855,9 @@ webvod_https://v.qq.com/x/cover/mzc00200m6my6qi.html
 webvod_https://v.qq.com/x/cover/mzc00200dvxlvjj.html
 webvod_https://v.qq.com/x/cover/mzc002004p6n41l.html
 webvod_https://v.qq.com/x/cover/mzc00200wzutwhv.html
+ch,音浪合伙人,s,1,0,0
+webvod_https://www.iqiyi.com/v_19ru5wc8qk.html
+webvod_https://www.iqiyi.com/v_19ru0qtfmw.html
 ch,我们恋爱吧,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDM0MjA3OTY4OA==.html
 webvod_https://v.youku.com/v_show/id_XNDM0MjA4MDkxMg==.html
@@ -849,6 +878,7 @@ webvod_https://v.youku.com/v_show/id_XNDI1ODU2MTUyNA==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODU2MzA3Ng==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODU2NDI5Mg==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODU2NjM2NA==.html
+webvod_https://v.youku.com/v_show/id_XNDI1ODU2NzYwOA==.html
 ch,声入人心2,s,1,0,0
 webvod_https://v.qq.com/x/cover/6i2h6aqpfxbmmnz.html
 webvod_https://v.qq.com/x/cover/zvuhvaxwoyt131c.html
@@ -860,6 +890,7 @@ webvod_https://v.qq.com/x/cover/mzc00200su4mceu.html
 webvod_https://v.qq.com/x/cover/mzc00200qz012h3.html
 webvod_https://v.qq.com/x/cover/mzc00200evgxa3r.html
 webvod_https://v.qq.com/x/cover/mzc00200aweg264.html
+webvod_https://v.qq.com/x/cover/mzc00200ktc9keh.html
 ch,脱口秀大会2,s,1,0,0
 webvod_https://v.qq.com/x/cover/cp1qbee79qtg0w3.html
 webvod_https://v.qq.com/x/cover/v2vzzlojjv8463w.html
@@ -880,6 +911,7 @@ webvod_https://www.iqiyi.com/v_19rsqyewtc.html
 webvod_https://www.iqiyi.com/v_19ruh2vwn8.html
 webvod_https://www.iqiyi.com/v_19rukh6zjo.html
 webvod_https://www.iqiyi.com/v_19rubvxpf8.html
+webvod_https://www.iqiyi.com/v_19ru4nfp2o.html
 ch,我要打篮球,s,1,0,0
 webvod_https://v.qq.com/x/cover/zi42o595ov41aku.html
 webvod_https://v.qq.com/x/cover/mzc0020064qcywk.html
@@ -932,6 +964,7 @@ webvod_https://v.youku.com/v_show/id_XNDMzNjcxOTYzMg==.html
 webvod_https://v.youku.com/v_show/id_XNDM1MTMzMDE2MA==.html
 webvod_https://v.youku.com/v_show/id_XNDM2MDI1ODYzMg==.html
 webvod_https://v.youku.com/v_show/id_XNDM2ODkyOTM3Mg==.html
+webvod_https://v.youku.com/v_show/id_XNDM3NzM5NzcyMA==.html
 ch,花花万物2,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDI1ODY2MjI5Mg==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODY2Njk4NA==.html
