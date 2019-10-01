@@ -6,7 +6,7 @@ dlb-http://ha.wheel.duolebo.com/live.m3u8?p=%s&c=338914494&m3u8=true
 ivi-http://ivi.bupt.edu.cn/hls/%s.m3u8
 ybs-http://121.31.30.90:8085/ysten-business/live/%s/1.m3u8
 lvwbd-https://660e.com/?url=%s
-lvxhtv-http://www.chengbo.org/a1/%s
+lvxhtv-http://www.chengbo.org/a2/%s
 lvaia-http://1.180.237.9/live.aishang.ctlcdn.com/%s/encoder/0/playlist.m3u8
 lvjxtv-http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5D5B3459U309D8004K7735B97FI5F1AF02FPBM342D2ADV0Z57EA5W15BC7797F7D83DEF&playtoken=ABCDEFGH&playtype=live&protocol=http&auth=no&programid=%s
 lvttcatv-http://httpdvb.slave.ttcatv.tv:13164/playurl?accesstoken=R5D793341U30923010K77675C76I42CD467DPBM32252A9V1044EZ33519WE434E621B11&playtoken=ABCDEFGHI&playtype=live&protocol=http&programid=%s
