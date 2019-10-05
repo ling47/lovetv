@@ -306,6 +306,11 @@ webvod_https://v.youku.com/v_show/id_XMzk1MjA4NzgxMg==.html
 ch,胖子行动队,q,1,0,0
 webvod_https://www.mgtv.com/b/324942/4784890.html
 webvod_https://v.youku.com/v_show/id_XMzk1MDMyNjY1Mg==.html
+ch,银河补习班,r,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDM3NTQ2NzgzNg==.html
+webvod_https://www.iqiyi.com/v_19rsff5pds.html
+webvod_https://v.qq.com/x/cover/p6xvg0ft471pcj8.html
+webvod_https://www.mgtv.com/b/329939/6500954.html
 ch,烈火英雄,r,1,0,0
 webvod_https://www.mgtv.com/b/330069/6500403.html
 webvod_https://www.iqiyi.com/v_19rsgtgwiw.html
@@ -326,6 +331,19 @@ webvod_https://www.mgtv.com/b/327120/6479134.html
 webvod_https://www.iqiyi.com/v_19rrcugkf8.html
 webvod_https://v.qq.com/x/cover/2acva9s87eg7m8g.html
 webvod_https://v.youku.com/v_show/id_XNDM3NzMxODQ1Mg==.html
+ch,铤而走险,r,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDM3NzE2NzIyNA==.html
+webvod_https://www.iqiyi.com/v_19rsle0cyc.html
+webvod_https://v.qq.com/x/cover/koq4b8pa45ydaho.html
+webvod_https://www.mgtv.com/b/329939/6500954.html
+ch,深夜食堂,r,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDM3Njc2NDA4NA==.html
+webvod_https://v.qq.com/x/cover/6gh5vi62g24a87d.html
+webvod_https://www.mgtv.com/b/323821/6493968.html
+ch,红野菊,r,1,0,0
+webvod_https://v.qq.com/x/cover/mzc00200x0ly3rg.html
+ch,红色之子·单刀赴会,r,1,0,0
+webvod_https://www.iqiyi.com/v_19ru4qylik.html
 ch,士兵的荣耀,r,1,0,0
 webvod_https://v.qq.com/x/cover/mzc002000v8vs8f.html
 ch,程序恋人,r,1,0,0
@@ -797,6 +815,17 @@ ch,超级快递,r,1,0,0
 webvod_https://v.youku.com/v_show/id_XMTg5MTg0ODcxMg==.html
 ch,盗浪淘沙,r,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDExMzU5MjcxNg==.html
+ch,70周年阅兵式,s,1,0,0
+webvod_https://v.youku.com/v_show/id_XNDM4MDQ4Nzc0OA==.html
+ch,国庆晚会,s,1,0,0
+webvod_https://www.iqiyi.com/v_19ru31dyf0.html
+webvod_https://v.qq.com/x/cover/mzc00200v2zktle.html
+ch,为爱下厨,s,1,0,0
+webvod_https://v.qq.com/x/cover/mzc00200b59l52h.html
+webvod_https://v.qq.com/x/cover/mzc00200aacsmv2.html
+webvod_https://v.qq.com/x/cover/mzc00200bizsxjq.html
+webvod_https://v.qq.com/x/cover/mzc00200e7ghalb.html
+webvod_https://v.qq.com/x/cover/mzc00200vp3rp7d.html
 ch,一路成年,s,1,0,0
 webvod_https://www.mgtv.com/b/331001/6309464.html
 webvod_https://www.mgtv.com/b/331001/6351023.html
@@ -818,6 +847,7 @@ webvod_https://www.iqiyi.com/v_19ru8wmwac.html
 webvod_https://www.iqiyi.com/v_19rtzl0v9g.html
 webvod_https://www.iqiyi.com/v_19ru5ggcco.html
 webvod_https://www.iqiyi.com/v_19ru2qv0d8.html
+webvod_https://www.iqiyi.com/v_19rts55oy8.html
 ch,中餐厅3,s,1,0,0
 webvod_https://v.qq.com/x/cover/mv0fo574ewzwosj.html
 webvod_https://v.qq.com/x/cover/bzxswjekabx7vp4.html
@@ -830,6 +860,7 @@ webvod_https://v.qq.com/x/cover/mzc00200q26aewi.html
 webvod_https://v.qq.com/x/cover/mzc002007znthln.html
 webvod_https://v.qq.com/x/cover/mzc002008ni5kh7.html
 webvod_https://v.qq.com/x/cover/mzc00200mjuzyg3.html
+webvod_https://v.qq.com/x/cover/mzc002003dzzdbd.html
 ch,各位游客请注意,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rrwm2adk.html
 webvod_https://www.iqiyi.com/v_19rt7rd3ak.html
@@ -838,6 +869,7 @@ webvod_https://www.iqiyi.com/v_19rsp0szv4.html
 webvod_https://www.iqiyi.com/v_19rufwl300.html
 webvod_https://www.iqiyi.com/v_19ru9af5m4.html
 webvod_https://www.iqiyi.com/v_19ru0ibzik.html
+webvod_https://www.iqiyi.com/v_19rtnq8ouk.html
 ch,恋梦空间第二季,s,1,0,0
 webvod_https://www.mgtv.com/b/330154/6081605.html
 webvod_https://www.mgtv.com/b/330154/6122273.html
@@ -848,6 +880,7 @@ webvod_https://www.mgtv.com/b/330154/6290805.html
 webvod_https://www.mgtv.com/b/330154/6326248.html
 webvod_https://www.mgtv.com/b/330154/6412818.html
 webvod_https://www.mgtv.com/b/330154/6468718.html
+webvod_https://www.mgtv.com/b/330154/6556353.html
 ch,恋梦空间第一季,s,1,0,0
 webvod_https://www.mgtv.com/b/327509/4971458.html
 webvod_https://www.mgtv.com/b/327509/5009034.html
@@ -884,7 +917,8 @@ ch,我们恋爱吧,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDM0MjA3OTY4OA==.html
 webvod_https://v.youku.com/v_show/id_XNDM0MjA4MDkxMg==.html
 webvod_https://v.youku.com/v_show/id_XNDM0MjA4OTY0NA==.html
-webvod_https://v.youku.com/v_show/id_XNDM2OTM5MDE3Mg==.html
+webvod_https://v.youku.com/v_show/id_XNDM0MjA5MDY0MA==.html
+webvod_https://v.youku.com/v_show/id_XNDM0MjA5MTYzMg==.html
 ch,中国达人秀6,s,1,0,0
 webvod_https://v.qq.com/x/cover/mzc002004vudgpz.html
 webvod_https://v.qq.com/x/cover/mzc00200mqqi2uu.html
@@ -894,6 +928,7 @@ webvod_https://v.qq.com/x/cover/mzc002004v6l41j.html
 webvod_https://v.qq.com/x/cover/mzc00200l15v7zx.html
 webvod_https://v.qq.com/x/cover/mzc00200e0qwimo.html
 webvod_https://v.qq.com/x/cover/mzc00200k6kmcme.html
+webvod_https://v.qq.com/x/cover/mzc00200dq54nrm.html
 ch,一起乐队吧,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDI1ODU1ODkyOA==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODU2MDI4MA==.html
@@ -902,6 +937,7 @@ webvod_https://v.youku.com/v_show/id_XNDI1ODU2MzA3Ng==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODU2NDI5Mg==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODU2NjM2NA==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODU2NzYwOA==.html
+webvod_https://v.youku.com/v_show/id_XNDI1ODU2ODY4NA==.html
 ch,声入人心2,s,1,0,0
 webvod_https://v.qq.com/x/cover/6i2h6aqpfxbmmnz.html
 webvod_https://v.qq.com/x/cover/zvuhvaxwoyt131c.html
@@ -914,6 +950,7 @@ webvod_https://v.qq.com/x/cover/mzc00200qz012h3.html
 webvod_https://v.qq.com/x/cover/mzc00200evgxa3r.html
 webvod_https://v.qq.com/x/cover/mzc00200aweg264.html
 webvod_https://v.qq.com/x/cover/mzc00200ktc9keh.html
+webvod_https://v.qq.com/x/cover/mzc00200bm1ydca.html
 ch,脱口秀大会2,s,1,0,0
 webvod_https://v.qq.com/x/cover/cp1qbee79qtg0w3.html
 webvod_https://v.qq.com/x/cover/v2vzzlojjv8463w.html
@@ -935,6 +972,7 @@ webvod_https://www.iqiyi.com/v_19ruh2vwn8.html
 webvod_https://www.iqiyi.com/v_19rukh6zjo.html
 webvod_https://www.iqiyi.com/v_19rubvxpf8.html
 webvod_https://www.iqiyi.com/v_19ru4nfp2o.html
+webvod_https://www.iqiyi.com/v_19rtq2jz4g.html
 ch,我要打篮球,s,1,0,0
 webvod_https://v.qq.com/x/cover/zi42o595ov41aku.html
 webvod_https://v.qq.com/x/cover/mzc0020064qcywk.html
@@ -942,6 +980,7 @@ webvod_https://v.qq.com/x/cover/mzc00200h47gvo4.html
 webvod_https://v.qq.com/x/cover/mzc0020041od4at.html
 webvod_https://v.qq.com/x/cover/mzc00200c8aqkv0.html
 webvod_https://v.qq.com/x/cover/mzc00200bb975k3.html
+webvod_https://v.qq.com/x/cover/mzc00200vu169we.html
 ch,这就是灌篮第二季,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDI2OTM5NjIyOA==.html
 webvod_https://v.youku.com/v_show/id_XNDI2OTM5Nzc5Mg==.html
@@ -963,6 +1002,7 @@ webvod_https://www.mgtv.com/b/330873/6320437.html
 webvod_https://www.mgtv.com/b/330873/6366711.html
 webvod_https://www.mgtv.com/b/330873/6407729.html
 webvod_https://www.mgtv.com/b/330873/6457851.html
+webvod_https://www.mgtv.com/b/330873/6548402.html
 ch,新生日记,s,1,0,0
 webvod_https://www.mgtv.com/b/329704/5875986.html
 webvod_https://www.mgtv.com/b/329704/5922827.html
@@ -1025,12 +1065,14 @@ webvod_https://www.iqiyi.com/v_19rstvaclg.html
 webvod_https://www.iqiyi.com/v_19ruj58cpk.html
 webvod_https://www.iqiyi.com/v_19ruc32fuk.html
 webvod_https://www.iqiyi.com/v_19ru3cz2ds.html
+webvod_https://www.iqiyi.com/v_19rtq709cg.html
 ch,头号型动派,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDMyNTM1NDQwNA==.html
 webvod_https://v.youku.com/v_show/id_XNDMzMjM5MTE2OA==.html
 webvod_https://v.youku.com/v_show/id_XNDMzMjM5MzUyOA==.html
 webvod_https://v.youku.com/v_show/id_XNDMzMjM5NTM1Mg==.html
 webvod_https://v.youku.com/v_show/id_XNDMzMjM5Njk2MA==.html
+webvod_https://v.youku.com/v_show/id_XNDMzMjQwMjg5Ng==.html
 ch,少年威计划,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDI2OTM1NzA0OA==.html
 webvod_https://v.youku.com/v_show/id_XNDI2OTM1ODMxMg==.html
