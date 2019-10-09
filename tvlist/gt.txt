@@ -25,45 +25,22 @@ http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 ch,香港卫视,y,1,0,0
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000036@HHZT;LIVE
-ch,HBO台湾,y,1,0,0
-http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352b.flv
-http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352b.flvuseragentLavf/57.83.100
-http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352b.flvuseragentVLC/3.0.8 LibVLC/3.0.8
-lvtvbus://1v7dC4rrqE9CcWfkZe6TcnDjEGYxPX6SycWkDbZ5jJcRByh7CW^6410
 ch,TVB翡翠,y,1,0,0
-http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
-http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flvuseragentLavf/57.83.100
-http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 lvvjms://113.96.133.24:8500:3502/live/cid=362
 lvxhtv://smart.m3u8?playurl=http://185.180.221.193:8278/Jade/playlist.m3u8
 lvvjms://23.237.32.182:8500:3507/live/cid=362
 lvtvbus://1xYhmD5kE6bK2j4FyNUhjVjrwmwj6igphfdpmyH9fvfRAjvmWf^8468
 lvvjms://58.215.133.185:8500/live/cid=362
 ch,TVBJ2,y,1,0,0
-http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.m3u8
 lvvjms://113.96.133.24:8500:3502/live/cid=368
-http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.m3u8useragentLavf/57.83.100
 lvvjms://23.237.32.182:8500:3507/live/cid=368
-http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.m3u8useragentVLC/3.0.8 LibVLC/3.0.8
 lvtvbus://121goH2BZ9phPaCdP3wobzDzU9W8o9AHCYT5jaTMfshMER9ScHH^0458
-lvvjms://58.215.133.185:8500:3502/live/cid=368&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=qDRJEOvGibtvxQmXbeq7e
 ch,TVB明珠,y,1,0,0
-http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flv
 lvvjms://113.96.133.24:8500:3502/live/cid=367
-http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flvuseragentLavf/57.83.100
 lvvjms://23.237.32.182:8500:3507/live/cid=367
-http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 lvtvbus://127rQYV6MAV2KvruaXGZGJ9jZMm4e32MpGHsUDN53EEEtLjW556^5835
 lvvjms://58.215.133.185:8500:3502/live/cid=367
 lvxhtv://smart.m3u8?playurl=http://185.180.221.193:8278/Pearl/playlist.m3u8
-ch,TVB星河,y,1,0,0
-http://cloud-play.hhalloy.com/live/e70f35708baededbbd1d0963f76981a1.flv
-http://cloud-play.hhalloy.com/live/e70f35708baededbbd1d0963f76981a1.flvuseragentLavf/57.83.100
-http://cloud-play.hhalloy.com/live/e70f35708baededbbd1d0963f76981a1.flvuseragentVLC/3.0.8 LibVLC/3.0.8
-ch,TVB功夫,y,1,0,0
-http://cloud-play.hhalloy.com/live/cfd2b3912b756d6d4965f018fd7d3717.flv
-http://cloud-play.hhalloy.com/live/cfd2b3912b756d6d4965f018fd7d3717.flvuseragentLavf/57.83.100
-http://cloud-play.hhalloy.com/live/cfd2b3912b756d6d4965f018fd7d3717.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 ch,TVBS综合,y,1,0,0
 http://cloud-play.hhalloy.com/live/f94be038bca84147bbf132d8ddd9bb39.flv
 lvvjms://113.96.133.24:8500:3502/live/cid=349
