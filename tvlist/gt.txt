@@ -25,10 +25,6 @@ http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 ch,香港卫视,y,1,0,0
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000036@HHZT;LIVE
-ch,603,y,1,0,0
-http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flv
-http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flvuseragentLavf/57.83.100
-http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 ch,HBO台湾,y,1,0,0
 http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352b.flv
 http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352b.flvuseragentLavf/57.83.100
@@ -118,10 +114,6 @@ lvvjms://113.96.133.24:8500:3502/live/cid=363
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 lvvjms://23.237.32.182:8500:3507/live/cid=363
 lvvjms://58.215.133.185:8500:3502/live/cid=363&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=O2OQLG1dyT5m29AZBrXQe
-ch,有线18,y,1,0,0
-http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flv
-http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flvuseragentLavf/57.83.100
-http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 ch,中视,y,1,0,0
 http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flv
 lvvjms://113.96.133.24:8500:3502/live/cid=452
