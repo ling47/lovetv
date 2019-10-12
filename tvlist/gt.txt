@@ -1,5 +1,5 @@
 ch,凤凰资讯,y,1,0,0
-lvxhtv://pptv.m3u8?id=fhzxv
+lvxhtv://pptv.m3u8?id=fhzx
 lvvjms://113.96.133.24:8500:3502/live/cid=401
 lvxhtv://gzyx.m3u8?id=fhzx
 lvvjms://23.237.32.182:8500:3507/live/cid=401
