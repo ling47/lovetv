@@ -867,6 +867,7 @@ webvod_https://www.mgtv.com/b/331001/6393729.html
 webvod_https://www.mgtv.com/b/331001/6442394.html
 webvod_https://www.mgtv.com/b/331001/6517618.html
 webvod_https://www.mgtv.com/b/331001/6588305.html
+webvod_https://www.mgtv.com/b/331001/6650858.html
 ch,中国好声音2019,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rsesw430.html
 webvod_https://www.iqiyi.com/v_19rrzk4410.html
@@ -976,6 +977,7 @@ webvod_https://v.qq.com/x/cover/mzc00200c8aqkv0.html
 webvod_https://v.qq.com/x/cover/mzc00200bb975k3.html
 webvod_https://v.qq.com/x/cover/mzc00200vu169we.html
 webvod_https://v.qq.com/x/cover/mzc00200fzv5t13.html
+webvod_https://v.qq.com/x/cover/mzc002007yfopdy.html
 ch,这就是灌篮第二季,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDI2OTM5NjIyOA==.html
 webvod_https://v.youku.com/v_show/id_XNDI2OTM5Nzc5Mg==.html
