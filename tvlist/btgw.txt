@@ -24,14 +24,13 @@ ch,风尚购物,c,ab*,0,0
 dlb://1d945ebb-4f98-4da7-8582-05ff284533fb#fsg
 ch,家有精选,c,*,0,0
 dlb://8b24f648-1a55-44ff-a232-6920a2c9ed34#jyg
-ch,优购福利社,c,*,0,0
+ch,优购收藏馆,c,*,0,0
 ugw://u20
 ch,快乐新品,c,*,0,0
 dlb://3f6e16de-63be-48fe-894a-e5327e94c5a3#klg
 ch,聚鲨排行榜,c,*,0,0
 hqg://c03
 ch,时尚名品汇,c,*,0,0
-http://net.v01.live.17ugo.com/ugo.m3u8#ssg
 ssg://u16
 ch,南方新品,c,*,0,0
 dlb://ae1a5bb3-be07-4358-b918-3d73be265684#nfg

@@ -20,6 +20,8 @@ ch,风尚购物,c,ab*,0,0
 dlb://1d945ebb-4f98-4da7-8582-05ff284533fb#fsg
 ch,南方购物,c,ab*,0,0
 dlb://4653bc08-3eac-4638-813d-bf513db68210#nfg
+ch,优购收藏馆,c,*,0,0
+ugw://u20
 ch,家居精品馆,c,a*,0,0	
 http://p.wheel.duolebo.com/live?p=85ed8dba-d578-419c-8dca-71feba63b44c&c=338914494&m3u8=true
 ch,聚鲨精选,c,*,0,0
@@ -34,7 +36,5 @@ ch,风尚优选,c,*,0,0
 dlb://95b100c7-1a6b-4daa-ba4c-279d79faf589#fsg
 ch,美食精品馆,c,*,0,0	
 http://p.wheel.duolebo.com/live?p=bb6b12d8-0887-421f-843c-6b429639525b&c=338914494&m3u8=true
-ch,优购福利社,c,*,0,0
-ugw://u20
 ch,快乐新品,c,*,0,0
 dlb://3f6e16de-63be-48fe-894a-e5327e94c5a3#klg

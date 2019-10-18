@@ -22,6 +22,8 @@ ch,好享购物,c,ab*,0,0
 dlb://98c6e655-b404-49a9-b8ac-a1dea2d3de6a#hxg
 ch,风尚购物,c,ab*,0,0
 dlb://1d945ebb-4f98-4da7-8582-05ff284533fb#fsg
+ch,优购收藏馆,c,*,0,0
+ugw://u20
 ch,家有畅销,c,*,0,0
 dlb://a70cfc61-f961-4c54-9e61-8f5af0d6f386#jyg
 ch,快乐新品,c,*,0,0
