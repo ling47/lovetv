@@ -890,6 +890,7 @@ webvod_https://www.mgtv.com/b/331851/6631037.html
 webvod_https://www.mgtv.com/b/331851/6695106.html
 ch,蒙面唱将猜猜猜4,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDM5NTI1ODU3Ng==.html
+webvod_https://v.youku.com/v_show/id_XNDM5NTI2NDYxMg==.html
 ch,幸福三重奏2,s,1,0,0
 webvod_https://v.qq.com/x/cover/mzc00200w7ml493.html
 ch,声林之王第2季,s,1,0,0
