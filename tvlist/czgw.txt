@@ -21,7 +21,8 @@ dlb://4f751483-44fe-43b4-a903-21c06e4076e7#byl
 ch,好享购物,c,ab*,0,0
 dlb://98c6e655-b404-49a9-b8ac-a1dea2d3de6a#hxg
 ch,风尚购物,c,ab*,0,0
-dlb://1d945ebb-4f98-4da7-8582-05ff284533fb#fsg
+http://by2.nty.tv189.cn/16103414071218/CH3/index.m3u8#fsg
+dlb://95b100c7-1a6b-4daa-ba4c-279d79faf589#fsg
 ch,优购收藏馆,c,*,0,0
 ugw://u20
 ch,聚鲨国际,c,*,0,0

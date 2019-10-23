@@ -21,7 +21,8 @@ ssg://u02
 ch,好享购物,c,ab*,0,0
 dlb://98c6e655-b404-49a9-b8ac-a1dea2d3de6a#hxg
 ch,风尚购物,c,ab*,0,0
-dlb://1d945ebb-4f98-4da7-8582-05ff284533fb#fsg
+http://by2.nty.tv189.cn/16103414071218/CH3/index.m3u8#fsg
+dlb://95b100c7-1a6b-4daa-ba4c-279d79faf589#fsg
 ch,时尚名品汇,c,*,0,0
 ssg://u16
 ch,家有新品,c,*,0,0

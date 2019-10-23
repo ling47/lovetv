@@ -11,7 +11,8 @@ http://hb.wheel.duolebo.com/live.m3u8?p=0429ff98-2f2f-48cd-ae3e-55f876b3c5b9&c=3
 ch,环球购物,c,ab#*,0,0
 hqg://c01
 ch,南方购物,c,ab*,0,0
-dlb://4653bc08-3eac-4638-813d-bf513db68210#nfg
+http://by2.nty.tv189.cn/16103414071218/CH3/index.m3u8#fsg
+dlb://95b100c7-1a6b-4daa-ba4c-279d79faf589#fsg
 ch,时尚购物,c,ab*,0,0
 ssg://u02
 ch,家家购物,c,ab*,0,0	
