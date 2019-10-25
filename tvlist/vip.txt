@@ -1,3 +1,9 @@
+ch,狮子王,q,1,0,0
+webvod_https://v.qq.com/x/cover/ehqo76prcwku2oq/k00324plfaq.html
+webvod_https://www.iqiyi.com/v_19rr472vms.html
+webvod_https://v.youku.com/v_show/id_XNDM3NDk3NTY0OA==.html
+webvod_https://v.qq.com/x/cover/ehqo76prcwku2oq/x0032rq56lh.html
+webvod_https://www.mgtv.com/b/329207/6609073.html
 ch,哪吒之魔童降世,q,1,0,0
 webvod_https://www.iqiyi.com/v_19rrcuke28.html
 webvod_https://v.qq.com/x/cover/zr5a67l333ehzu9.html
@@ -335,12 +341,6 @@ ch,百万巨鳄,q,1,0,0
 webvod_https://www.mgtv.com/b/7339/278947.html
 ch,大笑江湖,q,1,0,0
 webvod_https://www.mgtv.com/b/7622/284524.html
-ch,狮子王,r,1,0,0
-webvod_https://www.iqiyi.com/v_19rr472vms.html
-webvod_https://v.qq.com/x/cover/ehqo76prcwku2oq/k00324plfaq.html
-webvod_https://v.youku.com/v_show/id_XNDM3NDk3NTY0OA==.html
-webvod_https://v.qq.com/x/cover/ehqo76prcwku2oq/x0032rq56lh.html
-webvod_https://www.mgtv.com/b/329207/6609073.html
 ch,脱单倒计时,r,1,0,0
 webvod_https://v.qq.com/x/cover/mzc00200ydixmy1.html
 ch,绝命酒店,r,1,0,0
@@ -907,6 +907,7 @@ webvod_https://v.youku.com/v_show/id_XNDM5NTI1ODU3Ng==.html
 webvod_https://v.youku.com/v_show/id_XNDM5NTI2NDYxMg==.html
 ch,幸福三重奏2,s,1,0,0
 webvod_https://v.qq.com/x/cover/mzc00200w7ml493.html
+webvod_https://v.qq.com/x/cover/mzc00200alah6kd.html
 ch,声林之王第2季,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rtb1z484.html
 webvod_https://www.iqiyi.com/v_19rt2zypns.html
@@ -934,6 +935,7 @@ webvod_https://v.youku.com/v_show/id_XNDM2ODkyOTM3Mg==.html
 webvod_https://v.youku.com/v_show/id_XNDM3NzM5NzcyMA==.html
 webvod_https://v.youku.com/v_show/id_XNDM4MDQzMjczNg==.html
 webvod_https://v.youku.com/v_show/id_XNDM4MDQzMzY3Ng==.html
+webvod_https://v.youku.com/v_show/id_XNDQwOTQ4MjkxNg==.html
 ch,一路成年,s,1,0,0
 webvod_https://www.mgtv.com/b/331001/6309464.html
 webvod_https://www.mgtv.com/b/331001/6351023.html
@@ -966,7 +968,7 @@ ch,故事里的中国,s,1,0,0
 webvod_https://v.qq.com/x/cover/mzc00200sk2uwlo.html
 webvod_https://v.qq.com/x/cover/mzc00200apojap5.html
 ch,奇遇人生2,s,1,0,0
-webvod_https://v.qq.com/x/cover/mzc00200q6eq64i/q0032gnu8mf.html
+webvod_https://v.qq.com/x/cover/mzc00200q6eq64i.html
 ch,中国好声音2019,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rrzk4410.html
 webvod_https://www.iqiyi.com/v_19rrr1mz88.html
@@ -1071,6 +1073,7 @@ webvod_https://www.mgtv.com/b/330873/6457851.html
 webvod_https://www.mgtv.com/b/330873/6548402.html
 webvod_https://www.mgtv.com/b/330873/6607550.html
 webvod_https://www.mgtv.com/b/330873/6666838.html
+webvod_https://www.mgtv.com/b/330873/6733853.html
 ch,我要打篮球,s,1,0,0
 webvod_https://v.qq.com/x/cover/zi42o595ov41aku.html
 webvod_https://v.qq.com/x/cover/mzc0020064qcywk.html
@@ -1081,6 +1084,7 @@ webvod_https://v.qq.com/x/cover/mzc00200bb975k3.html
 webvod_https://v.qq.com/x/cover/mzc00200vu169we.html
 webvod_https://v.qq.com/x/cover/mzc00200fzv5t13.html
 webvod_https://v.qq.com/x/cover/mzc002007yfopdy.html
+webvod_https://v.qq.com/x/cover/mzc00200bq9e5ka.html
 ch,这就是灌篮第二季,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDI2OTM5NjIyOA==.html
 webvod_https://v.youku.com/v_show/id_XNDI2OTM5Nzc5Mg==.html
@@ -1103,6 +1107,7 @@ webvod_https://v.qq.com/x/cover/mzc00200k6kmcme.html
 webvod_https://v.qq.com/x/cover/mzc00200dq54nrm.html
 webvod_https://v.qq.com/x/cover/mzc00200d1f1vah.html
 webvod_https://v.qq.com/x/cover/mzc00200xrl13rj.html
+webvod_https://v.qq.com/x/cover/mzc00200b0589yc.html
 ch,一起乐队吧,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDI1ODU1ODkyOA==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODU2MDI4MA==.html
@@ -1113,6 +1118,7 @@ webvod_https://v.youku.com/v_show/id_XNDI1ODU2NjM2NA==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODU2NzYwOA==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODU2ODY4NA==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODU2OTc0NA==.html
+webvod_https://v.youku.com/v_show/id_XNDI1ODU3MDkxNg==.html
 ch,头号型动派,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDMyNTM1NDQwNA==.html
 webvod_https://v.youku.com/v_show/id_XNDMzMjM5MTE2OA==.html
@@ -1121,6 +1127,7 @@ webvod_https://v.youku.com/v_show/id_XNDMzMjM5NTM1Mg==.html
 webvod_https://v.youku.com/v_show/id_XNDMzMjM5Njk2MA==.html
 webvod_https://v.youku.com/v_show/id_XNDMzMjQwNDQ0OA==.html
 webvod_https://v.youku.com/v_show/id_XNDMzMjQwNTc5Mg==.html
+webvod_https://v.youku.com/v_show/id_XNDMzMjQwNzk0MA==.html
 ch,超新星全运会,s,1,0,0
 webvod_https://v.qq.com/x/cover/mzc00200t892ntg.html
 webvod_https://v.qq.com/x/cover/mzc00200lkpenjc.html
@@ -1131,9 +1138,11 @@ webvod_https://v.qq.com/x/cover/mzc00200ctmf8p1.html
 ch,慢游全世界,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rtuwlu44.html
 webvod_https://www.iqiyi.com/v_19rttgh204.html
+webvod_https://www.iqiyi.com/v_19rvdxuo2g.html
 ch,限定的记忆,s,1,0,0
 webvod_https://www.iqiyi.com/v_19rtuj3tl4.html
 webvod_https://www.iqiyi.com/v_19rttdlqk0.html
+webvod_https://www.iqiyi.com/v_19rve52als.html
 ch,花花万物2,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDI1ODY2MjI5Mg==.html
 webvod_https://v.youku.com/v_show/id_XNDI1ODY2Njk4NA==.html
@@ -1151,6 +1160,7 @@ webvod_https://v.qq.com/x/cover/mzc00200e7ghalb.html
 webvod_https://v.qq.com/x/cover/mzc00200vp3rp7d.html
 webvod_https://v.qq.com/x/cover/mzc00200eokq67c.html
 webvod_https://v.qq.com/x/cover/mzc002001hhbz9t.html
+https://v.qq.com/x/cover/mzc0020013dp35f.html
 ch,好房帮帮忙,s,1,0,0
 webvod_https://v.youku.com/v_show/id_XNDI2OTY0Mjc4OA==.html
 webvod_https://v.youku.com/v_show/id_XNDI3Nzk4MDAwNA==.html
