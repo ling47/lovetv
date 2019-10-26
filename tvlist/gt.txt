@@ -1,53 +1,58 @@
 ch,凤凰资讯,y,1,0,0
 lvxhtv://pptv.m3u8?id=fhzx
 lvvjms://113.96.133.24:8500:3502/live/cid=401
+lvtvbus://1zfadzcdbBgngzAwrfCbwDQbDw578AR7VUoxQhcKozRwLB8C29
+lvxhtv://pptv1.m3u8?id=fhzx
 lvxhtv://gzyx.m3u8?id=fhzx
 lvvjms://23.237.32.182:8500:3507/live/cid=401
 http://live.centerch.com/fhzx.m3u8
-lvxhtv://pptv1.m3u8?id=fhzx
 lvvjms://58.215.133.185:8500:3502/live/cid=401&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=z9y2UF79YAUzTgDeVNcCe
-http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
-http://117.169.120.138:8080/live/fhzixun/.m3u8
 ch,凤凰中文,y,1,0,0
 lvxhtv://pptv.m3u8?id=fhzw
 lvvjms://113.96.133.24:8500:3502/live/cid=400
+lvtvbus://1CozeuiDanTRC6ha6ERbjpdibbmsytzhmPNWC4fxFywutXFAAN
+lvxhtv://pptv1.m3u8?id=fhzw
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 lvxhtv://gzyx.m3u8?id=fhzw
 lvvjms://23.237.32.182:8500:3507/live/cid=400
 http://live.centerch.com/fhzw.m3u8
-lvxhtv://pptv1.m3u8?id=fhzw
 lvvjms://23.237.32.182:8500:3507/live/cid=262
-http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
-ch,凤凰香港,y,1,0,0
-http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 ch,凤凰电影,y,1,0,0
 lvxhtv://gzyx.m3u8?id=fhdy
+rtmp://58.200.131.3:1935/livetv/fhdy
 http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+rtmp://219.232.160.161/livestream/fdwypqk6
+rtmp://58.200.131.5:1935/livetv/fhdy
 ch,香港卫视,y,1,0,0
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-http://220.158.149.14:9999/live/TV00000000000000000036@HHZT;LIVE
+lvtvbus://17CsnXJQ778PwjmQpHUKA8pv164SoigTeUKorEBDbajCtZtWUv
+rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 ch,TVB翡翠,y,1,0,0
 lvvjms://113.96.133.24:8500:3502/live/cid=362
-lvxhtv://smart.m3u8?playurl=http://185.180.221.193:8278/Jade/playlist.m3u8
+lvtvbus://1xYhmD5kE6bK2j4FyNUhjVjrwmwj6igphfdpmyH9fvfRAjvmWf^9562
 lvvjms://23.237.32.182:8500:3507/live/cid=362
 lvtvbus://1xYhmD5kE6bK2j4FyNUhjVjrwmwj6igphfdpmyH9fvfRAjvmWf^8468
 lvvjms://58.215.133.185:8500/live/cid=362
+lvxhtv://smart.m3u8?playurl=http://185.180.221.193:8278/Jade/playlist.m3u8
 ch,TVBJ2,y,1,0,0
 lvvjms://113.96.133.24:8500:3502/live/cid=368
-lvvjms://23.237.32.182:8500:3507/live/cid=368
 lvtvbus://121goH2BZ9phPaCdP3wobzDzU9W8o9AHCYT5jaTMfshMER9ScHH^0458
+lvvjms://23.237.32.182:8500:3507/live/cid=368
+lvvjms://58.215.133.185:8500:3502/live/cid=368&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=qDRJEOvGibtvxQmXbeq7e
 ch,TVB明珠,y,1,0,0
 lvvjms://113.96.133.24:8500:3502/live/cid=367
-lvvjms://23.237.32.182:8500:3507/live/cid=367
 lvtvbus://127rQYV6MAV2KvruaXGZGJ9jZMm4e32MpGHsUDN53EEEtLjW556^5835
+lvvjms://23.237.32.182:8500:3507/live/cid=367
 lvvjms://58.215.133.185:8500:3502/live/cid=367
 lvxhtv://smart.m3u8?playurl=http://185.180.221.193:8278/Pearl/playlist.m3u8
+http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flvuseragentVLC/3.0.8
 ch,TVBS综合,y,1,0,0
 http://cloud-play.hhalloy.com/live/f94be038bca84147bbf132d8ddd9bb39.flv
 lvvjms://113.96.133.24:8500:3502/live/cid=349
 http://cloud-play.hhalloy.com/live/f94be038bca84147bbf132d8ddd9bb39.flvuseragentLavf/57.83.100
-lvvjms://23.237.32.182:8500:3507/live/cid=349
-http://cloud-play.hhalloy.com/live/f94be038bca84147bbf132d8ddd9bb39.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 lvtvbus://13eaV2c1fpk73s4cqRFiS8JUbp8GDCHm79JYHJUNtwHS1qKiXA^6206
+http://cloud-play.hhalloy.com/live/f94be038bca84147bbf132d8ddd9bb39.flvuseragentVLC/3.0.8 LibVLC/3.0.8
+lvvjms://23.237.32.182:8500:3507/live/cid=349
 lvvjms://58.215.133.185:8500:3502/live/cid=349&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=hTJpP88pg4n7ZglygjnPe
 ch,寰宇综合,y,1,0,0
 http://cloud-play.hhalloy.com/live/82b78befe54a601876654e1db3e3741a.flv
@@ -88,6 +93,7 @@ http://cloud-play.hhalloy.com/live/16eda25701fe842c519d881c68829ead.flvuseragent
 http://cloud-play.hhalloy.com/live/16eda25701fe842c519d881c68829ead.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 ch,亚洲综合,y,1,0,0
 http://cloud-play.hhalloy.com/live/8e08d22adcc7748ceedc31006b55f7de.flv
+lvtvbus://1zChJfnxwMoKyrvY75pR4WrJHUivYnU9UCcvCNqVAfwgjNVGx6^4956
 http://cloud-play.hhalloy.com/live/8e08d22adcc7748ceedc31006b55f7de.flvuseragentLavf/57.83.100
 http://cloud-play.hhalloy.com/live/8e08d22adcc7748ceedc31006b55f7de.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 ch,壹综合,y,1,0,0
@@ -122,8 +128,10 @@ http://cloud-play.hhalloy.com/live/4677cf6625ce01b236bbb58f99094d51.flvuseragent
 http://cloud-play.hhalloy.com/live/4677cf6625ce01b236bbb58f99094d51.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 ch,寰宇新闻2,y,1,0,0
 http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.flv
+lvtvbus://1EYGMY3LDdtfPTPeABNn63qhmEXoQjk1JvPMPMcxCoQwKta2qm^1930
 http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.flvuseragentLavf/57.83.100
 http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.flvuseragentVLC/3.0.8 LibVLC/3.0.8
+http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.flvuseragentVLC/3.0.8
 ch,中视新闻,y,1,0,0
 http://cloud-play.hhalloy.com/live/cf4d66edc142b2f0cc8c71bca56b2268.flv
 http://cloud-play.hhalloy.com/live/cf4d66edc142b2f0cc8c71bca56b2268.flvuseragentLavf/57.83.100
@@ -132,9 +140,9 @@ ch,中天新闻,y,1,0,0
 http://cloud-play.hhalloy.com/live/e1a397539e76f45bbbf39d1467024aa3.flv
 lvvjms://113.96.133.24:8500:3502/live/cid=407
 http://cloud-play.hhalloy.com/live/e1a397539e76f45bbbf39d1467024aa3.flvuseragentLavf/57.83.100
-lvvjms://23.237.32.182:8500:3507/live/cid=407
-http://cloud-play.hhalloy.com/live/e1a397539e76f45bbbf39d1467024aa3.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 lvtvbus://11HpcrMAWgFfFiKTXo2PW93FhQjrPzCYcYJFY1222pvcyzE5k2^0091
+http://cloud-play.hhalloy.com/live/e1a397539e76f45bbbf39d1467024aa3.flvuseragentVLC/3.0.8 LibVLC/3.0.8
+lvvjms://23.237.32.182:8500:3507/live/cid=407
 lvvjms://58.215.133.185:8500:3502/live/cid=407&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=oSEvf2gyDu9c9zJavkGQe
 ch,BBC世界新闻,y,1,0,0
 http://cloud-play.hhalloy.com/live/6d735caeaf70f8901aa00f86aefc4dde.flv
@@ -152,12 +160,14 @@ ch,东森新闻,y,1,0,0
 http://cloud-play.hhalloy.com/live/b237f97b0e9e21e88e0bdaae40730332.flv
 lvvjms://113.96.133.24:8500:3502/live/cid=340
 http://cloud-play.hhalloy.com/live/b237f97b0e9e21e88e0bdaae40730332.flvuseragentLavf/57.83.100
-lvvjms://23.237.32.182:8500:3507/live/cid=340
+lvtvbus://12SLTE5DJmmA6rfiZ2YTJoWsfa65JtZi8LpT8vRnCR2DNDiC6uj^3724
 http://cloud-play.hhalloy.com/live/b237f97b0e9e21e88e0bdaae40730332.flvuseragentVLC/3.0.8 LibVLC/3.0.8
+lvvjms://23.237.32.182:8500:3507/live/cid=340
 lvvjms://58.215.133.185:8500:3502/live/cid=340&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=uhaz40hr8SBIUXtR2D4Be
 ch,壹新闻,y,1,0,0
 http://ad.mysisli.com/live/NEXTTVHD/index.m3u8
 lvvjms://113.96.133.24:8500:3502/live/cid=445
+lvtvbus://12rnLW2diJBhCrmKe5gVTdmfu68upRBn7v4XTQH9xpJgciTHBju^8922
 lvvjms://23.237.32.182:8500:3507/live/cid=445
 lvvjms://58.215.133.185:8500:3502/live/cid=445&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=YUvJst3RNPHUHcHVVYrme
 ch,亚洲新闻,y,1,0,0
@@ -174,14 +184,18 @@ http://cloud-play.hhalloy.com/live/408a2834f703f2162d0d5b5789344c39.flvuseragent
 lvvjms://58.215.133.185:8500:3502/live/cid=443
 lvvjms://58.215.133.185:8500:3502/live/cid=443&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=0kEZVeCnYZYxtD3x2p80e
 ch,年代MACH,y,1,0,0
+lvvjms://113.96.133.24:8500:3502/live/cid=439
 http://cloud-play.hhalloy.com/live/3d20cf4de65aadb4d2b2e30ad3974750.flv
+lvvjms://23.237.32.182:8500:3507/live/cid=439
 http://cloud-play.hhalloy.com/live/3d20cf4de65aadb4d2b2e30ad3974750.flvuseragentLavf/57.83.100
+lvvjms://58.215.133.185:8500:3502/live/cid=439&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=Salgs4QwE8lyN88VqGU7e
 http://cloud-play.hhalloy.com/live/3d20cf4de65aadb4d2b2e30ad3974750.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 ch,天空新闻,y,1,0,0
 http://cloud-play.hhalloy.com/live/64a4807c0cf482cffe922d7b8f091303.flv
 http://cloud-play.hhalloy.com/live/64a4807c0cf482cffe922d7b8f091303.flvuseragentLavf/57.83.100
 http://cloud-play.hhalloy.com/live/64a4807c0cf482cffe922d7b8f091303.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 http://pili-live-hdl.qhmywl.com/dsdtv/64a4807c0cf482cffe922d7b8f091303.flvuseragentLavf/57.83.100
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 ch,欧洲新闻,y,1,0,0
 http://cloud-play.hhalloy.com/live/7c52797bf1ca2da52c212bdead1d607c.flv
 http://cloud-play.hhalloy.com/live/7c52797bf1ca2da52c212bdead1d607c.flvuseragentLavf/57.83.100
@@ -206,15 +220,14 @@ http://pili-live-hdl.qhmywl.com/dsdtv/b78a7c4f460285596b53bfa802eca8e8.flvuserag
 lvvjms://58.215.133.185:8500:3502/live/cid=97&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
 ch,三立新闻,y,1,0,0
 lvvjms://113.96.133.24:8500:3502/live/cid=352
+lvtvbus://12Z525TkyTpgJLxUx1F4xzQbUiLZT8WaydbPisMv12jscc7u8GH^2551
 lvvjms://23.237.32.182:8500:3507/live/cid=352
 lvvjms://58.215.133.185:8500:3502/live/cid=352&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=uUPccDfpKnSOP7oELWUfe
 ch,TVBS新闻,y,1,0,0
 lvvjms://113.96.133.24:8500:3502/live/cid=348
-http://220.158.149.14:9999/live/TV00000000000000000082@HHZT;LIVE
+lvtvbus://12YpKWfwGi18E6i93nPKDkW6meezZkhJUxJr7xMnKzDQr99AZZx^2098
 lvvjms://23.237.32.182:8500:3507/live/cid=348
-http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 lvvjms://58.215.133.185:8500:3502/live/cid=348&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=9KAZ0SN47Cjrfm46AFhge
-http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 ch,TVBS精彩,y,1,0,0
 http://cloud-play.hhalloy.com/live/15379cc75ee0fb41ab2fb3a11f3d909f.flv
 http://cloud-play.hhalloy.com/live/15379cc75ee0fb41ab2fb3a11f3d909f.flvuseragentLavf/57.83.100
@@ -225,16 +238,18 @@ lvvjms://113.96.133.24:8500:3502/live/cid=438
 http://cloud-play.hhalloy.com/live/5e81e3b3e2d8b887db0bc2976558c7ea.flvuseragentLavf/57.83.100
 lvvjms://23.237.32.182:8500:3507/live/cid=438
 http://cloud-play.hhalloy.com/live/5e81e3b3e2d8b887db0bc2976558c7ea.flvuseragentVLC/3.0.8 LibVLC/3.0.8
-http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
 lvvjms://58.215.133.185:8500:3502/live/cid=438&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=xp1tsq7JJWl9B0KB7GOpe
 ch,中视,y,1,0,0
 http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flv
 lvvjms://113.96.133.24:8500:3502/live/cid=452
 http://cloud-play.hhalloy.com:1935/live/318e4839a23f9ff15e327de9bcb31687.flvuseragentLavf/57.83.100
-lvvjms://23.237.32.182:8500:3507/live/cid=452
+lvtvbus://1TSXwyH8xBjnbLzyVDvMjZACv6ohHMzivbPJJU2Af83wC9AwGG^8779
 http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flvuseragentLavf/57.83.100
-lvvjms://58.215.133.185:8500:3502/live/cid=452
+lvvjms://23.237.32.182:8500:3507/live/cid=452
 http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flvuseragentVLC/3.0.8 LibVLC/3.0.8
+lvvjms://58.215.133.185:8500:3502/live/cid=452
+http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flvuseragentVLC/3.0.8
+rtmp://59.124.75.137/sat/tv091
 ch,中视经典,y,1,0,0
 http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
 http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flvuseragentLavf/57.83.100
@@ -265,20 +280,28 @@ ch,台视,y,1,0,0
 http://cloud-play.hhalloy.com/live/bec346d29d4c665d04db41d28a4e033f.flv
 lvvjms://113.96.133.24:8500:3502/live/cid=453
 http://cloud-play.hhalloy.com/live/bec346d29d4c665d04db41d28a4e033f.flvuseragentLavf/57.83.100
-lvvjms://23.237.32.182:8500:3507/live/cid=453
+lvtvbus://1ywrZ8uAbGembKDiNVjRvk3iekw6wr8tLrmdGT9n3SWUbEBxVw^3361
 http://cloud-play.hhalloy.com/live/bec346d29d4c665d04db41d28a4e033f.flvuseragentVLC/3.0.8 LibVLC/3.0.8
+lvvjms://23.237.32.182:8500:3507/live/cid=453
+http://cloud-play.hhalloy.com/live/bec346d29d4c665d04db41d28a4e033f.flvuseragentVLC/3.0.8
 lvvjms://58.215.133.185:8500:3502/live/cid=453&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=DnfA6Z0zsrZd5VedWeGne
+rtmp://59.124.75.137/sat/tv071
 ch,华视,y,1,0,0
 http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.flv
 lvvjms://113.96.133.24:8500:3502/live/cid=451
 http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.flvuseragentLavf/57.83.100
-lvvjms://23.237.32.182:8500:3507/live/cid=451
+lvtvbus://1SxBhRunWBsbsrDbzUXNPVMz1H66dpttprZ9xuKnW23pENVHb5^9622
 http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.flvuseragentVLC/3.0.8 LibVLC/3.0.8
+lvvjms://23.237.32.182:8500:3507/live/cid=451
+http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.flvuseragentVLC/3.0.8
 lvvjms://58.215.133.185:8500:3502/live/cid=451&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=Pqeyc79v5BxVEsY5QrHCe
+rtmp://59.124.75.137/sat/tv111
 ch,民视,y,1,0,0
 lvvjms://113.96.133.24:8500:3502/live/cid=450
+lvtvbus://12fpBgTFcgPj8xUd2kgBeXgGaV3RoKVi19Uq18Qa7bU8d9N6ubk^7388
 lvvjms://23.237.32.182:8500:3507/live/cid=450
 lvvjms://58.215.133.185:8500:3502/live/cid=450&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=Us0Jn1FYS16M3maLXMEVe
+rtmp://59.124.75.137/sat/tv051
 ch,超视,y,1,0,0
 http://cloud-play.hhalloy.com:1935/live/47d46d26bba55dd674454ad46c569ffa.flv
 lvvjms://113.96.133.24:8500:3502/live/cid=426
@@ -286,6 +309,7 @@ http://cloud-play.hhalloy.com:1935/live/47d46d26bba55dd674454ad46c569ffa.flvuser
 lvvjms://23.237.32.182:8500:3507/live/cid=426
 http://cloud-play.hhalloy.com:1935/live/47d46d26bba55dd674454ad46c569ffa.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 lvvjms://58.215.133.185:8500:3502/live/cid=426
+lvvjms://58.215.133.185:8500:3502/live/cid=426&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=Yzi6TVcc3esg0zCZ2da4e
 ch,原视,y,1,0,0
 http://cloud-play.hhalloy.com/live/8f44c933620b603a874a18ed1bb9a033.flv
 http://cloud-play.hhalloy.com/live/8f44c933620b603a874a18ed1bb9a033.flvuseragentLavf/57.83.100
@@ -380,9 +404,11 @@ http://cloud-play.hhalloy.com/live/a5da9875c963d704ac5dd8f866869723.flvuseragent
 http://cloud-play.hhalloy.com/live/a5da9875c963d704ac5dd8f866869723.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 ch,美亚电影,y,1,0,0
 http://cloud-play.hhalloy.com/live/4a1141f101530bff4fc0e9229625e6b5.flv
+lvtvbus://12JLmgYjpJphNhusFhUuFNpP2sVGi7nadRJnp64oBUW5sFB8N3w^9386
 http://cloud-play.hhalloy.com/live/4a1141f101530bff4fc0e9229625e6b5.flvuseragentLavf/57.83.100
-lvxhtv://smart.m3u8?playurl=http://185.180.221.193:8278/meiyamovie_twn/playlist.m3u8
+lvxhtv://dl2.m3u8?id=mydy
 http://cloud-play.hhalloy.com/live/4a1141f101530bff4fc0e9229625e6b5.flvuseragentVLC/3.0.8 LibVLC/3.0.8
+lvxhtv://smart.m3u8?playurl=http://185.180.221.193:8278/meiyamovie_twn/playlist.m3u8
 ch,爱尔达影视,y,1,0,0
 http://cloud-play.hhalloy.com/live/0916fef64c4baab95f7097d001e4c27e.flv
 http://cloud-play.hhalloy.com/live/0916fef64c4baab95f7097d001e4c27e.flvuseragentLavf/57.83.100
@@ -437,9 +463,12 @@ ch,卫视合家欢,y,1,0,0
 http://cloud-play.hhalloy.com/live/277056149034cc5fb133537bc411c2c9.flv
 http://cloud-play.hhalloy.com/live/277056149034cc5fb133537bc411c2c9.flvuseragentLavf/57.83.100
 http://cloud-play.hhalloy.com/live/277056149034cc5fb133537bc411c2c9.flvuseragentVLC/3.0.8 LibVLC/3.0.8
+http://cloud-play.hhalloy.com/live/277056149034cc5fb133537bc411c2c9.flvuseragentVLC/3.0.8
 ch,寰宇财经,y,1,0,0
 http://cloud-play.hhalloy.com/live/77c9bab3af161386df16ad9d8a3f3541.flv
+lvtvbus://16JPMPX8ZiYr1uYD9k7b5xud1VWzEQaVpE9iJDp1CA6WcghrLv^8220
 http://cloud-play.hhalloy.com/live/77c9bab3af161386df16ad9d8a3f3541.flvuseragentLavf/57.83.100
+lvxhtv://dl2.m3u8?id=hycj
 http://cloud-play.hhalloy.com/live/77c9bab3af161386df16ad9d8a3f3541.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 ch,台视财经,y,1,0,0
 http://cloud-play.hhalloy.com/live/c5d061725e49943973c43a404b913f17.flv
@@ -447,9 +476,13 @@ http://cloud-play.hhalloy.com/live/c5d061725e49943973c43a404b913f17.flvuseragent
 http://cloud-play.hhalloy.com/live/c5d061725e49943973c43a404b913f17.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 ch,东森财经,y,1,0,0
 http://cloud-play.hhalloy.com/live/10e21c98ff74745141a386d91da24c56.flv
+lvvjms://113.96.133.24:8500:3502/live/cid=456
 http://cloud-play.hhalloy.com/live/10e21c98ff74745141a386d91da24c56.flvuseragentLavf/57.83.100
+lvvjms://23.237.32.182:8500:3507/live/cid=456
 http://cloud-play.hhalloy.com/live/10e21c98ff74745141a386d91da24c56.flvuseragentVLC/3.0.8 LibVLC/3.0.8
+lvvjms://58.215.133.185:8500:3502/live/cid=456&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=bENBODdxM4pNkFHtqfHWe
 http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flvuseragentLavf/57.83.100
+rtmp://59.124.75.137/sat/tv571
 ch,东森戏剧,y,1,0,0
 http://cloud-play.hhalloy.com/live/17cdea424a288175c834060c58b3bb4e.flv
 lvvjms://113.96.133.24:8500:3502/live/cid=425
@@ -519,10 +552,13 @@ ch,纬来体育,y,1,0,0
 http://cloud-play.hhalloy.com/live/464311a99c6465a1f36681b73c62fa83.flv
 lvvjms://113.96.133.24:8500:3502/live/cid=202
 http://cloud-play.hhalloy.com/live/464311a99c6465a1f36681b73c62fa83.flvuseragentLavf/57.83.100
-lvvjms://23.237.32.182:8500:3507/live/cid=202
+lvtvbus://1eBabRKDqBPU9zW1jYEq1mr6g4eokRs3UAtPBcbQD573aM5Y9h^6085
 http://cloud-play.hhalloy.com/live/464311a99c6465a1f36681b73c62fa83.flvuseragentVLC/3.0.8 LibVLC/3.0.8
+lvvjms://23.237.32.182:8500:3507/live/cid=202
+http://cloud-play.hhalloy.com/live/464311a99c6465a1f36681b73c62fa83.flvuseragentVLC/3.0.8
 lvvjms://58.215.133.185:8500:3502/live/cid=202
-http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
+rtmp://59.124.75.137/sat/tv722
+rtmp://59.124.75.137/sat/tv721
 ch,欧洲体育,y,1,0,0
 http://cloud-play.hhalloy.com/live/96681c92588f5254e1c9f8fcb41e9d64.flv
 http://cloud-play.hhalloy.com/live/96681c92588f5254e1c9f8fcb41e9d64.flvuseragentLavf/57.83.100
@@ -537,6 +573,8 @@ lvvjms://113.96.133.24:8500:3502/live/cid=441
 http://cloud-play.hhalloy.com/live/5e147a8d04ab43725d40e72fd7169952.flvuseragentLavf/57.83.100
 lvvjms://23.237.32.182:8500:3507/live/cid=441lvvjms://58.215.133.185:8500:3502/live/cid=441&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=TSjPGB7ZqgfDX59MSwwxe
 http://cloud-play.hhalloy.com/live/5e147a8d04ab43725d40e72fd7169952.flvuseragentVLC/3.0.8 LibVLC/3.0.8
+lvvjms://23.237.32.182:8500:3507/live/cid=441
+lvvjms://58.215.133.185:8500:3502/live/cid=441&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=TSjPGB7ZqgfDX59MSwwxe
 ch,三立台湾,y,1,0,0
 http://cloud-play.hhalloy.com/live/e71635b53bb874a085b2a469802bbc81.flv
 lvvjms://113.96.133.24:8500:3502/live/cid=437
@@ -583,10 +621,12 @@ ch,三立都会,y,1,0,0
 http://cloud-play.hhalloy.com/live/4abe46a5faf4865e251ac981287a6e20.flv
 lvvjms://113.96.133.24:8500:3502/live/cid=226
 http://cloud-play.hhalloy.com/live/4abe46a5faf4865e251ac981287a6e20.flvuseragentLavf/57.83.100
-lvvjms://23.237.32.182:8500:3507/live/cid=226
+lvtvbus://1WSdmYrTiYcYuK19Jh2hxjGTSZVja1oGTHUV1wsc4xPxACzYmT^6894
 http://cloud-play.hhalloy.com/live/4abe46a5faf4865e251ac981287a6e20.flvuseragentVLC/3.0.8 LibVLC/3.0.8
+lvvjms://23.237.32.182:8500:3507/live/cid=226
 lvvjms://58.215.133.185:8500:3502/live/cid=226
 lvxhtv://smart.m3u8?playurl=http://185.180.221.193:8278/sanlidouhui/playlist.m3u8
+rtmp://59.124.75.137/sat/md021.flvuseragentLavf/57.83.100
 ch,亚洲旅游,y,1,0,0
 http://cloud-play.hhalloy.com/live/a7003032346b06ad6a610ce1751be6a4.flv
 http://cloud-play.hhalloy.com/live/a7003032346b06ad6a610ce1751be6a4.flvuseragentLavf/57.83.100
@@ -627,6 +667,10 @@ http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.flvuseragent
 lvvjms://58.215.133.185:8500:3502/live/cid=115&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
 lvvjms://58.215.133.185:8500:3502/live/cid=361&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=T6aLGmAMqJQV8xanIN5J
 lvvjms://58.215.133.185:8500:3502/live/cid=115&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=pVG0khM9sENWYCo3WFiDe
+http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.flvuseragentVLC/3.0.8
+lvvjms://113.96.133.24:8500:3502/live/cid=263
+lvvjms://23.237.32.182:8500:3507/live/cid=263
+lvvjms://58.215.133.185:8500:3502/live/cid=263&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
 ch,国家地理高清,y,1,0,0
 http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.flv
 lvvjms://113.96.133.24:8500:3502/live/cid=263
@@ -638,6 +682,7 @@ ch,国家地理野生,y,1,0,0
 http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
 http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flvuseragentLavf/57.83.100
 http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flvuseragentVLC/3.0.8 LibVLC/3.0.8
+http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flvuseragentVLC/3.0.8
 ch,历史频道,y,1,0,0
 http://cloud-play.hhalloy.com/live/998ce23199bda76900024601f6dd859d.flv
 http://cloud-play.hhalloy.com/live/998ce23199bda76900024601f6dd859d.flvuseragentLavf/57.83.100
@@ -664,9 +709,10 @@ http://cloud-play.hhalloy.com/live/41a76576ae78436eb0951f2aee0c9bda.flvuseragent
 http://cloud-play.hhalloy.com/live/41a76576ae78436eb0951f2aee0c9bda.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 ch,游戏竞技,y,1,0,0
 http://cloud-play.hhalloy.com/live/713b1520322a7a59d37acd238a54e91d.flv
-http://cloud-play.hhalloy.com/live/713b1520322a7a59d37acd238a54e91d.flvuseragentLavf/57.83.100
-http://cloud-play.hhalloy.com/live/713b1520322a7a59d37acd238a54e91d.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 lvxhtv://pptv.m3u8?id=yxjj
+http://cloud-play.hhalloy.com/live/713b1520322a7a59d37acd238a54e91d.flvuseragentLavf/57.83.100
+http://livelnbfxmt.sobeycache.com/live/zb02.flv?auth_key=1589015930-0-0-d963f63cdfdb8a026a525ccddb9f906a
+http://cloud-play.hhalloy.com/live/713b1520322a7a59d37acd238a54e91d.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 ch,游戏风云,y,1,0,0
 http://cloud-play.hhalloy.com/live/3ff14f02ff5835a577e31e071cae79b4.flv
 lvxhtv://pptv.m3u8?id=yxfy
@@ -675,6 +721,7 @@ lvxhtv://mg.m3u8?id=623674816
 http://cloud-play.hhalloy.com/live/3ff14f02ff5835a577e31e071cae79b4.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 lvxhtv://gzyx.m3u8?id=yxfy
 lvxhtv://mg.m3u8?id=623674815
+tvdsj_migu3://623674816
 ch,曼迪日本台,y,1,0,0
 http://cloud-play.hhalloy.com/live/d9445086fd2dd474087674f638f2a8ed.flv
 http://cloud-play.hhalloy.com/live/d9445086fd2dd474087674f638f2a8ed.flvuseragentLavf/57.83.100
@@ -684,7 +731,6 @@ http://cloud-play.hhalloy.com/live/f737108ad740b942b32d751b0577d534.flv
 http://cloud-play.hhalloy.com/live/f737108ad740b942b32d751b0577d534.flvuseragentLavf/57.83.100
 http://cloud-play.hhalloy.com/live/f737108ad740b942b32d751b0577d534.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 http://pili-live-hdl.qhmywl.com/dsdtv/f737108ad740b942b32d751b0577d534.flvuseragentLavf/57.83.100
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 ch,影迷记实台,y,1,0,0
 http://cloud-play.hhalloy.com/live/a1d2d2be053776bb01c1aac37ac2dee4.flv
 http://cloud-play.hhalloy.com/live/a1d2d2be053776bb01c1aac37ac2dee4.flvuseragentLavf/57.83.100
@@ -717,27 +763,92 @@ ch,博斯运动2,y,1,0,0
 http://cloud-play.hhalloy.com/live/c71aa3f9ef9e92531a06863b9a731849.flv
 http://cloud-play.hhalloy.com/live/c71aa3f9ef9e92531a06863b9a731849.flvuseragentLavf/57.83.100
 http://cloud-play.hhalloy.com/live/c71aa3f9ef9e92531a06863b9a731849.flvuseragentVLC/3.0.8 LibVLC/3.0.8
+ch,华丽台,y,1,0,0
+lvtvbus://1k5JmA8sow34srvfXRg4TRTwukiC5JmRPFL3UfdhHJUM7pAeey^2733
+lvxhtv://smart.m3u8?playurl=http://50.7.161.82:8278/Wlt/playlist.m3u8
+ch,欢喜台,y,1,0,0
+lvtvbus://125Xm1oGEuhBu7iNYvndv86AwJJ7fxYAjxEGqzXTfLEqUfkBqZT^3065
+ch,双星台,y,1,0,0
+lvtvbus://129KgLEuaLQ7oG6rzZHcPrACNzPMhL77T6y87gzPTheHzLa7ady^7624
+ch,5频道,y,1,0,0
+lvtvbus://1afc8kEjoY4ix2yn6QifoZjjQX59uNKxPQYJny839zhXXhn2mU^3553
+ch,8频道,y,1,0,0
+lvtvbus://1L99Sn7x2r67RtPZQKF5S1AVVvfPpUnhTaAZ82y4JrMFxXC8CH^5363
+ch,星河,y,1,0,0
+lvtvbus://1aXas5SCqRiwiJJcJuKpBcZRDwe1BYLH65KQxmpbPpdoetP13q^4949
+lvxhtv://dl2.m3u8?id=xh
+ch,功夫,y,1,0,0
+lvxhtv://dl2.m3u8?id=gf
+ch,有线电影,y,1,0,0
+lvtvbus://12ZoSd78egstN7g4tgdG8iuVnwZMTsSYdd3ccowy2L9gTd9pkAF^2495
+ch,有线新闻,y,1,0,0
+lvtvbus://12gYb2oZ4dcAzTMS2EMoASk44xPqrQib2QWbuYDszBWTDuzfSZg^3235
+ch,开电视,y,1,0,0
+lvtvbus://1ZeBAKgnTZ5kiGHbnNeSPJ63Tm4zKDRJhX6dzytTYNPraQzUMX^0700
+ch,ViuTV,y,1,0,0
+lvtvbus://12cUx99dsgAyDi2UhqNEQARnQg1igWP33e7UMnE8WSUtuZjNY2r^2406
+http://59.148.103.41:8000/bysid/99
+ch,ViuTVsix,y,1,0,0
+http://59.148.103.41:8000/bysid/96
+ch,RHK31,y,1,0,0
+lvtvbus://12Jb9Laa77uM4KTTKY8zAkTASuN1S7VhhcNFKm8uPihjRBMoijp^7227
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
+ch,RHK32,y,1,0,0
+lvtvbus://12FKumCV7CWCnpKMf6wbkp5F7MWGimsyDeDHtbUQAgPkppRTgW9^5976
+ch,年代新闻,y,1,0,0
+lvvjms://113.96.133.24:8500:3502/live/cid=455
+lvtvbus://19ozTxdjWyrsp1x9RoUu5HtC9cSyeKgUTFHTg1ghELkDKVDW92^9356
+lvvjms://23.237.32.182:8500:3507/live/cid=455
+lvvjms://58.215.133.185:8500:3502/live/cid=455&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=vddgCK6fejvReRUjKw8ye
+lvvjms://58.215.133.185:8500:3502/live/cid=455&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=BxHygp3dh6COzXsikrxD
+ch,中天新闻频道,y,1,0,0
+lvtvbus://11HpcrMAWgFfFiKTXo2PW93FhQjrPzCYcYJFY1222pvcyzE5k2^0092
+ch,华视新闻频道,y,1,0,0
+lvtvbus://1EYGMY3LDdtfPTPeABNn63qhmEXoQjk1JvPMPMcxCoQwKta2qm^1930
+ch,台视新闻频道,y,1,0,0
+lvtvbus://199cyrnRQF3kqXUTufAHXUCKE36DGrShfxC8LZqdtKDXNJgDJy^4969
+ch,寰宇新闻,y,1,0,0
+lvtvbus://12rS5gTka6mjJQJG8pzXnvEj25Sd2z72Jn3L97P1d6Kgvnc1Uzq^8751
+http://cloud-play.hhalloy.com/live/4677cf6625ce01b236bbb58f99094d51.flvuseragentVLC/3.0.8
+ch,民视新闻,y,1,0,0
+lvvjms://113.96.133.24:8500:3502/live/cid=454
+lvtvbus://1oEot9DVcHMBvSVN8h8E3DtF79ffC6n5gkSkVBDwu9BD7F13Ub^3709
+lvvjms://23.237.32.182:8500:3507/live/cid=454
+lvvjms://58.215.133.185:8500:3502/live/cid=454&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=eyvSnEFnPpIWix4e7u8Ve
+ch,卫视卡式,y,1,0,0
+lvtvbus://1Ks14xEHxbRbQviEGBEH6TnTYL2cktXndUPCVuEsuJsc8E9zsA^2236
+ch,天映经典,y,1,0,0
+lvtvbus://12WRDYLGSC8RzULdMyP7Rm3Haxks2N2cMtZsXziZGQieTPQNztx^9625
+http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
+ch,中天亚洲,y,1,0,0
+lvtvbus://128wau4HzNn3YVeFjmqBv3zdm4F5Xywt4EDo9XTCmxvHaJhdn1E^6591
+ch,东森亚洲,y,1,0,0
+lvtvbus://12tyrWKj1e3wV6ugYg7LjAyq71b1xTxe18WpkwoLq1KeEoTjCzC^2309
+ch,Ettoday,y,1,0,0
+lvtvbus://1u4MR1gaEbMaCmSkUiEfkWde4tWbUCDLjEKJeHPjTPTP6PtH15^4321
+ch,Vtv4,y,1,0,0
+lvtvbus://12MHUXVwZbB3MRsjCef8sQMwUPyJ8RHvKDNKpkftYchDVGtPR9n
+ch,RITV,y,1,0,0
+lvtvbus://12THgQsAc29qESMFdwvbQz7ozTkpywNQ68RMYQftKwJxwwuCxUn
 ch,澳门卫视,x,1,0,0
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
-http://220.158.149.14:9999/live/TV00000000000000000029@HHZT;LIVE
 ch,澳亚卫视,x,1,0,0
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 lvvjms://113.96.133.24:8500:3502/live/cid=337
 http://live.mastvnet.com/n1rtlHG/500/live.m3u8
 lvvjms://23.237.32.182:8500:3507/live/cid=337
-http://220.158.149.14:9999/live/TV00000000000000000030@HHZT;LIVE
 lvvjms://58.215.133.185:8500:3502/live/cid=337&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=Ujr1VM8AG5FpF2ekylsie
 ch,澳门莲花,x,1,0,0
 lvxhtv://amlh.m3u8?id=mtv
 rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
 ch,无线新闻,x,1,0,0
 lvvjms://113.96.133.24:8500:3502/live/cid=366
-http://107.148.215.139:888/v/inews.php?id=inews
+lvtvbus://12KoRs7a6cMoRg692TQnkvD82RV2QCGMXxkNhSKx8sZpob23rZG^5670
 lvvjms://23.237.32.182:8500:3507/live/cid=366
 lvvjms://58.215.133.185:8500:3502/live/cid=366&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=O2OQLG1dyT5m29AZBrXQe
 ch,无线财经,x,1,0,0
 lvvjms://113.96.133.24:8500:3502/live/cid=363
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+lvtvbus://1gPq5BouPZ8qB5gX2nxCxtZUm93QfRQs4yeyh2k17ZoZK2tyiw^0460
 lvvjms://23.237.32.182:8500:3507/live/cid=363
 lvvjms://58.215.133.185:8500:3502/live/cid=363&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=O2OQLG1dyT5m29AZBrXQe
 ch,Animax,x,1,0,0
@@ -787,8 +898,9 @@ http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flvuseragent
 lvvjms://23.237.32.182:8500:3507/live/cid=418
 http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 lvvjms://58.215.133.185:8500:3502/live/cid=418&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
-http://220.158.149.14:9999/live/TV00000000000000000109@HHZT;LIVE
-http://ott-cdn.ucom.am/s24/index.m3u8
+http://cloud-play.hhalloy.com/live/6d735caeaf70f8901aa00f86aefc4dde.flvuseragentVLC/3.0.8
+https://streamingserver003.viewtvgroup.com:443/kapanglocal-playout-master/index.m3u8
+https://streamingserver003.viewtvgroup.com/kapanglocal-playout-master/tracks-v1a1/mono.m3u8
 ch,BBC儿童,x,1,0,0
 http://cloud-play.hhalloy.com/live/0a26c9cb6aa09e7a725a4449746baa05.flv
 http://cloud-play.hhalloy.com/live/0a26c9cb6aa09e7a725a4449746baa05.flvuseragentLavf/57.83.100
@@ -891,6 +1003,8 @@ http://cloud-play.hhalloy.com/live/ef2748398207873cae12b151ae78b0af.flvuseragent
 lvvjms://58.215.133.185:8500:3502/live/cid=397&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
 http://220.158.149.14:9999/live/TV00000000000000000114@HHZT;LIVE
 lvvjms://58.215.133.185:8500:3502/live/cid=365&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=JmfOv8lbuwTl9zQGP31Se
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+http://cloud-play.hhalloy.com/live/ef2748398207873cae12b151ae78b0af.flvuseragentVLC/3.0.8
 ch,DiscoveryScience,x,1,0,0
 lvvjms://113.96.133.24:8500:3502/live/cid=457
 lvvjms://23.237.32.182:8500:3507/live/cid=457
@@ -903,10 +1017,12 @@ lvvjms://23.237.32.182:8500:3507/live/cid=397
 http://cloud-play.hhalloy.com/live/a4aa25e01a432729323f4d0778605887.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 lvvjms://58.215.133.185:8500:3502/live/cid=365&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=JmfOv8lbuwTl9zQGP31Se
 http://pili-live-hdl.qhmywl.com/dsdtv/a4aa25e01a432729323f4d0778605887.flvuseragentLavf/57.83.100
+http://cloud-play.hhalloy.com/live/a4aa25e01a432729323f4d0778605887.flvuseragentVLC/3.0.8
 ch,ELTV生活英语,x,1,0,0
 http://cloud-play.hhalloy.com/live/094cb0c295f8bde2de59d5f421230dbd.flv
 http://cloud-play.hhalloy.com/live/094cb0c295f8bde2de59d5f421230dbd.flvuseragentLavf/57.83.100
 http://cloud-play.hhalloy.com/live/094cb0c295f8bde2de59d5f421230dbd.flvuseragentVLC/3.0.8 LibVLC/3.0.8
+http://cloud-play.hhalloy.com/live/094cb0c295f8bde2de59d5f421230dbd.flvuseragentVLC/3.0.8
 ch,ELTA体育,x,1,0,0
 lvvjms://113.96.133.24:8500:3502/live/cid=266
 lvvjms://23.237.32.182:8500:3507/live/cid=266
@@ -971,6 +1087,7 @@ ch,Fashion,x,1,0,0
 lvvjms://113.96.133.24:8500:3502/live/cid=399
 lvvjms://23.237.32.182:8500:3507/live/cid=399
 lvvjms://58.215.133.185:8500:3502/live/cid=399
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 ch,Familytheather,x,1,0,0
 lvvjms://58.215.133.184:8500:3502/live/cid=493
 lvvjms://58.215.133.185:8500/live/cid=493
@@ -1014,6 +1131,7 @@ lvvjms://23.237.32.182:8500:3507/live/cid=261
 http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 lvvjms://58.215.133.185:8500:3502/live/cid=261&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=MDXyxPv8vYDrzRSCmZt4e
 http://pili-live-hdl.qhmywl.com/dsdtv/357252de83720e30d40c00bfba69c497.flv
+http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flvuseragentVLC/3.0.8
 ch,HBO强档,x,1,0,0
 http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv
 lvvjms://113.96.133.24:8500:3502/live/cid=238
@@ -1071,6 +1189,7 @@ http://cloud-play.hhalloy.com/live/116911efa30e70c9cf64ea9a0e990a05.flvuseragent
 lvvjms://23.237.32.182:8500:3507/live/cid=52
 http://cloud-play.hhalloy.com/live/116911efa30e70c9cf64ea9a0e990a05.flvuseragentVLC/3.0.8 LibVLC/3.0.8
 lvvjms://58.215.133.185:8500:3502/live/cid=52&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
 ch,MTV Live,x,1,0,0
 http://cloud-play.hhalloy.com/live/6b59f7f02480efe838fcd91d9ada4f71.flv
 http://cloud-play.hhalloy.com/live/6b59f7f02480efe838fcd91d9ada4f71.flvuseragentLavf/57.83.100
@@ -1106,6 +1225,9 @@ lvvjms://58.215.133.184:8500:3502/live/cid=139&delay=200&httpbuf=200&memory=50|h
 http://pili-live-hdl.qhmywl.com/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.flvuseragentLavf/57.83.100
 lvvjms://58.215.133.185:8500:3502/live/cid=139&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
 http://b-nhkwtv-i.akamaihd.net/hls/live/263942-b/nhkwtv/index.m3u8
+http://pili-live-hdl.qhmywl.com/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.flvuseragentLavf/57.83.100#https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1180.m3u8
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_2100.m3u8
+http://cloud-play.hhalloy.com/live/6c2713799277ea6ea2d3bfd0d4c31f88.flvuseragentVLC/3.0.8
 ch,NHK世界,x,1,0,0
 http://cloud-play.hhalloy.com/live/1b06c6242b2fd17ab11a21d70abb2e67.flv
 http://cloud-play.hhalloy.com/live/1b06c6242b2fd17ab11a21d70abb2e67.flvuseragentLavf/57.83.100
@@ -1207,6 +1329,7 @@ ch,TVN,x,1,0,0
 http://cloud-play.hhalloy.com/live/060e39b20b7616170ba4ba63c53bc336.flv
 http://cloud-play.hhalloy.com/live/060e39b20b7616170ba4ba63c53bc336.flvuseragentLavf/57.83.100
 http://cloud-play.hhalloy.com/live/060e39b20b7616170ba4ba63c53bc336.flvuseragentVLC/3.0.8 LibVLC/3.0.8
+http://cloud-play.hhalloy.com/live/060e39b20b7616170ba4ba63c53bc336.flvuseragentVLC/3.0.8
 ch,Trace体育,x,1,0,0
 http://cloud-play.hhalloy.com/live/3b88f91a420e6cd59cd034ccf2a05c10.flv
 http://cloud-play.hhalloy.com/live/3b88f91a420e6cd59cd034ccf2a05c10.flvuseragentLavf/57.83.100
